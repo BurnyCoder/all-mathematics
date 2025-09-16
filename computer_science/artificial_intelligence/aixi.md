@@ -7,10 +7,10 @@ $$ a_t := \arg \max_{a_t} \sum_{o_t r_t} \ldots \max_{a_m} \sum_{o_m r_m} [r_t +
 - **Description**: AIXI is a theoretical mathematical formalism for artificial general intelligence (AGI). It provides a universal solution to the problem of an agent acting optimally in an unknown environment. It combines Solomonoff's theory of universal induction with sequential decision theory. In essence, AIXI considers every computable theory of the environment to be possible, weights them by their simplicity (Kolmogorov complexity), and uses this mixture of theories to make decisions. While it is incomputable, it serves as a gold standard for AGI and inspires the development of practical approximations.
 
 - **Subfields it's part of**:
-    - [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
-    - [Reinforcement Learning](./reinforcement_learning.md)
-    - [Algorithmic Information Theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
-    - [Decision Theory](https://en.wikipedia.org/wiki/Decision_theory)
+    - [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence): AIXI is a mathematical formalism for AGI, providing a theoretical model of an optimal general agent.
+    - [Reinforcement Learning](./reinforcement_learning.md): The AIXI agent is framed within a reinforcement learning setting, where it aims to maximize rewards from an unknown environment.
+    - [Algorithmic Information Theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory): AIXI uses concepts from Algorithmic Information Theory, like Kolmogorov complexity, to weigh the plausibility of different environmental models.
+    - [Decision Theory](https://en.wikipedia.org/wiki/Decision_theory): The agent's action selection process is an application of sequential decision theory to act optimally under uncertainty.
 
 - **Subfields and concepts it includes**:
     - **Solomonoff Induction**: Used for prediction, by taking a weighted average of all computable hypotheses that explain past observations.
