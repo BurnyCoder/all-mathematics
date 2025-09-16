@@ -6,18 +6,6 @@ where $\mathbf{w}$ is the **vector of weights** and $b$ is the **bias**, which a
 
 - **Description**: Artificial neural networks are a cornerstone of modern machine learning and artificial intelligence. They are a computational model inspired by the structure and function of biological neural networks. They are powerful tools for finding complex patterns in data. By adjusting their internal parameters (weights), they can learn to approximate complex, non-linear functions and perform tasks like classification, regression, and generation. Deep learning typically refers to ANNs with many stacked nonlinear transformations (deep architectures).
 
-- **More Concrete Variants**:
-    - **Feedforward Neural Network (FNN)**: The simplest type of ANN where connections between the nodes do not form a cycle.
-    - **[Convolutional Neural Network (CNN)](./cnn.md)**: A class of deep neural networks that use convolutions, most commonly applied to analyzing visual imagery.
-    - **[Recurrent Neural Network (RNN)](./rnn.md)**: A class of ANNs where connections between nodes form a directed graph along a temporal sequence.
-    - **[Long Short-Term Memory (LSTM)](./lstm.md)**: A specialized type of RNN designed to handle long-term dependencies.
-    - **[Transformer](./transformer.md)**: A deep learning architecture that relies on self-attention mechanisms instead of recurrence or convolution, becoming a standard for NLP and other sequence modeling tasks.
-
-- **Related Concepts**:
-    - **[Universal Approximation Theorem](./universal_approximation_theorem.md)**: This theorem provides the theoretical foundation that neural networks with a certain structure can, in principle, approximate any continuous function to any desired degree of accuracy
-    - **[Neural Tangent Kernel](./neural_tangent_kernel.md)**: A concept that helps to understand the training dynamics of very wide neural networks.
-    - **Probabilistic Graphical Models (PGMs)**: PGMs are a separate family of models for reasoning with uncertainty. While most ANNs are not PGMs, some variants like Boltzmann machines can be formulated as PGMs.
-
 - **Subfields it's part of**:
     - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - ANNs are a primary tool for building models that learn from data.
     - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - They are a cornerstone of modern AI, powering many intelligent systems.
@@ -46,6 +34,16 @@ where $\mathbf{w}$ is the **vector of weights** and $b$ is the **bias**, which a
     - **Recommender Systems**: Powering recommendations on platforms like Netflix and Amazon.
     - **Medical Diagnosis**: Analyzing medical images and predicting diseases.
 
+- **More Concrete Variants**:
+    - **Feedforward Neural Network (FNN)**: The simplest type of ANN where connections between the nodes do not form a cycle.
+    - **[Convolutional Neural Network (CNN)](./cnn.md)**: A class of deep neural networks that use convolutions, most commonly applied to analyzing visual imagery.
+    - **[Recurrent Neural Network (RNN)](./rnn.md)**: A class of ANNs where connections between nodes form a directed graph along a temporal sequence.
+    - **[Long Short-Term Memory (LSTM)](./lstm.md)**: A specialized type of RNN designed to handle long-term dependencies.
+    - **[Transformer](./transformer.md)**: A deep learning architecture that relies on self-attention mechanisms instead of recurrence or convolution, becoming a standard for NLP and other sequence modeling tasks.
 
+- **Related Concepts**:
+    - **[Universal Approximation Theorem](./universal_approximation_theorem.md)**: This theorem provides the theoretical foundation that neural networks with a certain structure can, in principle, approximate any continuous function to any desired degree of accuracy
+    - **[Neural Tangent Kernel](./neural_tangent_kernel.md)**: A concept that helps to understand the training dynamics of very wide neural networks.
+    - **Probabilistic Graphical Models (PGMs)**: PGMs are a separate family of models for reasoning with uncertainty. While most ANNs are not PGMs, some variants like Boltzmann machines can be formulated as PGMs.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Artificial_neural_network](https://en.wikipedia.org/wiki/Artificial_neural_network)
