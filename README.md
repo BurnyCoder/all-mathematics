@@ -101,8 +101,12 @@ This knowledge base can be navigated in several ways:
 │   │   └── standard_model.md
 │   ├── quantum_mechanics
 │   │   └── schrodinger_equation.md
+│   ├── quantum_field_theory
+│   │   └── quantum_field_theory.md
 │   ├── special_relativity
 │   │   └── special_relativity.md
+│   ├── string_theory
+│   │   └── string_theory.md
 │   └── thermodynamics
 │       ├── boltzmanns_entropy_formula.md
 │       ├── entropy_production.md

@@ -86,11 +86,14 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Algorithm](../computer_science/algorithms_and_data_structures/algorithm.md)
 
 ### Machine Learning
-- [Artificial Neural Network](../computer_science/machine_learning/artificial_neural_network.md)
+- [Artificial Neural Network](../computer_science/machine_learning/deep_learning/artificial_neural_network.md)
+- [Convolutional Neural Network (CNN)](../computer_science/machine_learning/deep_learning/cnn.md)
+- [Recurrent Neural Network (RNN)](../computer_science/machine_learning/deep_learning/rnn.md)
+- [Long Short-Term Memory (LSTM)](../computer_science/machine_learning/deep_learning/lstm.md)
+- [Transformer](../computer_science/machine_learning/deep_learning/transformer.md)
 - [Gradient Descent](../computer_science/machine_learning/gradient_descent.md)
-- [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md)
+- [Neural Tangent Kernel](../computer_science/machine_learning/deep_learning/neural_tangent_kernel.md)
 - [Support Vector Machine](../computer_science/machine_learning/svm.md)
-- [Transformer](../computer_science/machine_learning/transformer.md)
 - [Regression Analysis](../computer_science/machine_learning/regression_analysis.md)
 
 ### Artificial Intelligence

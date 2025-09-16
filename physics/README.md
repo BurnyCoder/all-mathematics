@@ -11,7 +11,10 @@ Physics is the natural science that studies matter, its fundamental constituents
 - [Maxwell's Equations](./electromagnetism/maxwells_equations.md)
 
 ### [Quantum Mechanics](./quantum_mechanics/)
-- [Schrödinger Equation](./quantum_mechanics/schrodinger_equation.md)
+- [Schrödinger Equation](./quantum_mechanics/schrödinger_equation.md)
+
+### [Quantum Field Theory](./quantum_field_theory/)
+- [Quantum Field Theory](./quantum_field_theory/quantum_field_theory.md)
 
 ### [Analytical Mechanics](./analytical_mechanics/)
 - [Lagrangian Mechanics](./analytical_mechanics/lagrangian_mechanics.md)

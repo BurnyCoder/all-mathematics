@@ -1,0 +1,47 @@
+# String Theory
+
+- **Mathematical Definition**: String theory proposes that the fundamental constituents of the universe are one-dimensional "strings" rather than zero-dimensional point particles. The dynamics of a string are described by the principles of quantum mechanics. As a string propagates through spacetime, it sweeps out a two-dimensional surface called a **worldsheet**. The physics on the worldsheet is described by a two-dimensional conformal field theory. The action for a bosonic string, known as the **Polyakov action**, is a generalization of the [principle of least action](../analytical_mechanics/principle_of_least_action.md) and is given by:
+$$ S = -\frac{T}{2} \int d^2\sigma \sqrt{-h} h^{ab} g_{\mu\nu} \partial_a X^\mu \partial_b X^\nu $$
+  Here, $T$ is the string tension, $d^2\sigma$ are coordinates on the worldsheet, $g_{\mu\nu}$ is the metric of the target spacetime [manifold](../../pure_mathematics/geometry/manifold.md) in which the string moves, and $h_{ab}$ is the metric on the worldsheet. The functions $X^\mu(\sigma)$ describe the embedding of the string's worldsheet into the target spacetime. The theory is quantized by performing a path integral over all possible worldsheet surfaces and spacetime embeddings, a concept inherited from [Quantum Field Theory](./quantum_field_theory.md). The requirement of mathematical consistency (e.g., absence of anomalies) constrains the dimensionality of spacetime, typically to 26 for bosonic strings and 10 for superstrings.
+
+- **Description**: String theory is a theoretical framework that aims to unify [General Relativity](../general_relativity/einstein_field_equations.md) and [Quantum Mechanics](../quantum_mechanics/schrodinger_equation.md), providing a candidate for a "theory of everything". It replaces the concept of point particles from [particle physics](../particle_physics/standard_model.md) with one-dimensional, vibrating strings. Different vibrational modes of a string correspond to different particles with different properties, such as mass and charge. For instance, one mode might represent an electron, while another represents a photon. At energies much lower than the characteristic string energy scale, these strings are indistinguishable from point particles.
+
+- **Subfields it's part of**:
+    - [Theoretical Physics](https://en.wikipedia.org/wiki/Theoretical_physics): It is a major branch of theoretical physics.
+    - [Quantum Gravity](https://en.wikipedia.org/wiki/Quantum_gravity): It is the most studied candidate for a quantum theory of gravity.
+    - [Particle Physics](../particle_physics/standard_model.md): It aims to provide a unified description of all fundamental particles and forces.
+    - [Quantum Field Theory](./quantum_field_theory.md): It can be viewed as a significant extension of QFT, where 0-dimensional point particles are replaced by 1-dimensional strings.
+
+- **Subfields and concepts it includes**:
+    - **Strings and Branes**: The fundamental objects of the theory. Strings are one-dimensional, while branes (short for membranes) are higher-dimensional objects that strings can begin and end on. Their study involves concepts from [topology](../../pure_mathematics/topology/topological_space.md) and [geometry](../../pure_mathematics/geometry/manifold.md).
+    - **Extra Dimensions**: To be mathematically consistent, string theory requires more than the three spatial dimensions and one time dimension we observe. These extra dimensions are thought to be "compactified" or curled up on a very small scale, a concept from [topology](../../pure_mathematics/topology/topological_space.md).
+    - **[Supersymmetry (SUSY)](https://en.wikipedia.org/wiki/Supersymmetry)**: A symmetry that relates the two fundamental classes of particles, bosons and fermions. Most string theories are superstring theories, meaning they incorporate supersymmetry. This helps stabilize the theory and is crucial for describing fermions. The underlying mathematical structure is that of a graded Lie algebra, a concept from [algebra](../../pure_mathematics/algebra/group.md).
+    - **Dualities**: These are deep mathematical equivalences that show that different-looking string theories are actually different descriptions of the same underlying physics. Examples include T-duality, S-duality, and U-duality. These often relate concepts from different areas of mathematics, like [geometry](../../pure_mathematics/geometry/manifold.md) and [topology](../../pure_mathematics/topology/topological_space.md).
+    - **AdS/CFT Correspondence**: Also known as gauge/gravity duality, it is a powerful conjecture relating a string theory defined in an Anti-de Sitter (AdS) spacetime to a conformal field theory (CFT) defined on the boundary of that spacetime. It provides a non-perturbative definition of string theory in certain spacetimes. This heavily uses concepts from differential [geometry](../../pure_mathematics/geometry/manifold.md) and [group theory](../../pure_mathematics/algebra/group.md).
+    - **Conformal Field Theory (CFT)**: A [Quantum Field Theory](./quantum_field_theory.md) that is invariant under conformal transformations. The physics on the 2D worldsheet of the string is described by a CFT. Mathematically, it is deeply connected to complex [analysis](../../pure_mathematics/analysis/derivative.md), representation theory (a part of [algebra](../../pure_mathematics/algebra/group.md)), and the theory of infinite-dimensional Lie algebras.
+    - **Calabi-Yau Manifolds**: These are complex [manifolds](../../pure_mathematics/geometry/manifold.md) that are the primary candidates for the shape of the compactified extra dimensions in superstring theory. Their geometry determines the properties of the observed particles in the 4D world. This connects string theory to advanced topics in algebraic and differential [geometry](../../pure_mathematics/geometry/manifold.md).
+
+- **Applications**:
+    - **Quantum Gravity**: Provides a mathematically consistent framework that unifies general relativity and quantum mechanics, resolving the problem of non-renormalizable infinities that arise when trying to quantize gravity in a standard QFT framework.
+    - **Black Hole Physics**: String theory has successfully provided a microscopic description of black hole entropy, reproducing the Bekenstein-Hawking formula for certain types of black holes.
+    - **Cosmology**: Offers models for the early universe, including mechanisms for cosmic inflation (brane inflation) and potential explanations for dark matter and dark energy.
+    - **[Nuclear Physics](https://en.wikipedia.org/wiki/Nuclear_physics)**: Via the AdS/CFT correspondence, it provides tools to study strongly coupled systems like the quark-gluon plasma produced in heavy-ion collisions.
+    - **[Condensed Matter Physics](https://en.wikipedia.org/wiki/Condensed_matter_physics)**: The AdS/CFT correspondence is also used to model and gain insights into strongly correlated electron systems and other phenomena in condensed matter theory, such as high-temperature superconductivity.
+    - **[Pure Mathematics](../../pure_mathematics/README.md)**: The study of string theory has led to profound discoveries in mathematics, including mirror symmetry in algebraic geometry, monstrous moonshine, and new invariants of [manifolds](../../pure_mathematics/geometry/manifold.md).
+
+- **More Concrete Variants**:
+    - **Bosonic String Theory**: The earliest version of string theory. It only contains bosons, has a tachyon (a particle that travels faster than light, indicating an instability), and lives in 26 spacetime dimensions.
+    - **Superstring Theory**: An extension of bosonic string theory that includes fermions and incorporates supersymmetry. There are five consistent superstring theories in 10 spacetime dimensions: Type I, Type IIA, Type IIB, SO(32) heterotic, and E8 x E8 heterotic.
+
+- **More General Variants**:
+    - **M-theory**: A proposed 11-dimensional theory, conjectured by Edward Witten to be the underlying theory that unifies all five consistent 10-dimensional superstring theories. Its low-energy limit is 11-dimensional supergravity.
+    - **F-theory**: A 12-dimensional theory that is not a separate theory but is used as a tool to describe strongly-coupled Type IIB superstring theory compactifications.
+
+- **Related Concepts**:
+    - **[Quantum Field Theory](./quantum_field_theory.md)**: String theory builds upon and generalizes the concepts of quantum field theory.
+    - **[General Relativity](../general_relativity/einstein_field_equations.md)**: In the low-energy limit, string theory must reproduce general relativity to be a valid theory of gravity.
+    - **[Standard Model](../particle_physics/standard_model.md)**: A major goal of string phenomenology is to find a compactification of string theory that reproduces the Standard Model of particle physics in the low-energy limit.
+    - **[Kaluza-Klein Theory](https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory)**: A precursor theory that attempted to unify gravity and electromagnetism using a fifth dimension. String theory's use of extra dimensions is a modern evolution of this idea.
+    - **[Manifolds](../../pure_mathematics/geometry/manifold.md)**: The geometry of the compactified extra dimensions, often described by Calabi-Yau manifolds, plays a crucial role in determining the physics we observe.
+
+- **Wikipedia**: [https://en.wikipedia.org/wiki/String_theory](https://en.wikipedia.org/wiki/String_theory)
