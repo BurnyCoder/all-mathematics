@@ -16,13 +16,16 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
     - **Neuron**: The basic computational unit of the network.
     - **Activation Function**: A non-linear function that determines the output of a neuron.
     - **Layer**: A collection of neurons that operate together.
-    - **Loss Function**: A function that measures the difference between the network's prediction and the actual target, which the network aims to minimize.
-    - **Backpropagation**: An algorithm used to efficiently compute the gradients of the loss function with respect to the network's weights. The chain rule from [calculus](../../pure_mathematics/analysis/derivative.md) is the foundation of the backpropagation algorithm.
-    - **Gradient Descent**: An iterative optimization algorithm used to find the minimum of the loss function.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
-        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
-        - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: The weights and inputs of neural networks are represented as matrices.
-        - **[Linear Transformation](../../pure_mathematics/linear_algebra/linear_transformation.md)**: Each layer in a neural network applies a linear transformation to its inputs.
+    - **Loss Function**: A function that measures the difference between the network's prediction and the actual target, which the network aims to minimize. This is a central concept in optimization theory.
+    - **Backpropagation**: An algorithm used to efficiently compute the gradients of the loss function with respect to the network's weights. The chain rule from [calculus](../../../pure_mathematics/analysis/derivative.md) is the foundation of the backpropagation algorithm.
+    - **Gradient Descent**: An iterative optimization algorithm used to find the minimum of the loss function by using the [derivative](../../../pure_mathematics/analysis/derivative.md).
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
+        - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
+        - **Tensors and [Matrices](../../../pure_mathematics/linear_algebra/matrix.md)**: In general, weights and inputs are represented as tensors. A matrix (a 2D tensor) is very common, for example, representing the weights in a dense layer. Inputs (like images or video) and the kernels of convolutional layers are often higher-order tensors.
+        - **Affine Transformation**: Most layers perform an affine transformation ($W\mathbf{x} + b$) followed by a non-linear activation function. Some common layers (e.g., attention, normalization, pooling) are not simple affine transformations.
+    - **Calculus**: The branch of mathematics that provides the tools for optimizing neural networks.
+        - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: Used to calculate the gradient of the loss function, indicating the direction of steepest ascent, so optimization algorithms like gradient descent move in the opposite direction to find the function's minimum.
+        - **Chain Rule**: The fundamental rule for differentiating composite functions, which is the cornerstone of the backpropagation algorithm.
 
 - **Applications**:
     - **Computer Vision**: Image recognition, object detection, and image segmentation.
@@ -33,11 +36,14 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
 
 - **More Concrete Variants**:
     - **Feedforward Neural Network (FNN)**: The simplest type of ANN where connections between the nodes do not form a cycle.
-    - **Convolutional Neural Network (CNN)**: A class of deep neural networks, most commonly applied to analyzing visual imagery.
-    - **Recurrent Neural Network (RNN)**: A class of ANNs where connections between nodes form a directed graph along a temporal sequence, allowing them to exhibit temporal dynamic behavior.
+    - **[Convolutional Neural Network (CNN)](./cnn.md)**: A class of deep neural networks, most commonly applied to analyzing visual imagery.
+    - **[Recurrent Neural Network (RNN)](./rnn.md)**: A class of ANNs where connections between nodes form a directed graph along a temporal sequence, allowing them to exhibit temporal dynamic behavior.
+    - **[Long Short-Term Memory (LSTM)](./lstm.md)**: A specialized type of RNN designed to handle long-term dependencies.
     - **[Transformer](./transformer.md)**: A deep learning architecture that relies on self-attention mechanisms instead of recurrence or convolution, becoming a standard for NLP and other sequence modeling tasks.
 
-- **More General Variants**:
-    - **Probabilistic Graphical Models**: A broader class of models for representing and reasoning about uncertainty, of which some neural networks can be seen as a specific type.
+- **Related Concepts**:
+    - **[Universal Approximation Theorem](./universal_approximation_theorem.md)**: This theorem provides the theoretical foundation that a neural network can approximate any continuous function on a compact set to arbitrary accuracy, given a suitable activation function and sufficient network width.
+    - **[Neural Tangent Kernel](./neural_tangent_kernel.md)**: A concept that helps to understand the training dynamics of very wide neural networks.
+    - **Probabilistic Graphical Models (PGMs)**: PGMs are a separate family of models for reasoning with uncertainty. While most ANNs are not PGMs, some variants like Boltzmann machines can be formulated as PGMs.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Artificial_neural_network](https://en.wikipedia.org/wiki/Artificial_neural_network)
