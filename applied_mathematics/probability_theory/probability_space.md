@@ -13,6 +13,7 @@
     - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
     - [Measure Theory](https://en.wikipedia.org/wiki/Measure_theory)
     - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)
+    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
 
 - **Subfields and concepts it includes**:
     - **Random Variable**: A function from the sample space $\Omega$ to a measurable space (like the real numbers).
@@ -21,6 +22,7 @@
     - **Variance**: A measure of how spread out the values of a random variable are from its expected value.
     - **Conditional Probability**: The probability of an event occurring, given that another event has already occurred.
     - **Independence**: Two events are independent if the occurrence of one does not affect the probability of the other.
+    - **[Calculus](../../../pure_mathematics/analysis/integral.md)**: For continuous random variables, probabilities are calculated by integrating a probability density function.
 
 - **Applications**:
     - **Statistics**: Provides the theoretical foundation for statistical inference and data analysis.
@@ -38,8 +40,6 @@
     - **Measure Space**: A probability space is a specific type of measure space where the total measure is 1.
 
 - **Related Concepts**:
-    - **[Set Theory](../../foundations_of_mathematics/set_theory/set.md)**: The sample space and event space are sets.
-    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: For continuous random variables, probabilities are calculated by integrating a probability density function.
     - **Measure Theory**: Probability theory is a branch of measure theory.
     - **Statistics**: The application of probability theory to the analysis of data.
 

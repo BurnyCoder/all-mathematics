@@ -13,11 +13,12 @@ $$ \frac{dp_j}{dt} = -\frac{\partial H}{\partial q_j} $$
     - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics)
     - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
     - [Symplectic Geometry](https://en.wikipedia.org/wiki/Symplectic_geometry)
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - **Subfields and concepts it includes**:
     - **Hamiltonian**: The total energy of the system as a function of position and momentum.
     - **Generalized Momenta**: Momenta corresponding to the generalized coordinates.
-    - **Phase Space**: A space in which all possible states of a system are represented, with each possible state corresponding to a unique point.
+    - **Phase Space**: A space in which all possible states of a system are represented, with each possible state corresponding to a unique point. The phase space of Hamiltonian mechanics is a [symplectic manifold](../../../pure_mathematics/geometry/manifold.md).
     - **Hamilton's Equations**: The first-order differential equations of motion.
     - **Poisson Brackets**: A mathematical tool in Hamiltonian mechanics, which has a direct analogue in the commutators of quantum mechanics.
 
@@ -36,8 +37,6 @@ $$ \frac{dp_j}{dt} = -\frac{\partial H}{\partial q_j} $$
 
 - **Related Concepts**:
     - **[Lagrangian Mechanics](./lagrangian_mechanics.md)**: Hamiltonian mechanics is derived from Lagrangian mechanics via a Legendre transformation.
-    - **[Differential Equation](../../../applied_mathematics/differential_equations/differential_equation.md)**: Hamilton's equations of motion are a system of first-order ordinary differential equations.
-    - **[Manifold](../../../pure_mathematics/geometry/manifold.md)**: The phase space of Hamiltonian mechanics is a symplectic manifold.
     - **[Schrödinger Equation](../quantum_mechanics/schrodinger_equation.md)**: The formulation of quantum mechanics is based on the Hamiltonian.
     - **Conservation of Energy**: If the Hamiltonian does not explicitly depend on time, it is a conserved quantity, representing the total energy of the system.
 

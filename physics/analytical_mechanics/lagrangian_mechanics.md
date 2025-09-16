@@ -14,6 +14,7 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\pa
     - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics)
     - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
     - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations)
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - **Subfields and concepts it includes**:
     - **Lagrangian**: The core function $L = T - V$.
@@ -21,6 +22,9 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\pa
     - **[Principle of Stationary Action](./principle_of_least_action.md)**: The physical principle that the action is minimized or maximized.
     - **Generalized Coordinates**: A set of parameters that can describe the configuration of the system.
     - **Euler-Lagrange Equations**: The equations of motion derived from the principle of stationary action.
+    - **[Calculus](../../../pure_mathematics/analysis/)**:
+        - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The Lagrangian is a function of coordinates and their time derivatives.
+        - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The action, from which the equations of motion are derived, is the integral of the Lagrangian.
 
 - **Applications**:
     - **Physics**: It is the preferred formalism for writing down theories in modern physics, from classical field theory and general relativity to quantum field theory.
@@ -36,9 +40,6 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\pa
 
 - **Related Concepts**:
     - **[Newton's Laws of Motion](../classical_mechanics/newtons_laws.md)**: The Euler-Lagrange equations are equivalent to Newton's second law for many systems.
-    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: The Euler-Lagrange equations are a system of differential equations.
-    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The Lagrangian is a function of coordinates and their time derivatives.
-    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The action, from which the equations of motion are derived, is the integral of the Lagrangian.
     - **Calculus of Variations**: The mathematical field that deals with finding minima or maxima of functionals (mappings from a set of functions to the real numbers), which is the mathematical basis for Lagrangian mechanics.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Lagrangian_mechanics](https://en.wikipedia.org/wiki/Lagrangian_mechanics)

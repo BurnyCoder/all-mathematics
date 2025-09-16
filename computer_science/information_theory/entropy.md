@@ -11,6 +11,7 @@ $$ H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) $$
     - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
     - [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
     - [Statistical Mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)
+    - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 
 - **Subfields and concepts it includes**:
     - **Information Content (Self-information)**: The amount of "surprise" associated with a single outcome.
@@ -18,6 +19,7 @@ $$ H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) $$
     - **Conditional Entropy**: The entropy of a random variable given knowledge of another variable.
     - **Mutual Information**: A measure of the mutual dependence between two random variables.
     - **Cross-Entropy**: A measure of the difference between two probability distributions.
+    - **[Calculus](../../../pure_mathematics/analysis/limit.md)**: The concept of entropy for continuous variables (differential entropy) involves integrals, which are defined through limits.
 
 - **Applications**:
     - **Data Compression**: The entropy of a data source specifies the theoretical lower bound on the average number of bits per symbol required to compress it without loss (e.g., in ZIP or PNG files).
@@ -36,8 +38,6 @@ $$ H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) $$
 
 - **Related Concepts**:
     - **[Random Variable](../../../applied_mathematics/probability_theory/random_variable.md)**: Entropy is a property of the probability distribution of a random variable.
-    - **[Combinatorics](../../../pure_mathematics/discrete_mathematics/combinatorics/combinations_and_permutations.md)**: Entropy is related to the number of possible arrangements of a system, a core concept in combinatorics.
-    - **[Limit](../../../pure_mathematics/analysis/limit.md)**: The concept of entropy for continuous variables (differential entropy) involves integrals, which are defined through limits.
     - **Thermodynamic Entropy**: The concept in statistical mechanics is deeply connected to Shannon entropy.
     - **Kolmogorov Complexity**: A measure of the computational complexity of an object, which is related to its information content.
 

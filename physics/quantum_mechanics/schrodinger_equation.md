@@ -14,6 +14,9 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
     - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
     - [Physics](https://en.wikipedia.org/wiki/Physics)
     - [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation)
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
+    - [Fourier Analysis](https://en.wikipedia.org/wiki/Fourier_analysis)
 
 - **Subfields and concepts it includes**:
     - **Wave Function ($\Psi$)**: The mathematical description of the quantum state of a system.
@@ -21,6 +24,8 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
     - **Probability Density**: The probability per unit volume of finding a particle at a given location.
     - **Quantum State**: The state of an isolated quantum system.
     - **Superposition**: The principle that a quantum system can be in multiple states at the same time.
+    - **[Eigenvectors and Eigenvalues](../../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Solving the time-independent Schrödinger equation is an eigenvalue problem for the Hamiltonian operator.
+    - **[Calculus](../../../pure_mathematics/analysis/integral.md)**: The wave function is normalized by requiring its squared magnitude to integrate to 1.
 
 - **Applications**:
     - **Chemistry**: Determining the electronic structure of atoms and molecules (quantum chemistry).
@@ -38,13 +43,5 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
     - **Dirac Equation**: A relativistic wave equation that describes electrons and is consistent with both quantum mechanics and special relativity.
     - **Klein-Gordon Equation**: A relativistic wave equation for spin-0 particles.
     - **Quantum Field Theory (QFT)**: The framework that extends quantum mechanics to fields, providing the basis for the Standard Model of particle physics.
-
-- **Related Concepts**:
-    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: The Schrödinger equation is a specific type of partial differential equation.
-    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: The state of a quantum system is represented by a vector in a Hilbert space, and physical observables are represented by Hermitian operators.
-    - **[Eigenvectors and Eigenvalues](../../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Solving the time-independent Schrödinger equation is an eigenvalue problem for the Hamiltonian operator.
-    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The wave function is normalized by requiring its squared magnitude to integrate to 1.
-    - **[Probability Theory](../../applied_mathematics/probability_theory/)**: The output of the equation is interpreted probabilistically.
-    - **Fourier Analysis**: Used extensively to solve the equation and to move between position and momentum representations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)

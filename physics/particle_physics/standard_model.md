@@ -12,6 +12,7 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
     - [Particle Physics](https://en.wikipedia.org/wiki/Particle_physics)
     - [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
     - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics)
+    - [Group Theory](https://en.wikipedia.org/wiki/Group_theory)
 
 - **Subfields and concepts it includes**:
     - **Elementary Particles**: The fundamental constituents of matter (quarks, leptons) and force (gauge bosons).
@@ -20,6 +21,8 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
     - **Higgs Mechanism**: The process by which elementary particles acquire mass.
     - **Quantum Chromodynamics (QCD)**: The theory of the strong interaction (governed by $SU(3)_C$).
     - **Electroweak Theory**: The unified theory of the electromagnetic and weak interactions (governed by $SU(2)_L \times U(1)_Y$).
+    - **[Lie Groups](../../../pure_mathematics/algebra/group.md)**: The symmetries of the Standard Model are described by Lie groups.
+    - **[Fields](../../../pure_mathematics/algebra/field.md)**: Quantum field theories describe the dynamics of fields.
 
 - **Applications**:
     - **Particle Accelerators**: The theory is used to predict and interpret the results of experiments at facilities like the Large Hadron Collider (LHC).
@@ -35,8 +38,6 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
 
 - **Related Concepts**:
     - **[Lagrangian Mechanics](../analytical_mechanics/lagrangian_mechanics.md)**: The entire theory is formulated in terms of a Lagrangian.
-    - **[Group](../../../pure_mathematics/algebra/group.md)**: The symmetries of the Standard Model are described by Lie groups.
-    - **[Field](../../../pure_mathematics/algebra/field.md)**: Quantum field theories describe the dynamics of fields.
     - **[Special Relativity](../special_relativity/special_relativity.md)**: The theory is a relativistic quantum field theory, consistent with special relativity.
     - **[General Relativity](../general_relativity/einstein_field_equations.md)**: The Standard Model does not include gravity, and unifying it with general relativity is a major unsolved problem in physics.
 

@@ -10,14 +10,19 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
     - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
     - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
     - [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
+    - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 
 - **Subfields and concepts it includes**:
     - **Neuron**: The basic computational unit of the network.
     - **Activation Function**: A non-linear function that determines the output of a neuron.
     - **Layer**: A collection of neurons that operate together.
     - **Loss Function**: A function that measures the difference between the network's prediction and the actual target, which the network aims to minimize.
-    - **Backpropagation**: An algorithm used to efficiently compute the gradients of the loss function with respect to the network's weights.
+    - **Backpropagation**: An algorithm used to efficiently compute the gradients of the loss function with respect to the network's weights. The chain rule from [calculus](../../pure_mathematics/analysis/derivative.md) is the foundation of the backpropagation algorithm.
     - **Gradient Descent**: An iterative optimization algorithm used to find the minimum of the loss function.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
+        - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: The weights and inputs of neural networks are represented as matrices.
+        - **[Linear Transformation](../../pure_mathematics/linear_algebra/linear_transformation.md)**: Each layer in a neural network applies a linear transformation to its inputs.
 
 - **Applications**:
     - **Computer Vision**: Image recognition, object detection, and image segmentation.
@@ -34,13 +39,5 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
 
 - **More General Variants**:
     - **Probabilistic Graphical Models**: A broader class of models for representing and reasoning about uncertainty, of which some neural networks can be seen as a specific type.
-
-- **Related Concepts**:
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
-    - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The chain rule from calculus is the foundation of the backpropagation algorithm.
-    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: The weights and inputs of neural networks are represented as matrices.
-    - **[Linear Transformation](../../pure_mathematics/linear_algebra/linear_transformation.md)**: Each layer in a neural network applies a linear transformation to its inputs.
-    - **[Optimization](../optimization/optimization.md)**: The process of training a neural network is an optimization problem.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Artificial_neural_network](https://en.wikipedia.org/wiki/Artificial_neural_network)

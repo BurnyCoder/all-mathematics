@@ -15,14 +15,17 @@ $$ z' = z $$
 - **Subfields it's part of**:
     - [Relativity](https://en.wikipedia.org/wiki/Theory_of_relativity)
     - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics)
+    - [Geometry](https://en.wikipedia.org/wiki/Geometry)
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
 - **Subfields and concepts it includes**:
-    - **Spacetime**: The four-dimensional manifold combining space and time.
+    - **Spacetime**: The four-dimensional manifold combining space and time. Spacetime is a specific type of [manifold](../../pure_mathematics/geometry/manifold.md) (Minkowski space).
     - **Lorentz Transformation**: The mathematical transformation that describes how measurements of space and time by two observers are related.
     - **Time Dilation**: The phenomenon where time passes slower for an observer who is moving relative to another observer.
     - **Length Contraction**: The phenomenon where the length of an object is measured to be shorter in its direction of motion.
     - **Mass-Energy Equivalence ($E=mc^2$)**: The principle that mass and energy are equivalent and inter-convertible.
-    - **Minkowski Space**: The mathematical setting for special relativity, a four-dimensional vector space with a non-Euclidean metric.
+    - **Minkowski Space**: The mathematical setting for special relativity, a four-dimensional [vector space](../../../pure_mathematics/linear_algebra/vector_space.md) with a non-Euclidean metric.
+    - **[Linear Transformation](../../../pure_mathematics/linear_algebra/linear_transformation.md)**: The Lorentz transformations are linear transformations that preserve the spacetime interval.
 
 - **Applications**:
     - **Particle Physics**: The theory is essential for describing the behavior of subatomic particles in particle accelerators.
@@ -38,8 +41,5 @@ $$ z' = z $$
 - **Related Concepts**:
     - **[Maxwell's Equations](../electromagnetism/maxwells_equations.md)**: The invariance of the speed of light, a consequence of Maxwell's equations, was a key motivation for the development of special relativity.
     - **[Newtonian Mechanics](../classical_mechanics/newtons_laws.md)**: Special relativity reduces to Newtonian mechanics at speeds much slower than the speed of light.
-    - **[Manifold](../../pure_mathematics/geometry/manifold.md)**: Spacetime is a specific type of manifold (Minkowski space).
-    - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: Spacetime is treated as a 4D vector space.
-    - **[Linear Transformation](../../../pure_mathematics/linear_algebra/linear_transformation.md)**: The Lorentz transformations are linear transformations that preserve the spacetime interval.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Special_relativity](https://en.wikipedia.org/wiki/Special_relativity)

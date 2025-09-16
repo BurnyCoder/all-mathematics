@@ -14,13 +14,18 @@ The goal of the agent is to learn a **policy** $\pi(a|s)$, which is a strategy f
     - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
     - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
     - [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
+    - [Optimal Control](https://en.wikipedia.org/wiki/Optimal_control)
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
 
 - **Subfields and concepts it includes**:
-    - **Markov Decision Process (MDP)**: The mathematical framework for modeling RL problems.
+    - **Markov Decision Process (MDP)**: The mathematical framework for modeling RL problems. A Markov Decision Process can be represented as a state transition [graph](../../pure_mathematics/discrete_mathematics/graph_theory/graph.md).
     - **Policy**: The strategy of the agent.
     - **Value Function**: A function that estimates the expected long-term return of being in a certain state.
     - **Q-Learning**: A popular model-free RL algorithm.
     - **Exploration vs. Exploitation Trade-off**: The dilemma of choosing between trying new actions to discover their rewards (exploration) and choosing actions that are known to yield high rewards (exploitation).
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**:
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The value function, which estimates the expected return from each state, can be represented as a vector.
+        - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Transition probabilities and value functions are often manipulated as matrices and vectors.
 
 - **Applications**:
     - **Robotics**: Training robots to perform complex tasks like walking and manipulation.
@@ -39,11 +44,6 @@ The goal of the agent is to learn a **policy** $\pi(a|s)$, which is a strategy f
     - **Partially Observable Markov Decision Process (POMDP)**: A generalization of MDPs where the agent does not have complete information about the state of the environment.
 
 - **Related Concepts**:
-    - **[Optimal Control](../control_theory/optimal_control.md)**: The field from which many of the mathematical ideas of RL originated.
     - **[Artificial Neural Network](../machine_learning/artificial_neural_network.md)**: Deep RL uses neural networks to represent policies or value functions, allowing it to scale to complex, high-dimensional problems.
-    - **[Probability Theory](../../applied_mathematics/probability_theory/probability_space.md)**: MDPs are stochastic processes.
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The value function, which estimates the expected return from each state, can be represented as a vector.
-    - **[Graph](../../pure_mathematics/discrete_mathematics/graph_theory/graph.md)**: A Markov Decision Process can be represented as a state transition graph.
-    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Transition probabilities and value functions are often manipulated as matrices and vectors.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Reinforcement_learning](https://en.wikipedia.org/wiki/Reinforcement_learning)

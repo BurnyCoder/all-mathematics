@@ -19,6 +19,9 @@ $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right
     - **Positional Encoding**: Since the model contains no recurrence, positional encodings are added to the input embeddings to give the model information about the relative or absolute position of the tokens in the sequence.
     - **Encoder-Decoder Architecture**: A structure where an encoder maps an input sequence to a continuous representation, which the decoder then uses to generate an output sequence.
     - **Feed-Forward Network**: Each layer in the encoder and decoder contains a fully connected feed-forward network.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The attention mechanism and feed-forward layers rely heavily on matrix multiplications.
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Words and tokens are represented as vectors (embeddings) in a high-dimensional space.
+        - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Self-attention and other key operations are heavily based on matrix manipulations.
 
 - **Applications**:
     - **Natural Language Processing (NLP)**: Machine translation, text summarization, question answering, sentiment analysis, and language generation (e.g., GPT).
@@ -39,8 +42,5 @@ $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right
 - **Related Concepts**:
     - **[Artificial Neural Network](./artificial_neural_network.md)**: Transformers are a type of ANN.
     - **[Gradient Descent](./gradient_descent.md)**: Used to train Transformer models by minimizing a loss function.
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Words and tokens are represented as vectors (embeddings) in a high-dimensional space.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The attention mechanism and feed-forward layers rely heavily on matrix multiplications.
-    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Self-attention and other key operations are heavily based on matrix manipulations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))

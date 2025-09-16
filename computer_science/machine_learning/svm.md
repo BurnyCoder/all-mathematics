@@ -11,6 +11,7 @@ $$ \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 $$
     - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
     - [Statistical Learning Theory](https://en.wikipedia.org/wiki/Statistical_learning_theory)
     - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
+    - [Kernel Methods](https://en.wikipedia.org/wiki/Kernel_method)
 
 - **Subfields and concepts it includes**:
     - **Hyperplane**: A subspace of one dimension less than its ambient space. In 2D, a line; in 3D, a plane.
@@ -18,6 +19,10 @@ $$ \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 $$
     - **Support Vectors**: The data points that lie closest to the decision boundary.
     - **Kernel Trick**: A technique to apply SVMs to non-linear data by using a kernel function to compute the dot product of the data points in a higher-dimensional space without explicitly transforming them.
     - **Hinge Loss**: A common loss function used for training SVMs.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The concepts of hyperplanes, vectors, and dot products are central to SVMs.
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The data points are treated as vectors in a high-dimensional space.
+    - **[Topology](../../pure_mathematics/topology/)**:
+        - **[Metric Space](../../pure_mathematics/topology/metric_space.md)**: The margin is defined by a distance metric between the separating hyperplane and the support vectors.
 
 - **Applications**:
     - **Bioinformatics**: Classifying proteins and genes.
@@ -31,12 +36,5 @@ $$ \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 $$
 
 - **More General Variants**:
     - **Support Vector Regression (SVR)**: An adaptation of SVMs for regression problems.
-
-- **Related Concepts**:
-    - **[Optimization](../optimization/optimization.md)**: Training an SVM is a quadratic programming (convex optimization) problem.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The concepts of hyperplanes, vectors, and dot products are central to SVMs.
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The data points are treated as vectors in a high-dimensional space.
-    - **[Metric Space](../../pure_mathematics/topology/metric_space.md)**: The margin is defined by a distance metric between the separating hyperplane and the support vectors.
-    - **Kernel Methods**: A class of algorithms for pattern analysis, of which SVM is a prominent example.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)

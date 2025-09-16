@@ -13,12 +13,14 @@ $$ \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) $$
     - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
     - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
     - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
+    - [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization)
 
 - **Subfields and concepts it includes**:
-    - **Gradient**: The vector of partial derivatives.
+    - **Gradient**: The vector of partial derivatives. The gradient is a concept from [vector calculus](../../pure_mathematics/analysis/derivative.md) and indicates the direction of steepest ascent in a [vector space](../../pure_mathematics/linear_algebra/vector_space.md).
     - **Learning Rate**: A hyperparameter that controls the step size.
     - **Loss Function**: The function to be minimized.
     - **Local Minimum**: The point to which the algorithm converges, which may not be the global minimum.
+    - **[Calculus](../../pure_mathematics/analysis/limit.md)**: The algorithm relies on derivatives, which are defined using limits.
 
 - **Applications**:
     - **Machine Learning**: The primary algorithm used to train a wide variety of models, including linear regression, logistic regression, and especially [artificial neural networks](./artificial_neural_network.md).
@@ -34,9 +36,6 @@ $$ \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) $$
     - **Second-Order Optimization Methods**: Algorithms like Newton's method, which use the second derivative (the Hessian) to find the minimum, often converging faster but with a higher computational cost per step.
 
 - **Related Concepts**:
-    - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The gradient is a vector of partial derivatives.
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The gradient is a vector indicating the direction of steepest ascent.
-    - **[Limit](../../pure_mathematics/analysis/limit.md)**: Derivatives are formally defined using limits.
     - **[Artificial Neural Network](./artificial_neural_network.md)**: Gradient descent, combined with the backpropagation algorithm, is the standard way to train neural networks.
     - **Convex Optimization**: A subfield of optimization that studies the case where the function to be minimized is a convex function, in which case gradient descent is guaranteed to find the global minimum.
 

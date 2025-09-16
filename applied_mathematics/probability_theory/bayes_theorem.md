@@ -19,6 +19,7 @@ $$ P(A|B) = \frac{P(B|A) \, P(A)}{P(B)} $$
     - **Prior and Posterior Probability**: The probability of a hypothesis before and after observing evidence.
     - **Likelihood**: The probability of the evidence given a hypothesis.
     - **Bayesian Inference**: A method of statistical inference based on Bayes' theorem.
+    - **[Set Theory](../../../foundations_of_mathematics/set_theory/set.md)**: Events in probability are sets of outcomes, and probability theory is built on set theory.
 
 - **Applications**:
     - **Machine Learning**: Used in Bayesian classifiers (e.g., Naive Bayes for spam filtering) and for developing probabilistic models.
@@ -36,7 +37,6 @@ $$ P(A|B) = \frac{P(B|A) \, P(A)}{P(B)} $$
 - **Related Concepts**:
     - **Conditional Probability**: The theorem is a direct consequence of the definition of conditional probability.
     - **[Probability Space](./probability_space.md)**: The underlying framework in which the probabilities are defined.
-    - **[Set](../../../foundations_of_mathematics/set_theory/set.md)**: Events in probability are sets of outcomes, and probability theory is built on set theory.
     - **Maximum Likelihood Estimation (MLE)**: A frequentist statistical method that is closely related to Bayesian inference.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Bayes%27_theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)

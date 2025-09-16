@@ -10,6 +10,9 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
     - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)
     - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
+    - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system)
 
 - **Subfields and concepts it includes**:
     - **Initial Value Problem (IVP)**: A differential equation given along with the value of the unknown function (and some of its derivatives) at an initial point.
@@ -17,6 +20,12 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - **Linearity**: An equation is linear if the unknown function and its derivatives appear only to the power of 1.
     - **Homogeneity**: A linear equation is homogeneous if there are no terms that are independent of the unknown function and its derivatives.
     - **Existence and Uniqueness Theorems**: Theorems that give conditions under which solutions exist and are unique.
+    - **[Calculus](../../pure_mathematics/analysis/)**:
+        - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The core concept that defines a differential equation.
+        - **[Integral](../../pure_mathematics/analysis/integral.md)**: Solving a differential equation is a form of integration.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**:
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The set of solutions to a linear homogeneous differential equation forms a vector space.
+        - **[Eigenvectors and Eigenvalues](../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Essential for solving systems of linear ordinary differential equations with constant coefficients.
 
 - **Applications**:
     - **Physics**: Describing motion (Newton's second law), wave propagation (wave equation), heat flow (heat equation), electromagnetism (Maxwell's equations), and quantum mechanics (Schrödinger equation).
@@ -36,12 +45,6 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - **Differential Algebraic Equation (DAE)**: An equation that involves both differential and algebraic terms.
 
 - **Related Concepts**:
-    - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The core concept that defines a differential equation.
-    - **[Integral](../../pure_mathematics/analysis/integral.md)**: Solving a differential equation is a form of integration.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Used to analyze and solve systems of linear differential equations.
-    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The set of solutions to a linear homogeneous differential equation forms a vector space.
-    - **[Eigenvectors and Eigenvalues](../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Essential for solving systems of linear ordinary differential equations with constant coefficients.
-    - **Numerical Analysis**: Provides methods for finding approximate solutions to differential equations that cannot be solved analytically.
     - **Dynamical Systems**: The modern, qualitative study of the solutions to systems of differential equations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Differential_equation](https://en.wikipedia.org/wiki/Differential_equation)

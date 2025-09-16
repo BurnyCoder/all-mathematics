@@ -16,13 +16,15 @@
 - **Subfields it's part of**:
     - [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism)
     - [Classical Physics](https://en.wikipedia.org/wiki/Classical_physics)
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - **Subfields and concepts it includes**:
     - **Electric Field ($\mathbf{E}$)**: A vector field that describes the electric force on a charged particle.
     - **Magnetic Field ($\mathbf{B}$)**: A vector field that describes the magnetic force on a moving charged particle.
     - **Electric Charge Density ($\rho$)**: The amount of electric charge per unit volume.
     - **Electric Current Density ($\mathbf{J}$)**: The amount of charge per unit time per unit area.
-    - **Vector Calculus**: The mathematical language of Maxwell's equations (divergence and curl).
+    - **[Vector Calculus](../../../pure_mathematics/analysis/derivative.md)**: The operators of divergence ($\nabla \cdot$) and curl ($\nabla \times$) are central to the equations' formulation.
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: As a system of linear equations, their solutions form a vector space.
 
 - **Applications**:
     - **Electrical Engineering**: Design of antennas, waveguides, motors, generators, and all forms of electrical circuits.
@@ -40,9 +42,6 @@
     - **General Relativity**: Maxwell's equations can be formulated in the context of curved spacetime.
 
 - **Related Concepts**:
-    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: Maxwell's equations are a system of linear first-order partial differential equations.
-    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The operators of divergence ($\nabla \cdot$) and curl ($\nabla \times$) from vector calculus are central to the equations' formulation.
-    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: As a system of linear equations, their solutions form a vector space.
     - **Special Relativity**: Maxwell's equations were a key inspiration for Einstein's theory of special relativity, as they predict that the speed of light is a universal constant.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
