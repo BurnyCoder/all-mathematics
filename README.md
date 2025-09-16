@@ -101,8 +101,13 @@ This knowledge base can be navigated in several ways:
 │   │   └── standard_model.md
 │   ├── quantum_mechanics
 │   │   └── schrodinger_equation.md
-│   └── special_relativity
-│       └── special_relativity.md
+│   ├── special_relativity
+│   │   └── special_relativity.md
+│   └── thermodynamics
+│       ├── boltzmanns_entropy_formula.md
+│       ├── first_law_of_thermodynamics.md
+│       ├── ideal_gas_law.md
+│       └── second_law_of_thermodynamics.md
 └── pure_mathematics
     ├── README.md
     ├── algebra

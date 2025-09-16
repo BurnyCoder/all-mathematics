@@ -26,3 +26,9 @@ Physics is the natural science that studies matter, its fundamental constituents
 
 ### [General Relativity](./general_relativity/)
 - [Einstein's Field Equations](./general_relativity/einstein_field_equations.md)
+
+### [Thermodynamics](./thermodynamics/)
+- [First Law of Thermodynamics](./thermodynamics/first_law_of_thermodynamics.md)
+- [Second Law of Thermodynamics](./thermodynamics/second_law_of_thermodynamics.md)
+- [Ideal Gas Law](./thermodynamics/ideal_gas_law.md)
+- [Boltzmann's Entropy Formula](./thermodynamics/boltzmanns_entropy_formula.md)
