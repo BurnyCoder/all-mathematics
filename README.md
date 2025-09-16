@@ -62,7 +62,8 @@ This knowledge base can be navigated in several ways:
 │   └── machine_learning
 │       ├── artificial_neural_network.md
 │       ├── gradient_descent.md
-│       └── svm.md
+│       ├── svm.md
+│       └── transformer.md
 ├── foundations_of_mathematics
 │   ├── README.md
 │   ├── category_theory

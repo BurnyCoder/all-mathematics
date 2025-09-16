@@ -30,7 +30,7 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
     - **Feedforward Neural Network (FNN)**: The simplest type of ANN where connections between the nodes do not form a cycle.
     - **Convolutional Neural Network (CNN)**: A class of deep neural networks, most commonly applied to analyzing visual imagery.
     - **Recurrent Neural Network (RNN)**: A class of ANNs where connections between nodes form a directed graph along a temporal sequence, allowing them to exhibit temporal dynamic behavior.
-    - **Transformer**: A deep learning model that uses the mechanism of attention, weighing the influence of different parts of the input data.
+    - **[Transformer](./transformer.md)**: A deep learning architecture that relies on self-attention mechanisms instead of recurrence or convolution, becoming a standard for NLP and other sequence modeling tasks.
 
 - **More General Variants**:
     - **Probabilistic Graphical Models**: A broader class of models for representing and reasoning about uncertainty, of which some neural networks can be seen as a specific type.
