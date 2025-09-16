@@ -16,6 +16,11 @@ $$ a_t := \arg \max_{a_t} \sum_{o_t r_t} \ldots \max_{a_m} \sum_{o_m r_m} [r_t +
     - **Solomonoff Induction**: Used for prediction, by taking a weighted average of all computable hypotheses that explain past observations.
     - **Sequential Decision Theory**: Provides the framework for making optimal decisions under uncertainty to maximize a utility function (in this case, total reward).
     - **Universal Turing Machines**: Used to define the space of all computable environments.
+    - **[Probability Theory](../../applied_mathematics/probability_theory/probability_space.md)**: The interaction with a stochastic environment and the maximization of expected rewards are core concepts from probability theory.
+        - **[Bayes' Theorem](../../applied_mathematics/probability_theory/bayes_theorem.md)**: Solomonoff's theory of induction, a key component of AIXI, is a Bayesian method for prediction.
+    - **Mathematical Optimization**: The agent's action selection is an optimization problem, aiming to maximize future rewards.
+    - **[Mathematical Logic](../../../foundations_of_mathematics/logic/first_order_logic.md)**: The foundation of computability theory, which defines the space of possible environments.
+    - **[Set Theory](../../../foundations_of_mathematics/set_theory/set.md)**: The action set $\mathcal{A}$ and the space of percepts are defined using sets.
 
 - **Applications**:
     - **Theoretical Benchmark**: Serves as a theoretical benchmark for optimal rational agents.
