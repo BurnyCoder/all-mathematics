@@ -1,0 +1,107 @@
+@README.md @derivative.md
+
+The original prompt for this project was:
+```
+List as many mathematical equations and mathematical structures as possible.
+
+For each, list:
+- mathematical definition and what it means, make sure to write the concrete mathematics as concretely as possible, not just words
+- description
+- as many subfields that it's part of as possible
+- as many subfields and concepts that it includes as possible
+- as many applications where it's used as possible 
+- as many more concrete variants as possible
+- as many more general variants as possible
+- everything else it relates to
+
+Include hypertext links to actual Wikipedia pages.
+
+Create links, graphs, hierarchies, etc., between all the concepts in different folders and files properly. Follow a Wikipedia structure with nested folders.
+
+Add multiple ways to organize all the concepts into lists, hierarchies, graphs, etc., such as by fields, by generality, by applications, etc.
+
+Go from foundations to general to concrete mathematical equations and structures.
+
+Make sure to cover the mathematics present in subfields of foundations of mathematics (set theory, category theory), subfields of pure mathematics (probability theory, real analysis, linear algebra, discrete mathematics), subfields of applied mathematics, subfields of physics, fundamental physics, machine learning, artificial intelligence, and intelligence. 
+
+In applied mathematics pages, mention more pure mathematics concepts that are used there.
+
+Make sure to always comment mentioned concepts, do: 
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Reinforcement learning is one of the three main paradigms of machine learning.
+Instead of just
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+
+```
+
+In AIXI, mention more pure mathematics concepts that are used there.
+
+
+Add thermodynamics
+
+Add nonequilibrium thermodynamics
+
+Add AIXI
+
+Add Chollet's intelligence
+
+Add harmonic oscillator
+
+######## REPEATABLE ##################
+
+Continue adding more stuff to this project
+
+Add more folders and files
+
+Expand various files
+
+Add more generalizations of various concepts in the "more general variants" sections.
+
+Double check for errors and fix it
+
+Add visualizations
+
+In pages of applied mathematics, mention more pure mathematics concepts that are used there
+
+Update main README folder and file structure and files not mentioned in _lists
+
+Add missing links between files
+
+Add more related concepts to all files
+
+Make sure all the links in READMEs are up to date
+
+Go through all the files and make sure there is wikipedia link at the end
+
+Go through all the files and:
+- if there is a link to wikipedia, but file exists instead, link to the file
+- make sure all links to files exist, and if not, link to wikipedia
+- Remove duplicate selfreferential links, like in differenial_equation.md:
+	- **Subfields it's part of**:
+	- [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): The very field dedicated to the study of these equations.
+	When it's already at the end
+	- **Wikipedia**: [https://en.wikipedia.org/wiki/Differential_equation](https://en.wikipedia.org/wiki/Differential_equation)
+
+Go through all the files and:
+- make sure all links to files exist, and if not, create a new file
+- replace links to wikipedia websites to links to newly created files
+- Remove duplicate selfreferential links, like in differenial_equation.md:
+	- **Subfields it's part of**:
+	- [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): The very field dedicated to the study of these equations.
+	When it's already at the end
+	- **Wikipedia**: [https://en.wikipedia.org/wiki/Differential_equation](https://en.wikipedia.org/wiki/Differential_equation)
+
+Go through all the files and everytime there's just a list like this:
+- **Subfields it's part of**:
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+    - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)
+    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
+    - [Dynamical Systems](https://en.wikipedia.org/wiki/Dynamical_system)
+Add one sentence comment to it why it's relevant to the current concepts, for example from bayes_theorem.md:
+- **Subfields and concepts it includes**:
+    - **Conditional Probability**: The probability of an event given that another event has occurred.
+    - **Prior and Posterior Probability**: The probability of a hypothesis before and after observing evidence.
+    - **Likelihood**: The probability of the evidence given a hypothesis.
+    - **Bayesian Inference**: A method of statistical inference based on Bayes' theorem.
+    - **[Set Theory](../../../foundations_of_mathematics/set_theory/set.md)**: Events in probability are sets of outcomes, and probability theory is built on set theory.
