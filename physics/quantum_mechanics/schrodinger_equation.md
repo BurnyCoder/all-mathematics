@@ -36,7 +36,7 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
 - **More Concrete Variants**:
     - **Time-Independent Schrödinger Equation**: A simplified version of the equation used for systems in a stationary state (where the energy is constant).
     - **Particle in a Box**: A simple, solved model in quantum mechanics for a particle confined to a small space.
-    - **Quantum Harmonic Oscillator**: A model for vibrations in molecules.
+    - **[Quantum Harmonic Oscillator](./quantum_harmonic_oscillator.md)**: A model for vibrations in molecules.
     - **Hydrogen Atom**: The Schrödinger equation can be solved exactly for the hydrogen atom, which was a major success of the theory.
 
 - **More General Variants**:
