@@ -8,10 +8,10 @@
 - **Description**: Topos theory is a highly abstract field that unifies mathematical logic and geometry/topology. A topos can be thought of as a generalized "universe" of mathematical discourse. The category of sets is a topos, but many other categories are as well, such as the category of sheaves on a topological space. The internal logic of a topos is not necessarily classical logic; in general, it is intuitionistic logic. This means that a topos provides a framework for studying alternative mathematical realities where, for example, the law of the excluded middle might not hold.
 
 - **Subfields it's part of**:
-    - [Topos Theory](https://en.wikipedia.org/wiki/Topos_theory)
-    - [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Topos Theory](https://en.wikipedia.org/wiki/Topos_theory): A topos is the central object of study in topos theory.
+    - [Category Theory](https://en.wikipedia.org/wiki/Category_theory): Topos theory is a deep branch of category theory, and a topos is a special kind of category.
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): Every topos has an internal logic (which is generally intuitionistic), making them objects of study in logic.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): Topos theory offers an alternative to set theory as a foundation for mathematics.
 
 - **Subfields and concepts it includes**:
     - **Sheaf**: A tool for tracking locally defined data on a topological space.

@@ -15,9 +15,9 @@ $$ \nabla \cdot \mathbf{v} = 0 $$
 - **Description**: The Navier-Stokes equations are the cornerstone of fluid dynamics. They are essentially Newton's second law of motion applied to a fluid element, accounting for forces including pressure, viscosity, and external influences. The equations are notoriously difficult to solve; their non-linearity (from the $(\mathbf{v} \cdot \nabla) \mathbf{v}$ term) leads to the complex and chaotic behavior of turbulence. The existence and smoothness of their solutions is the subject of one of the Clay Mathematics Institute's Millennium Prize Problems.
 
 - **Subfields it's part of**:
-    - [Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
-    - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)
-    - [Physics](https://en.wikipedia.org/wiki/Physics)
+    - [Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics): The Navier-Stokes equations are the fundamental governing equations of fluid dynamics.
+    - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics): They are a primary example of partial differential equations used to model complex physical systems.
+    - [Physics](https://en.wikipedia.org/wiki/Physics): They are an expression of the conservation of momentum for a fluid, a core principle in classical physics.
 
 - **Subfields and concepts it includes**:
     - **Viscosity**: A measure of a fluid's resistance to flow.

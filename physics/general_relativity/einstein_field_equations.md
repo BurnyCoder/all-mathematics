@@ -15,10 +15,10 @@ $$ R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^
 - **Description**: The essence of the EFE is often summarized as: "spacetime tells matter how to move; matter tells spacetime how to curve." They are the core of general relativity, replacing Newton's law of universal gravitation. The equations' solutions are metric tensors which describe the geometry of a spacetime, from which the paths of objects (geodesics) can be calculated.
 
 - **Subfields it's part of**:
-    - [General Relativity](https://en.wikipedia.org/wiki/General_relativity)
-    - [Physics](https://en.wikipedia.org/wiki/Physics)
-    - [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry)
-    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+    - [General Relativity](https://en.wikipedia.org/wiki/General_relativity): These are the core equations of the theory of general relativity.
+    - [Physics](https://en.wikipedia.org/wiki/Physics): They describe gravity, one of the four fundamental forces of physics.
+    - [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry): The equations are expressed in the language of differential geometry, which is used to describe curved spaces.
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): They are a system of non-linear partial differential equations.
 
 - **Subfields and concepts it includes**:
     - **Tensor Calculus**: The mathematical language of the EFE, a generalization of [linear algebra](../../../pure_mathematics/linear_algebra/).
@@ -43,6 +43,6 @@ $$ R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^
     - **String Theory and Quantum Gravity**: Attempts to unify general relativity with quantum mechanics, where the EFE are expected to emerge as a low-energy approximation.
 
 - **Related Concepts**:
-    - **[Newton's Law of Universal Gravitation](../classical_mechanics/newtons_law_of_gravitation.md)**: Can be recovered from the EFE in the weak-field, low-speed limit.
+    - **[Newton's Laws of Motion](../classical_mechanics/newtons_laws.md)**: Newton's law of universal gravitation can be recovered from the EFE in the weak-field, low-speed limit.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Einstein_field_equations](https://en.wikipedia.org/wiki/Einstein_field_equations)

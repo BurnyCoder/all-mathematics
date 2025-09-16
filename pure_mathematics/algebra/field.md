@@ -8,9 +8,9 @@
 - **Description**: A field is a fundamental algebraic structure that is a commutative ring with unity in which every non-zero element has a multiplicative inverse. Fields are the context in which the standard arithmetic operations (addition, subtraction, multiplication, and division) are well-behaved. They are of central importance in algebra and many other areas of mathematics.
 
 - **Subfields it's part of**:
-    - [Field Theory](https://en.wikipedia.org/wiki/Field_theory_(mathematics))
-    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
-    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+    - [Field Theory](https://en.wikipedia.org/wiki/Field_theory_(mathematics)): A field is the fundamental object of study in field theory.
+    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra): Field theory is a major branch of abstract algebra.
+    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics): Fields are one of the most important and fundamental algebraic structures.
 
 - **Subfields and concepts it includes**:
     - **Subfield**: A subset of a field that is itself a field under the same operations.
@@ -37,7 +37,7 @@
 
 - **Related Concepts**:
     - **[Ring](./ring.md)**: A field is a commutative ring where every non-zero element is a unit.
-    - **Vector Space**: A set of vectors that can be scaled and added, with the scalars coming from a field.
+    - **[Vector Space](../linear_algebra/vector_space.md)**: A set of vectors that can be scaled and added, with the scalars coming from a field.
     - **Polynomial**: Polynomials with coefficients in a field form a ring, and the study of their roots is a central topic (Galois theory).
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Field_(mathematics)](https://en.wikipedia.org/wiki/Field_(mathematics))

@@ -5,8 +5,8 @@
 - **Description**: It is the simplest form of formal logic and provides a foundation for more expressive logics like first-order logic. It deals with the logical relationships between propositions at a wholesale level, without analyzing the internal structure of the propositions themselves.
 
 - **Subfields it's part of**:
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): Propositional logic is the most basic system of mathematical logic and is the foundation for more advanced systems.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): It provides the elementary rules of reasoning used in mathematical proofs.
 
 - **Subfields and concepts it includes**:
     - **Proposition**: A declarative sentence that is either true or false.
@@ -43,7 +43,7 @@
     - **Intuitionistic Logic**: A logic that differs from classical logic in its definition of truth, rejecting the law of the excluded middle.
 
 - **Related Concepts**:
-    - **[Boolean Algebra](../pure_mathematics/algebra/boolean_algebra.md)**: The underlying mathematical structure for propositional logic.
+    - **[Boolean Algebra](../../pure_mathematics/algebra/boolean_algebra.md)**: The underlying mathematical structure for propositional logic.
     - **[Set Theory](../set_theory/set.md)**: The semantics of propositional logic can be modeled using sets (e.g., the set of models where a formula is true).
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Propositional_calculus](https://en.wikipedia.org/wiki/Propositional_calculus)

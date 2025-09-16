@@ -12,10 +12,10 @@
 - **Description**: The Turing machine was invented in 1936 by Alan Turing. It is not a practical computing technology, but a thought experiment about the limits of mechanical computation. It provides a precise, formal definition of what it means for a function to be "computable". The **Church-Turing thesis** states that any function that can be computed by an algorithm can be computed by a Turing machine. This means that if a problem cannot be solved by a Turing machine, it cannot be solved by any computer.
 
 - **Subfields it's part of**:
-    - [Computability Theory](https://en.wikipedia.org/wiki/Computability_theory)
-    - [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
+    - [Computability Theory](https://en.wikipedia.org/wiki/Computability_theory): The Turing machine is the central model of computation in computability theory.
+    - [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation): It provides the formal definition of an algorithm, which is the basis for the entire field.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): It establishes fundamental limits on what can be proven and computed within formal mathematical systems.
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): It is a concrete model for exploring the decidability of logical theories.
 
 - **Subfields and concepts it includes**:
     - **State**: The internal configuration of the machine.

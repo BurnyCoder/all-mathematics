@@ -7,8 +7,8 @@
 - **Description**: Proved by Kurt Gödel in 1931, these theorems were a landmark in 20th-century mathematics. They showed that the ambition of finding a complete and consistent set of axioms for all of mathematics (known as Hilbert's program) was impossible. The first theorem states that in any sufficiently powerful axiomatic system, there will always be true statements that are unprovable. The second theorem states that such a system cannot prove its own consistency.
 
 - **Subfields it's part of**:
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): These are landmark theorems in mathematical logic, specifically in the area of metamathematics.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): The theorems revealed fundamental limitations of the axiomatic method and had a profound impact on the philosophy of mathematics.
 
 - **Subfields and concepts it includes**:
     - **Formal System**: An axiomatic system consisting of a language, a set of axioms, and a set of inference rules.

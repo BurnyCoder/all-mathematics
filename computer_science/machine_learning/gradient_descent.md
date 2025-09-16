@@ -10,10 +10,10 @@ $$ \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) $$
 - **Description**: Gradient descent is one of the most important algorithms in machine learning and optimization. The intuition is to imagine walking down a hill to find its lowest point. The gradient gives you the direction of the steepest slope, so you take a small step in the opposite direction. By repeating this process, you iteratively descend towards a minimum. In machine learning, the function $F$ is a **loss function**, and $\mathbf{x}$ is the set of model parameters (e.g., the weights of a neural network). Gradient descent adjusts these parameters to minimize the error of the model on the training data.
 
 - **Subfields it's part of**:
-    - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
-    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-    - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
-    - [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization)
+    - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization): Gradient descent is a fundamental first-order iterative optimization algorithm.
+    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): It is the most common algorithm for training machine learning models by minimizing a loss function.
+    - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis): It is a numerical method for finding the minimum of a function.
+    - [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization): When applied to convex functions, gradient descent can be guaranteed to find the global minimum.
 
 - **Subfields and concepts it includes**:
     - **Gradient**: The vector of partial derivatives. The gradient is a concept from [vector calculus](../../pure_mathematics/analysis/derivative.md) and indicates the direction of steepest ascent in a [vector space](../../pure_mathematics/linear_algebra/vector_space.md).

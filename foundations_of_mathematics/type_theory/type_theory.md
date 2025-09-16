@@ -5,9 +5,9 @@
 - **Description**: Type theory is an alternative foundational framework for mathematics to set theory. It was initially developed by Bertrand Russell and Alfred North Whitehead in their *Principia Mathematica* to avoid Russell's paradox. Instead of having a universal collection of "sets", type theory posits a hierarchy of types, where each object belongs to a specific type. This prevents the self-referential paradoxes that arise in naive set theory. Modern type theories, especially Martin-Löf type theory, are used as the basis for proof assistants and have deep connections to computer science.
 
 - **Subfields it's part of**:
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
-    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science) (Type systems in programming languages)
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): Type theory is a formal system and a branch of mathematical logic.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): It provides an alternative foundation for mathematics, distinct from set theory.
+    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science) (Type systems in programming languages): The theory of type systems in programming languages is a direct application of type theory.
 
 - **Subfields and concepts it includes**:
     - **Type**: A collection of objects that share a certain property.

@@ -12,8 +12,8 @@ $$ e^{i\pi} + 1 = 0 $$
 - **Description**: Euler's identity is often cited as an example of profound mathematical beauty. It is a special case of **Euler's formula** ($e^{ix} = \cos x + i \sin x$) when $x = \pi$. The identity connects algebra, geometry, and analysis through the behavior of complex exponentiation. It shows a deep and unexpected relationship between the exponential function and trigonometric functions.
 
 - **Subfields it's part of**:
-    - [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis)
-    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis): Euler's identity is a fundamental result in complex analysis, derived from the behavior of the complex exponential function.
+    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis): It connects the exponential function with trigonometric functions, a key insight in analysis.
 
 - **Subfields and concepts it includes**:
     - **Complex Numbers**: The number system in which the identity is expressed.
@@ -35,7 +35,7 @@ $$ e^{i\pi} + 1 = 0 $$
 
 - **Related Concepts**:
     - **[Taylor Series](./taylor_series.md)**: Euler's formula, from which the identity is derived, can be proven by expanding the Taylor series for $e^{ix}$, $\cos x$, and $\sin x$.
-    - **[Complex Numbers](../algebra/complex_numbers.md)**: The domain in which the identity holds.
+    - **[Complex Numbers](../algebra/field.md)**: The domain in which the identity holds.
     - **Fourier Transform**: Heavily relies on Euler's formula to represent functions as a sum of complex exponentials.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Euler%27s_identity](https://en.wikipedia.org/wiki/Euler%27s_identity)

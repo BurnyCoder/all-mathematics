@@ -9,9 +9,9 @@
 - **Description**: The concept of a group is central to abstract algebra. Groups are used to study symmetry in a formal and rigorous way. The axioms capture the essential properties of transformations like rotations and reflections, as well as systems like the integers under addition. The study of groups is known as group theory.
 
 - **Subfields it's part of**:
-    - [Group Theory](https://en.wikipedia.org/wiki/Group_theory)
-    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
-    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+    - [Group Theory](https://en.wikipedia.org/wiki/Group_theory): A group is the fundamental object of study in group theory.
+    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra): Group theory is one of the central pillars of abstract algebra.
+    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics): Groups are one of the most fundamental and widely studied structures in pure mathematics.
 
 - **Subfields and concepts it includes**:
     - **Subgroup**: A subset of a group that is itself a group under the same operation.
@@ -38,8 +38,8 @@
     - **Monoid**: A set with an associative binary operation and an identity element (drops the inverse axiom).
     - **Semigroup**: A set with an associative binary operation (drops identity and inverse axioms).
     - **Magma (or Groupoid)**: A set with a closed binary operation (drops associativity, identity, and inverse).
-    - **Ring**: A set with two binary operations (addition and multiplication) that has a group structure for addition.
-    - **Field**: A ring where the non-zero elements form a group under multiplication.
+    - **[Ring](./ring.md)**: A set with two binary operations (addition and multiplication) that has a group structure for addition.
+    - **[Field](./field.md)**: A ring where the non-zero elements form a group under multiplication.
 
 - **Related Concepts**:
     - **[Set](../../foundations_of_mathematics/set_theory/set.md)**: A group is a set with additional structure.

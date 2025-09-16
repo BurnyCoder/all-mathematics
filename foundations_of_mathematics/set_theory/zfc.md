@@ -14,9 +14,9 @@
 - **Description**: ZFC was developed to provide a rigorous and paradox-free foundation for mathematics, avoiding issues like [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) that arose in naive set theory. It is powerful enough to construct nearly all the objects and prove nearly all the theorems in contemporary mathematics.
 
 - **Subfields it's part of**:
-    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
-    - [Axiomatic Set Theory](https://en.wikipedia.org/wiki/Axiomatic_set_theory)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory): ZFC is the standard axiomatic framework for modern set theory.
+    - [Axiomatic Set Theory](https://en.wikipedia.org/wiki/Axiomatic_set_theory): It is the canonical example of an axiomatic set theory, designed to avoid the paradoxes of naive set theory.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): It serves as the most common foundation for the entirety of modern mathematics.
 
 - **Subfields and concepts it includes**:
     - All the axioms listed above.

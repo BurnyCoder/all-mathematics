@@ -11,7 +11,7 @@ $$ P(A|B) = \frac{P(B|A) \, P(A)}{P(B)} $$
 - **Description**: Bayes' theorem provides a way to update our beliefs (the prior probability) in light of new evidence (the likelihood). It is the mathematical foundation of Bayesian inference, a major school of thought in statistics. It describes how to rationally update the degree of confidence in a hypothesis when new information becomes available.
 
 - **Subfields it's part of**:
-    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory): Bayes' theorem is a fundamental result in probability theory that relates conditional probabilities.
     - [Statistics](https://en.wikipedia.org/wiki/Statistics) (particularly Bayesian statistics)
 
 - **Subfields and concepts it includes**:

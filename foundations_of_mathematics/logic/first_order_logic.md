@@ -12,8 +12,8 @@
 - **Description**: First-order logic is significantly more expressive than propositional logic, allowing for the formalization of vast areas of mathematics. It is the standard logic for axiomatizing mathematical theories. It operates on a domain of discourse, which is a set of objects over which the variables range.
 
 - **Subfields it's part of**:
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): It is the standard and most widely studied system in mathematical logic.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): It is the language used to formalize axiomatic systems like set theory (ZFC) and arithmetic (Peano Arithmetic), which serve as foundations for the rest of mathematics.
 
 - **Subfields and concepts it includes**:
     - **Universe of Discourse**: The set of entities over which quantifiers range.

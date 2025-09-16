@@ -7,11 +7,11 @@ $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right
 - **Description**: The Transformer is a deep learning model architecture introduced in the 2017 paper "Attention Is All You Need". It has become the dominant architecture for natural language processing (NLP) tasks and is increasingly used in other domains like computer vision. Unlike recurrent neural networks (RNNs) that process data sequentially, the Transformer processes the entire input sequence at once using a self-attention mechanism, allowing for significant parallelization and capturing long-range dependencies more effectively.
 
 - **Subfields it's part of**:
-    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-    - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
-    - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-    - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
+    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Transformers are a class of models developed within machine learning.
+    - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning): It is a deep neural network architecture, representing a key breakthrough in deep learning.
+    - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): The capabilities of Transformers have significantly advanced the state-of-the-art in AI.
+    - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing): The architecture was originally designed for and has revolutionized NLP tasks.
+    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science): It is a significant contribution to the field of computer science, particularly in the area of AI and algorithms.
 
 - **Subfields and concepts it includes**:
     - **Self-Attention**: A mechanism that allows the model to weigh the importance of different words in an input sequence when processing a specific word.

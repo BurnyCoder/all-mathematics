@@ -7,9 +7,9 @@ $$ S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt $$
 - **Description**: This principle provides a powerful and elegant way to formulate physical laws. Instead of thinking about forces and accelerations at each moment (the Newtonian view), the principle of least action takes a global perspective: it says that out of all possible paths a system could take, the one it actually does take is an extremum (a minimum, maximum, or saddle point) of the action. This single idea can be used to derive almost all of the fundamental equations of motion in physics.
 
 - **Subfields it's part of**:
-    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics)
-    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics)
-    - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations)
+    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics): The principle of stationary action is the foundational concept upon which Lagrangian and Hamiltonian mechanics are built.
+    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics): It is a unifying principle that underlies classical mechanics, general relativity, and quantum field theory.
+    - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations): The principle is a physical application of the calculus of variations, which is the mathematical tool used to find paths that minimize or maximize functionals.
 
 - **Subfields and concepts it includes**:
     - **Action**: The functional that is made stationary.

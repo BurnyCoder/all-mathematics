@@ -9,10 +9,10 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
 - **Description**: The Standard Model of Particle Physics is the theory that describes three of the four known fundamental forces (electromagnetic, weak, and strong interactions) and classifies all known elementary particles. It is the most rigorously tested and successful scientific theory in history, providing precise predictions for a vast range of particle physics experiments. However, it is known to be incomplete as it does not include gravity or account for phenomena like dark matter and dark energy.
 
 - **Subfields it's part of**:
-    - [Particle Physics](https://en.wikipedia.org/wiki/Particle_physics)
-    - [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
-    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics)
-    - [Group Theory](https://en.wikipedia.org/wiki/Group_theory)
+    - [Particle Physics](https://en.wikipedia.org/wiki/Particle_physics): The Standard Model is the central theory of modern particle physics.
+    - [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory): The model is formulated as a quantum field theory, which is the theoretical framework for describing elementary particles and their interactions.
+    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics): It represents our current best understanding of the fundamental particles and forces of nature.
+    - [Group Theory](https://en.wikipedia.org/wiki/Group_theory): The symmetries of the Standard Model are described by the mathematical framework of group theory, specifically Lie groups.
 
 - **Subfields and concepts it includes**:
     - **Elementary Particles**: The fundamental constituents of matter (quarks, leptons) and force (gauge bosons).

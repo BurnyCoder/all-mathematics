@@ -5,9 +5,9 @@
 - **Description**: An algorithm is a step-by-step procedure for calculations. Algorithms are used for calculation, data processing, and automated reasoning. They are the core of computer science, providing the blueprint for how software performs its tasks. The study of algorithms involves their design, analysis (for correctness and efficiency), and implementation.
 
 - **Subfields it's part of**:
-    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
-    - [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation)
-    - [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics)
+    - [Computer Science](https://en.wikipedia.org/wiki/Computer_science): The design and analysis of algorithms is a central pillar of computer science.
+    - [Theory of Computation](https://en.wikipedia.org/wiki/Theory_of_computation): This field provides the formal models for defining and analyzing algorithms and the limits of computation.
+    - [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics): Many algorithms are designed for and analyzed using concepts from discrete mathematics, such as graph theory and combinatorics.
 
 - **Subfields and concepts it includes**:
     - **Computational Complexity**: The study of the resources (like time and memory) required by an algorithm. Concepts include Big O notation.

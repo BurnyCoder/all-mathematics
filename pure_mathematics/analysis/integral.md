@@ -7,9 +7,9 @@ $$ \int_a^b f(x) \,dx $$
 - **Description**: The integral is the second central concept of calculus. The process of finding an integral is called **integration**. Where differentiation deals with instantaneous rates of change, integration deals with the accumulation of quantities. It is the reverse process of differentiation, a fact captured by the Fundamental Theorem of Calculus.
 
 - **Subfields it's part of**:
-    - [Calculus](https://en.wikipedia.org/wiki/Calculus)
-    - [Integral Calculus](https://en.wikipedia.org/wiki/Integral_calculus)
-    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Calculus](https://en.wikipedia.org/wiki/Calculus): The integral is one of the two fundamental concepts of calculus, alongside the derivative.
+    - [Integral Calculus](https://en.wikipedia.org/wiki/Integral_calculus): The integral is the central object of study in integral calculus.
+    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis): The rigorous definition of the integral (e.g., the Riemann integral, Lebesgue integral) is a core topic in mathematical analysis.
 
 - **Subfields and concepts it includes**:
     - **Riemann Sum**: An approximation of the area under a curve using a sum of rectangles.

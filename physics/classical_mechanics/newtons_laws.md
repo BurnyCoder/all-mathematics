@@ -10,8 +10,8 @@
 - **Description**: These three laws describe the relationship between a body and the forces acting upon it, and its motion in response to those forces. They have been fundamental to the development of technology since their inception and are sufficient for describing the motion of macroscopic objects at speeds much slower than the speed of light.
 
 - **Subfields it's part of**:
-    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
-    - [Physics](https://en.wikipedia.org/wiki/Physics)
+    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics): Newton's laws are the axiomatic foundation of classical mechanics.
+    - [Physics](https://en.wikipedia.org/wiki/Physics): They are a cornerstone of introductory physics and describe a vast range of physical phenomena.
 
 - **Subfields and concepts it includes**:
     - **Force**: An influence that can change the motion of an object.

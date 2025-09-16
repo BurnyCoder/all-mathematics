@@ -10,10 +10,10 @@ $$ \frac{dp_j}{dt} = -\frac{\partial H}{\partial q_j} $$
 - **Description**: Hamiltonian mechanics offers another perspective on classical mechanics. By treating position and momentum on an equal footing, it reveals a deeper symmetry in mechanics. The state of a system is described by a point in phase space, and the evolution of the system is described by the flow of points in this space. This geometric picture is very powerful and provides a direct bridge to quantum mechanics, where the Hamiltonian becomes the energy operator.
 
 - **Subfields it's part of**:
-    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics)
-    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
-    - [Symplectic Geometry](https://en.wikipedia.org/wiki/Symplectic_geometry)
-    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics): Hamiltonian mechanics is one of the two major reformulations of classical mechanics, alongside Lagrangian mechanics.
+    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics): It provides a powerful and abstract formulation of classical mechanics.
+    - [Symplectic Geometry](https://en.wikipedia.org/wiki/Symplectic_geometry): Hamiltonian mechanics is the physical application of symplectic geometry; phase space is a symplectic manifold.
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): The dynamics are described by Hamilton's equations, a set of first-order ordinary differential equations.
 
 - **Subfields and concepts it includes**:
     - **Hamiltonian**: The total energy of the system as a function of position and momentum.

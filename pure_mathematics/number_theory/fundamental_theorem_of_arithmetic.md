@@ -8,8 +8,8 @@ $$ n = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k} $$
 - **Description**: This theorem is one of the most important results in elementary number theory. It establishes that prime numbers are the basic building blocks of all positive integers. The theorem has two parts: first, that such a factorization exists, and second, that it is unique. This uniqueness is crucial for many proofs and algorithms in number theory.
 
 - **Subfields it's part of**:
-    - [Number Theory](https://en.wikipedia.org/wiki/Number_theory)
-    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+    - [Number Theory](https://en.wikipedia.org/wiki/Number_theory): This is a central and foundational theorem of number theory.
+    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics): It is a classic result in pure mathematics, revealing the fundamental structure of the integers.
 
 - **Subfields and concepts it includes**:
     - **Integer**: The numbers \\(\dots, -2, -1, 0, 1, 2, \dots\\).
@@ -28,7 +28,7 @@ $$ n = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k} $$
     - **Unique Factorization Domains (UFDs)**: In abstract algebra, the concept is generalized to other [rings](../algebra/ring.md). A UFD is an integral domain in which every non-zero, non-unit element can be written as a product of prime elements, uniquely up to order and units. The integers $\mathbb{Z}$ are an example of a UFD.
 
 - **Related Concepts**:
-    - **[Prime Number](./prime_number.md)**: The fundamental building block described by the theorem.
+    - **[Prime Number](../algebra/ring.md)**: The fundamental building block described by the theorem.
     - **Euclidean Algorithm**: An efficient method for computing the greatest common divisor of two integers, which does not require factorization.
     - **[Ring Theory](../algebra/ring.md)**: The study of rings generalizes the properties of integers, including the concept of unique factorization.
 

@@ -11,11 +11,11 @@ The goal of the agent is to learn a **policy** $\pi(a|s)$, which is a strategy f
 - **Description**: Reinforcement learning is one of the three main paradigms of machine learning, alongside supervised and unsupervised learning. It is inspired by behaviorist psychology. The agent learns by trial and error, receiving feedback in the form of rewards or punishments. It is particularly suited for problems that involve sequential decision-making and control.
 
 - **Subfields it's part of**:
-    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-    - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-    - [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
-    - [Optimal Control](https://en.wikipedia.org/wiki/Optimal_control)
-    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
+    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Reinforcement learning is one of the three main paradigms of machine learning.
+    - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): It is a key area of AI focused on creating autonomous, decision-making agents.
+    - [Control Theory](https://en.wikipedia.org/wiki/Control_theory): RL is closely related to optimal control, which deals with finding control policies for dynamical systems.
+    - [Optimal Control](https://en.wikipedia.org/wiki/Optimal_control): It can be seen as a set of machine learning techniques for solving optimal control problems.
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory): The environment dynamics are modeled using transition probabilities, a core concept from probability theory.
 
 - **Subfields and concepts it includes**:
     - **Markov Decision Process (MDP)**: The mathematical framework for modeling RL problems. A Markov Decision Process can be represented as a state transition [graph](../../pure_mathematics/discrete_mathematics/graph_theory/graph.md).

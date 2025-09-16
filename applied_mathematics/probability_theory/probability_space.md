@@ -10,10 +10,10 @@
 - **Description**: Probability theory is the branch of mathematics concerned with probability. The probability space is the central object of study, providing a formal, axiomatic foundation for modeling and analyzing randomness. It allows for the assignment of probabilities to events in a consistent and rigorous manner.
 
 - **Subfields it's part of**:
-    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
-    - [Measure Theory](https://en.wikipedia.org/wiki/Measure_theory)
-    - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)
-    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory): The probability space is the foundational axiomatic concept of modern probability theory.
+    - [Measure Theory](https://en.wikipedia.org/wiki/Measure_theory): Probability theory is a branch of measure theory; a probability space is a measure space where the total measure is one.
+    - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics): It provides the mathematical framework for modeling and analyzing random phenomena in science, engineering, and finance.
+    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory): The sample space and event space are defined using the language of set theory.
 
 - **Subfields and concepts it includes**:
     - **Random Variable**: A function from the sample space $\Omega$ to a measurable space (like the real numbers).

@@ -11,10 +11,10 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\pa
 - **Description**: Lagrangian mechanics provides a powerful alternative to the Newtonian approach. Instead of dealing with vector forces, it uses scalar quantities (kinetic and potential energy) and a single variational principle. This often simplifies problems, especially those with constraints (like a bead on a wire), because it allows for the use of any convenient set of generalized coordinates.
 
 - **Subfields it's part of**:
-    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics)
-    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
-    - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations)
-    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+    - [Analytical Mechanics](https://en.wikipedia.org/wiki/Analytical_mechanics): Lagrangian mechanics is one of the two major reformulations of classical mechanics, along with Hamiltonian mechanics.
+    - [Classical Mechanics](https://en.wikipedia.org/wiki/Classical_mechanics): It provides an alternative and often more powerful way to derive the equations of motion compared to the Newtonian approach.
+    - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations): Lagrangian mechanics is a direct application of the calculus of variations to a physical principle (the principle of stationary action).
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): The Euler-Lagrange equations are a set of second-order ordinary differential equations that describe the system's motion.
 
 - **Subfields and concepts it includes**:
     - **Lagrangian**: The core function $L = T - V$.

@@ -8,8 +8,8 @@ $$ \lim_{x \to c} f(x) = L $$
 - **Description**: The concept of a limit is the foundational idea upon which all of calculus is built. It formalizes the notion of "getting arbitrarily close" to a point. Limits are used to define the two other fundamental concepts of calculus: the derivative (as the limit of the slope of secant lines) and the integral (as the limit of Riemann sums).
 
 - **Subfields it's part of**:
-    - [Calculus](https://en.wikipedia.org/wiki/Calculus)
-    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Calculus](https://en.wikipedia.org/wiki/Calculus): The concept of a limit is the foundational cornerstone upon which calculus is built.
+    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis): Mathematical analysis is the field that provides the rigorous definition of the limit and studies its consequences.
 
 - **Subfields and concepts it includes**:
     - **(ε, δ)-definition**: The formal, rigorous definition of a limit.
@@ -33,8 +33,8 @@ $$ \lim_{x \to c} f(x) = L $$
     - **Limits in Category Theory**: The concepts of limits and colimits in [category theory](../../foundations_of_mathematics/category_theory/category.md) are a vast generalization of limits in analysis.
 
 - **Related Concepts**:
-    - **Derivative**: Defined as the limit of the average rate of change.
-    - **Integral**: Defined as the limit of a sum of areas of rectangles.
+    - **[Derivative](./derivative.md)**: Defined as the limit of the average rate of change.
+    - **[Integral](./integral.md)**: Defined as the limit of a sum of areas of rectangles.
     - **[Topological Space](../topology/topological_space.md)**: Provides a general setting for defining limits.
     - **Asymptote**: A line that a curve approaches as it heads towards infinity. The behavior of the function near the asymptote is described by a limit.
 

@@ -9,9 +9,9 @@ A sentence $\phi$ in the language $\mathcal{L}$ is said to be **true in the stru
 - **Description**: A structure is a concrete mathematical object that realizes the abstract syntax of a formal language. Model theory is the study of the relationship between formal theories (sets of sentences in a formal language) and their models (the structures in which those sentences are true). It provides a way to study formal systems by looking at the mathematical objects they describe. For example, the set of natural numbers with the operations of addition and multiplication is a model of the theory of Peano Arithmetic.
 
 - **Subfields it's part of**:
-    - [Model Theory](https://en.wikipedia.org/wiki/Model_theory)
-    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic)
-    - [Universal Algebra](https://en.wikipedia.org/wiki/Universal_algebra)
+    - [Model Theory](https://en.wikipedia.org/wiki/Model_theory): A structure is the central object of study in model theory.
+    - [Mathematical Logic](https://en.wikipedia.org/wiki/Mathematical_logic): Model theory is a branch of mathematical logic that deals with the relationship between formal languages and their interpretations.
+    - [Universal Algebra](https://en.wikipedia.org/wiki/Universal_algebra): The study of algebraic structures (which are models) in a general, abstract way.
 
 - **Subfields and concepts it includes**:
     - **Formal Language**: The syntax for which a structure provides semantics.

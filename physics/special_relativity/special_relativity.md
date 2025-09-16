@@ -13,10 +13,10 @@ $$ z' = z $$
 - **Description**: Proposed in 1905 by Albert Einstein, special relativity revolutionized the understanding of space and time. It showed that space and time are intertwined into a single continuum known as **spacetime**. The theory leads to several counter-intuitive but experimentally verified consequences, including time dilation, length contraction, and the relativity of simultaneity. It also established the equivalence of mass and energy, expressed by the famous equation $E=mc^2$.
 
 - **Subfields it's part of**:
-    - [Relativity](https://en.wikipedia.org/wiki/Theory_of_relativity)
-    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics)
-    - [Geometry](https://en.wikipedia.org/wiki/Geometry)
-    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Relativity](https://en.wikipedia.org/wiki/Theory_of_relativity): Special relativity is the part of the theory of relativity that deals with inertial frames of reference.
+    - [Fundamental Physics](https://en.wikipedia.org/wiki/Fundamental_physics): It provides a fundamental description of space, time, and motion.
+    - [Geometry](https://en.wikipedia.org/wiki/Geometry): The theory introduced a new geometrical structure for the universe, Minkowski spacetime.
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra): The Lorentz transformations, which are central to the theory, are linear transformations on a 4D vector space.
 
 - **Subfields and concepts it includes**:
     - **Spacetime**: The four-dimensional manifold combining space and time. Spacetime is a specific type of [manifold](../../pure_mathematics/geometry/manifold.md) (Minkowski space).

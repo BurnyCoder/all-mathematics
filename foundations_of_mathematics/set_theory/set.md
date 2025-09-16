@@ -5,8 +5,8 @@
 - **Description**: The concept of a set is one of the most fundamental in modern mathematics. The study of sets is known as set theory. Naive set theory, which treats sets as any collection of objects, can lead to paradoxes such as [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox). This led to the development of axiomatic set theory, such as [Zermelo–Fraenkel set theory with the axiom of choice (ZFC)](./zfc.md), which provides a more rigorous foundation.
 
 - **Subfields it's part of**:
-    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
-    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics)
+    - [Set Theory](https://en.wikipedia.org/wiki/Set_theory): A set is the fundamental object of study in set theory.
+    - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): Set theory is the standard foundation for modern mathematics.
 
 - **Subfields and concepts it includes**:
     - **Element/Member**: An object belonging to a set.
@@ -39,8 +39,8 @@
     - **Fuzzy Set**: A set where elements have a degree of membership, typically a real number in $[0, 1]$.
 
 - **Related Concepts**:
-    - **[Function](../pure_mathematics/algebra/function.md)**: A rule that assigns each element of a set (the domain) to exactly one element of another set (the codomain).
-    - **[Relation](../pure_mathematics/algebra/relation.md)**: A set of ordered pairs, which is a subset of the Cartesian product of two or more sets.
-    - **[Category Theory](../foundations_of_mathematics/category_theory/category.md)**: A more abstract and general framework for mathematics that deals with objects and morphisms (arrows) between them, where sets are a primary example of a category.
+    - **[Function](./function.md)**: A rule that assigns each element of a set (the domain) to exactly one element of another set (the codomain).
+    - **[Relation](./relation.md)**: A set of ordered pairs, which is a subset of the Cartesian product of two or more sets.
+    - **[Category Theory](../category_theory/category.md)**: A more abstract and general framework for mathematics that deals with objects and morphisms (arrows) between them, where sets are a primary example of a category.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Set_(mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics))

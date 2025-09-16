@@ -7,9 +7,9 @@ $$ f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h} $$
 - **Description**: The derivative is a cornerstone of calculus and mathematical analysis. The process of finding a derivative is called **differentiation**. It provides a way to describe how a function is changing at any given point. This concept is fundamental to modeling dynamic systems in all of science and engineering.
 
 - **Subfields it's part of**:
-    - [Calculus](https://en.wikipedia.org/wiki/Calculus)
-    - [Differential Calculus](https://en.wikipedia.org/wiki/Differential_calculus)
-    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+    - [Calculus](https://en.wikipedia.org/wiki/Calculus): The derivative is one of the two fundamental concepts of calculus, along with the integral.
+    - [Differential Calculus](https://en.wikipedia.org/wiki/Differential_calculus): The derivative is the central object of study in differential calculus.
+    - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis): The rigorous definition and properties of the derivative are a core part of mathematical analysis.
 
 - **Subfields and concepts it includes**:
     - **Tangent Line**: The geometric interpretation of the derivative.
@@ -36,7 +36,7 @@ $$ f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h} $$
 
 - **Related Concepts**:
     - **[Limit](./limit.md)**: The derivative is defined as a limit.
-    - **Integral**: The fundamental theorem of calculus establishes the relationship between derivatives and integrals.
+    - **[Integral](./integral.md)**: The fundamental theorem of calculus establishes the relationship between derivatives and integrals.
     - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: An equation built upon the derivatives of a function.
     - **Gradient**: A vector of the partial derivatives of a multivariable function, which points in the direction of the steepest ascent.
 

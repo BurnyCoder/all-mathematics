@@ -8,9 +8,9 @@
 - **Description**: Graph theory is a major branch of discrete mathematics. Graphs are one of the most ubiquitous models in computer science and applied mathematics, used to represent networks of all kinds, from social networks and computer networks to molecular structures and dependencies in a project.
 
 - **Subfields it's part of**:
-    - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
-    - [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics)
-    - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
+    - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory): A graph is the fundamental object of study in graph theory.
+    - [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics): Graph theory is a core pillar of discrete mathematics.
+    - [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics): Graph theory is closely related to combinatorics, and many graph problems are combinatorial in nature (e.g., counting paths or colorings).
 
 - **Subfields and concepts it includes**:
     - **Vertex and Edge**: The fundamental components of a graph.

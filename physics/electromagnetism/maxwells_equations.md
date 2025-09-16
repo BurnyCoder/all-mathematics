@@ -14,9 +14,9 @@
 - **Description**: Maxwell's equations provide a complete mathematical description of the behavior of electric and magnetic fields. They unified electricity, magnetism, and optics, demonstrating that light is an electromagnetic wave. These equations are one of the cornerstones of modern physics.
 
 - **Subfields it's part of**:
-    - [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism)
-    - [Classical Physics](https://en.wikipedia.org/wiki/Classical_physics)
-    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+    - [Electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism): These are the fundamental equations of classical electromagnetism.
+    - [Classical Physics](https://en.wikipedia.org/wiki/Classical_physics): They represent one of the great triumphs of 19th-century physics, unifying electricity, magnetism, and optics.
+    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): They are a system of coupled first-order partial differential equations.
 
 - **Subfields and concepts it includes**:
     - **Electric Field ($\mathbf{E}$)**: A vector field that describes the electric force on a charged particle.

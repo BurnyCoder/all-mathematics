@@ -7,10 +7,10 @@ $$ y = \beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p + \epsilon $$
 - **Description**: Regression analysis is a powerful statistical method that allows for examining the relationship between two or more variables of interest. It is a core tool for prediction and forecasting. The goal is to build a model that can predict the value of a dependent variable based on the values of the independent variables.
 
 - **Subfields it's part of**:
-    - [Statistics](https://en.wikipedia.org/wiki/Statistics)
-    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-    - [Econometrics](https://en.wikipedia.org/wiki/Econometrics)
-    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Statistics](https://en.wikipedia.org/wiki/Statistics): Regression is a cornerstone of inferential statistics, used for modeling and prediction.
+    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Linear regression is one of the fundamental supervised learning algorithms.
+    - [Econometrics](https://en.wikipedia.org/wiki/Econometrics): Regression analysis is the primary tool used in econometrics to estimate economic relationships.
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra): The formulation and solution of multiple regression problems are expressed and solved using the language of linear algebra.
 
 - **Subfields and concepts it includes**:
     - **Linear Regression**: The most basic form of regression.

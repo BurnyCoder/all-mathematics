@@ -17,9 +17,9 @@
 - **Description**: Rings are fundamental algebraic structures that generalize the arithmetic of the integers. They consist of a set with two operations that behave like addition and multiplication, though with fewer restrictions than standard arithmetic (for instance, multiplication need not be commutative, and multiplicative inverses may not exist). The study of rings is known as ring theory.
 
 - **Subfields it's part of**:
-    - [Ring Theory](https://en.wikipedia.org/wiki/Ring_theory)
-    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
-    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics)
+    - [Ring Theory](https://en.wikipedia.org/wiki/Ring_theory): A ring is the fundamental object of study in ring theory.
+    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra): Ring theory is a major branch of abstract algebra, alongside group theory and field theory.
+    - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics): Rings are one of the fundamental algebraic structures studied in pure mathematics.
 
 - **Subfields and concepts it includes**:
     - **Subring**: A subset of a ring that is itself a ring under the same operations.
@@ -47,7 +47,7 @@
 
 - **Related Concepts**:
     - **[Group](./group.md)**: A ring's structure under addition is an abelian group.
-    - **Field**: A field is a special, more structured type of ring. Every field is a ring.
+    - **[Field](./field.md)**: A field is a special, more structured type of ring. Every field is a ring.
     - **Module**: A generalization of a vector space where the scalars come from a ring instead of a field.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Ring_(mathematics)](https://en.wikipedia.org/wiki/Ring_(mathematics))

@@ -11,12 +11,12 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
 - **Description**: The Schrödinger equation is the central equation of quantum mechanics. Its solution, the wave function, does not give the exact position and momentum of a particle but instead describes the probability of finding the particle at a given position or with a given momentum. The square of the magnitude of the wave function, $|\Psi|^2$, represents the probability density. This probabilistic nature is a fundamental departure from classical mechanics.
 
 - **Subfields it's part of**:
-    - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
-    - [Physics](https://en.wikipedia.org/wiki/Physics)
-    - [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation)
-    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
-    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory)
-    - [Fourier Analysis](https://en.wikipedia.org/wiki/Fourier_analysis)
+    - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics): The Schrödinger equation is the fundamental equation of motion in non-relativistic quantum mechanics.
+    - [Physics](https://en.wikipedia.org/wiki/Physics): It is one of the most important equations in modern physics, describing the behavior of atoms and subatomic particles.
+    - [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation): Mathematically, it is a linear partial differential equation.
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra): The state of a quantum system is described by a vector in a Hilbert space, and observables are represented by linear operators.
+    - [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory): The wave function is used to calculate the probabilities of measurement outcomes.
+    - [Fourier Analysis](https://en.wikipedia.org/wiki/Fourier_analysis): Fourier analysis is a key tool for solving the Schrödinger equation and for understanding the relationship between position and momentum representations.
 
 - **Subfields and concepts it includes**:
     - **Wave Function ($\Psi$)**: The mathematical description of the quantum state of a system.
@@ -43,5 +43,8 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
     - **Dirac Equation**: A relativistic wave equation that describes electrons and is consistent with both quantum mechanics and special relativity.
     - **Klein-Gordon Equation**: A relativistic wave equation for spin-0 particles.
     - **Quantum Field Theory (QFT)**: The framework that extends quantum mechanics to fields, providing the basis for the Standard Model of particle physics.
+
+- **Related Concepts**:
+    - **[Hamiltonian Mechanics](../analytical_mechanics/hamiltonian_mechanics.md)**: The Hamiltonian operator in the Schrödinger equation is the quantum mechanical analogue of the Hamiltonian in classical mechanics.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
