@@ -54,6 +54,8 @@ This list organizes concepts by their primary fields of application.
 - [Yoneda Lemma](../foundations_of_mathematics/category_theory/yoneda_lemma.md) (Functional Programming)
 - [Gödel's Incompleteness Theorems](../foundations_of_mathematics/logic/godels_incompleteness_theorems.md) (Computability Theory)
 - [ZFC Set Theory](../foundations_of_mathematics/set_theory/zfc.md) (Foundations of CS)
+- [Halting Problem](../foundations_of_mathematics/computability_theory/halting_problem.md) (Computability Theory)
+- [Lambda Calculus](../foundations_of_mathematics/computability_theory/lambda_calculus.md) (Computability Theory)
 
 ## Machine Learning
 

@@ -32,7 +32,7 @@
 - **Subfields and concepts it includes**:
     - **Skill-Acquisition Efficiency**: The core idea that intelligence is about how efficiently a system learns.
     - **Algorithmic Complexity (Kolmogorov Complexity)**: The theoretical tool from Algorithmic Information Theory used to quantify the concepts of generalization, priors, and experience.
-        - **[Computability Theory](../../foundations_of_mathematics/computability_theory/turing_machine.md)**: The foundations of Algorithmic Information Theory lie in computability theory, which defines the universal Turing machine—the basis for defining algorithmic complexity.
+        - **[Computability Theory](../../theory_of_computation/turing_machine.md)**: The foundations of Algorithmic Information Theory lie in computability theory, which defines the universal Turing machine—the basis for defining algorithmic complexity.
         - **[Mathematical Logic](../../foundations_of_mathematics/logic/first_order_logic.md)**: The entire framework of computation and information is built upon principles of mathematical logic.
     - **[Probability Theory](../../applied_mathematics/probability_theory/probability_space.md)**: The definition involves averaging over task scopes and curricula, using concepts like expectation ($Avg$) and probability distributions over curricula ($P_C$).
     - **Generalization**: The ability to handle situations that differ from previously encountered ones. The definition uses a formal measure of "generalization difficulty".

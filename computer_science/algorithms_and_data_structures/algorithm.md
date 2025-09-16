@@ -37,7 +37,7 @@
     - **Metaheuristic**: A high-level procedure or heuristic designed to find, generate, or select a heuristic that may provide a sufficiently good solution to an optimization problem.
 
 - **Related Concepts**:
-    - **[Turing Machine](../../foundations_of_mathematics/computability_theory/turing_machine.md)**: The formal mathematical model of a computer used to define an algorithm rigorously.
+    - **[Turing Machine](../theory_of_computation/turing_machine.md)**: The formal mathematical model of a computer used to define an algorithm rigorously.
     - **Data Structure**: Algorithms operate on data, and the choice of data structure is critical to an algorithm's efficiency.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Algorithm](https://en.wikipedia.org/wiki/Algorithm)

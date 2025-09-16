@@ -18,3 +18,8 @@ Computer science is the study of computation, information, and automation. It ha
 
 ### [Information Theory](./information_theory/)
 - [Shannon Entropy](./information_theory/entropy.md)
+
+### [Theory of Computation](./theory_of_computation/)
+- [Turing Machine](./theory_of_computation/turing_machine.md)
+- [Lambda Calculus](./theory_of_computation/lambda_calculus.md)
+- [Halting Problem](./theory_of_computation/halting_problem.md)

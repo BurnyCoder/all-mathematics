@@ -21,6 +21,8 @@ The most abstract ideas, forming the bedrock of logic and mathematics.
 - **Theory of Computation**:
     - [Turing Machine](../foundations_of_mathematics/computability_theory/turing_machine.md)
     - [Algorithm](../computer_science/algorithms_and_data_structures/algorithm.md)
+    - [Halting Problem](../foundations_of_mathematics/computability_theory/halting_problem.md)
+    - [Lambda Calculus](../foundations_of_mathematics/computability_theory/lambda_calculus.md)
 
 ## Tier 2: Core Abstract Structures
 

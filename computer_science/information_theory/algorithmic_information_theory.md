@@ -14,7 +14,7 @@
 
 - **Subfields it's part of**:
     - [Information Theory](./entropy.md)
-    - [Computability Theory](../../foundations_of_mathematics/computability_theory/turing_machine.md)
+    - [Computability Theory](../theory_of_computation/turing_machine.md)
     - [Computer Science](../README.md)
     - [Foundations of Mathematics](../../foundations_of_mathematics/README.md)
 

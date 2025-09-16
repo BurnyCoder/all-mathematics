@@ -22,7 +22,7 @@
     - **Tape**: The machine's memory, an infinite strip of cells.
     - **Transition Function**: The "program" of the machine, which dictates its actions.
     - **Computable Function**: A function for which a Turing machine can compute the output for any given input.
-    - **Halting Problem**: The undecidable problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running or continue to run forever.
+    - **[Halting Problem](./halting_problem.md)**: The undecidable problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running or continue to run forever.
 
 - **Applications**:
     - **Theoretical Computer Science**: Used to prove fundamental limits on the power of computers. It forms the basis of complexity theory.
@@ -37,8 +37,8 @@
     - **Oracle Machine**: A Turing machine with a "black box" (an oracle) that can solve a specific problem in a single step.
 
 - **Related Concepts**:
-    - **[Algorithm](../../computer_science/algorithms_and_data_structures/algorithm.md)**: The Church-Turing thesis uses the Turing machine to formally define what an algorithm is.
-    - **[First-Order Logic](../logic/first_order_logic.md)**: Computability theory is deeply connected to questions about the decidability of logical theories.
-    - **Gödel's Incompleteness Theorems**: Turing's work on the halting problem was inspired by and closely related to Gödel's work on the limits of formal mathematical systems.
+    - **[Algorithm](../algorithms_and_data_structures/algorithm.md)**: The Church-Turing thesis uses the Turing machine to formally define what an algorithm is.
+    - **[First-Order Logic](../../foundations_of_mathematics/logic/first_order_logic.md)**: Computability theory is deeply connected to questions about the decidability of logical theories.
+    - **[Gödel's Incompleteness Theorems](../../foundations_of_mathematics/logic/godels_incompleteness_theorems.md)**: Turing's work on the halting problem was inspired by and closely related to Gödel's work on the limits of formal mathematical systems.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Turing_machine](https://en.wikipedia.org/wiki/Turing_machine)

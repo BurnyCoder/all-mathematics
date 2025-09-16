@@ -113,6 +113,11 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Shannon Entropy](../computer_science/information_theory/entropy.md)
 - [Algorithmic Information Theory](../computer_science/information_theory/algorithmic_information_theory.md)
 
+### Theory of Computation
+- [Turing Machine](../computer_science/theory_of_computation/turing_machine.md)
+- [Lambda Calculus](../computer_science/theory_of_computation/lambda_calculus.md)
+- [Halting Problem](../computer_science/theory_of_computation/halting_problem.md)
+
 ## Physics
 
 ### Classical Mechanics

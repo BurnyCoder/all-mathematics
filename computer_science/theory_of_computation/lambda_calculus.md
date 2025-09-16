@@ -42,8 +42,8 @@
 
 - **Related Concepts**:
     - **[Turing Machine](./turing_machine.md)**: Lambda calculus and Turing machines are equivalent in computational power (Church-Turing thesis).
-    - **[Type Theory](../type_theory/type_theory.md)**: Deeply connected, with typed lambda calculi forming the basis of many type theories.
+    - **[Type Theory](../../foundations_of_mathematics/type_theory/type_theory.md)**: Deeply connected, with typed lambda calculi forming the basis of many type theories.
     - **Combinatory Logic**: An alternative model of computation that eliminates the need for bound variables.
-    - **[First-Order Logic](../logic/first_order_logic.md)**: While different in nature, both are fundamental systems in mathematical logic.
+    - **[First-Order Logic](../../foundations_of_mathematics/logic/first_order_logic.md)**: While different in nature, both are fundamental systems in mathematical logic.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Lambda_calculus](https://en.wikipedia.org/wiki/Lambda_calculus)

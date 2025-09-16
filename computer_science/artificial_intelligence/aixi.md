@@ -32,7 +32,7 @@ $$ a_t := \arg \max_{a_t} \sum_{o_t r_t} \ldots \max_{a_m} \sum_{o_m r_m} [r_t +
 
 - **Related Concepts**:
     - **[Reinforcement Learning](./reinforcement_learning.md)**: AIXI is formulated as a reinforcement learning agent.
-    - **[Turing Machine](../../../foundations_of_mathematics/computability_theory/turing_machine.md)**: The formalism relies on the concept of a universal Turing machine to model all computable environments.
+    - **[Turing Machine](../../theory_of_computation/turing_machine.md)**: The formalism relies on the concept of a universal Turing machine to model all computable environments.
     - **Solomonoff's theory of inductive inference**: AIXI's prediction model is based on this theory.
     - **Occam's Razor**: The principle of preferring simpler explanations is mathematically formalized through the $2^{-\text{length}(q)}$ weighting.
     - **Computability theory**: The theory is grounded in what is and is not computable.

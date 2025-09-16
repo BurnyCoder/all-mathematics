@@ -16,9 +16,6 @@ The foundations of mathematics is the study of the basic mathematical concepts, 
 ### [Category Theory](./category_theory/)
 - [Category](./category_theory/category.md)
 
-### [Computability Theory](./computability_theory/)
-- [Turing Machine](./computability_theory/turing_machine.md)
-
 ### [Model Theory](./model_theory/)
 - [Structure](./model_theory/structure.md)
 
