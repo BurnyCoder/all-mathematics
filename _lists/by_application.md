@@ -48,6 +48,7 @@ This list organizes concepts by their primary fields of application.
 - [Matrix](../pure_mathematics/linear_algebra/matrix.md) (Weights in Neural Networks)
 - [Eigenvectors and Eigenvalues](../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md) (Principal Component Analysis)
 - [Support Vector Machine (SVM)](../computer_science/machine_learning/svm.md)
+- [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md) (Deep Learning Theory)
 - [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
 - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md) (Bayesian Inference, Classifiers)
 - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)

@@ -86,7 +86,9 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Machine Learning
 - [Artificial Neural Network](../computer_science/machine_learning/artificial_neural_network.md)
 - [Gradient Descent](../computer_science/machine_learning/gradient_descent.md)
+- [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md)
 - [Support Vector Machine](../computer_science/machine_learning/svm.md)
+- [Transformer](../computer_science/machine_learning/transformer.md)
 
 ### Artificial Intelligence
 - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)

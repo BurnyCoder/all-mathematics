@@ -84,4 +84,5 @@ Concrete, high-level theories and models that describe specific phenomena or sol
     - [Artificial Neural Network](../computer_science/machine_learning/artificial_neural_network.md)
     - [Support Vector Machine (SVM)](../computer_science/machine_learning/svm.md)
     - [Transformer](../computer_science/machine_learning/transformer.md)
+    - [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md)
     - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)
