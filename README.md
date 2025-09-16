@@ -28,8 +28,8 @@ The content is organized hierarchically into major fields. Each concept has its 
 This knowledge base can be navigated in several ways:
 
 - **By Field**: Start from one of the main areas above and dive into specific subfields. See the comprehensive [List of Concepts by Field](./_lists/by_field.md).
-- **By Generality**: (Coming soon) A list of concepts organized from the most abstract and general to the most concrete.
-- **By Application**: (Coming soon) A list of concepts organized by their field of application.
+- **By Generality**: A list of concepts organized from the most abstract and general to the most concrete. See the [List of Concepts by Generality](./_lists/by_generality.md).
+- **By Application**: A list of concepts organized by their field of application. See the [List of Concepts by Application](./_lists/by_application.md).
 - **Graphical View**: (Coming soon) A graph visualizing the connections between concepts.
 
 ## File Structure
