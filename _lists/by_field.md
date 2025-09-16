@@ -75,9 +75,6 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Statistics
 - [Correlation](../applied_mathematics/statistics/correlation.md)
 
-### Fluid Dynamics
-- [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
-
 ### Monte Carlo Method
 - [Monte Carlo Method](../applied_mathematics/monte_carlo_method/monte_carlo_method.md)
 - [Markov Chain Monte Carlo](../applied_mathematics/monte_carlo_method/markov_chain_monte_carlo.md)
@@ -126,3 +123,6 @@ This file provides a centralized list of all concepts in the knowledge base, org
 
 ### General Relativity
 - [Einstein's Field Equations](../physics/general_relativity/einstein_field_equations.md)
+
+### Fluid Dynamics
+- [Navier-Stokes Equations](../physics/fluid_dynamics/navier_stokes_equations.md)

@@ -34,3 +34,6 @@ Physics is the natural science that studies matter, its fundamental constituents
 - [Boltzmann's Entropy Formula](./thermodynamics/boltzmanns_entropy_formula.md)
 - [Entropy Production](./thermodynamics/entropy_production.md)
 - [Onsager Reciprocal Relations](./thermodynamics/onsager_reciprocal_relations.md)
+
+### [Fluid Dynamics](./fluid_dynamics/)
+- [Navier-Stokes Equations](./fluid_dynamics/navier_stokes_equations.md)

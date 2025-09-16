@@ -20,7 +20,7 @@ This list organizes concepts by their primary fields of application.
 - [Einstein's Field Equations](../physics/general_relativity/einstein_field_equations.md)
 - [Schrödinger Equation](../physics/quantum_mechanics/schrodinger_equation.md)
 - [The Standard Model of Particle Physics](../physics/particle_physics/standard_model.md)
-- [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md) (Fluid Dynamics)
+- [Navier-Stokes Equations](../physics/fluid_dynamics/navier_stokes_equations.md) (Fluid Dynamics)
 - [Topos](../foundations_of_mathematics/topos_theory/topos.md) (Quantum Gravity Theories)
 - [Category](../foundations_of_mathematics/category_theory/category.md) (Quantum Field Theory)
 
@@ -60,7 +60,7 @@ This list organizes concepts by their primary fields of application.
 - [Integral](../pure_mathematics/analysis/integral.md) (Signal Processing, System Accumulation)
 - [Taylor Series](../pure_mathematics/analysis/taylor_series.md) (Linearization, Approximations)
 - [Euler's Identity](../pure_mathematics/analysis/eulers_identity.md) (Signal Processing, Circuit Analysis)
-- [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md) (Aerodynamics, Hydrodynamics)
+- [Navier-Stokes Equations](../physics/fluid_dynamics/navier_stokes_equations.md) (Aerodynamics, Hydrodynamics)
 - [Newton's Laws of Motion](../physics/classical_mechanics/newtons_laws.md) (Mechanical and Civil Engineering)
 
 ## Economics and Finance

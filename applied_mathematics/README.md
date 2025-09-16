@@ -14,6 +14,3 @@ Applied mathematics is a branch of mathematics that concerns itself with mathema
 
 ### [Statistics](./statistics/)
 - [Correlation](./statistics/correlation.md)
-
-### [Fluid Dynamics](./fluid_dynamics/)
-- [Navier-Stokes Equations](./fluid_dynamics/navier_stokes_equations.md)

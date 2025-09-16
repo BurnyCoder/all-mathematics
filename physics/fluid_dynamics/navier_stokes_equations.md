@@ -24,10 +24,10 @@ $$ \nabla \cdot \mathbf{v} = 0 $$
     - **Turbulence**: The chaotic and unpredictable motion that arises in many fluid flows.
     - **Laminar Flow**: Smooth, orderly fluid motion, which occurs at low velocities.
     - **Incompressibility**: An assumption that the density of the fluid is constant.
-    - **[Vector Calculus](../../../pure_mathematics/analysis/derivative.md)**: The equations are expressed using vector calculus concepts like the gradient and divergence, which are based on partial derivatives.
-    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**:
-        - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: The fluid velocity is a vector field, a key concept built upon vector spaces.
-        - **[Linear Transformation](../../../pure_mathematics/linear_algebra/linear_transformation.md)**: The viscous stress tensor, which relates shear stress to the rate of strain, is a linear transformation.
+    - **[Vector Calculus](../../pure_mathematics/analysis/derivative.md)**: The equations are expressed using vector calculus concepts like the gradient and divergence, which are based on partial derivatives.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**:
+        - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The fluid velocity is a vector field, a key concept built upon vector spaces.
+        - **[Linear Transformation](../../pure_mathematics/linear_algebra/linear_transformation.md)**: The viscous stress tensor, which relates shear stress to the rate of strain, is a linear transformation.
 
 - **Applications**:
     - **Engineering**: Designing aircraft (aerodynamics) and ships (hydrodynamics), modeling blood flow in arteries, and designing pipelines and ventilation systems.
@@ -43,6 +43,6 @@ $$ \nabla \cdot \mathbf{v} = 0 $$
     - **Relativistic Fluid Dynamics**: Extends the equations to be consistent with general relativity.
 
 - **Related Concepts**:
-    - **[Newton's Laws of Motion](../../physics/classical_mechanics/newtons_laws.md)**: The equations are a continuum mechanics application of Newton's second law.
+    - **[Newton's Laws of Motion](../classical_mechanics/newtons_laws.md)**: The equations are a continuum mechanics application of Newton's second law.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)

@@ -75,7 +75,7 @@ Concrete, high-level theories and models that describe specific phenomena or sol
     - [Einstein's Field Equations](../physics/general_relativity/einstein_field_equations.md)
     - [Schrödinger Equation](../physics/quantum_mechanics/schrodinger_equation.md)
     - [The Standard Model of Particle Physics](../physics/particle_physics/standard_model.md)
-    - [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
+    - [Navier-Stokes Equations](../physics/fluid_dynamics/navier_stokes_equations.md)
 - **Applied Mathematics & Statistics**:
     - [Differential Equation](../applied_mathematics/differential_equations/differential_equation.md)
 
