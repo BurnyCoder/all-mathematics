@@ -18,7 +18,7 @@ $$ y = \beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p + \epsilon $$
     - **Residuals**: The differences between the observed values and the values predicted by the model.
     - **Goodness of Fit (R-squared)**: A statistic that measures how well the model explains the variability of the dependent variable.
     - **Hypothesis Testing**: Used to determine if the relationship between the variables is statistically significant.
-    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**:
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra):
         - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: The independent variables can be viewed as vectors in a vector space.
         - **[Matrix](../../../pure_mathematics/linear_algebra/matrix.md)**: The data for multiple regression is typically organized in a matrix.
 

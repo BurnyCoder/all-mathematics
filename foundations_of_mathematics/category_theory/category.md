@@ -11,7 +11,6 @@ This composition must satisfy two axioms:
 - **Description**: Category theory is a highly abstract branch of mathematics that formalizes mathematical structures and their relationships in a unified way. It emphasizes the relationships (morphisms) between objects rather than the internal structure of the objects themselves. It has been described as a "general theory of functions" and provides a powerful alternative language for the foundations of mathematics.
 
 - **Subfields it's part of**:
-    - [Category Theory](https://en.wikipedia.org/wiki/Category_theory): A category is the fundamental object of study in category theory.
     - [Foundations of Mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics): Category theory provides an alternative to set theory as a foundation for mathematics.
     - [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics) (especially Abstract Algebra, Algebraic Topology, and Homological Algebra): It serves as a unifying language for many fields of pure mathematics.
 
@@ -46,6 +45,6 @@ This composition must satisfy two axioms:
 - **Related Concepts**:
     - **[Set Theory](../set_theory/set.md)**: The category **Set** is the most common and intuitive example of a category. Category theory can be seen as an alternative or a generalization of set theory for founding mathematics.
     - **Universal Algebra**: Studies algebraic structures in general, and category theory provides a powerful language for this.
-    - **[Abstract Algebra](../../pure_mathematics/algebra/group.md)**: Many structures from abstract algebra (groups, rings, fields) form important examples of categories.
+    - [Abstract Algebra](https://en.wikipedia.org/wiki/Abstract_algebra): Many structures from abstract algebra (groups, rings, fields) form important examples of categories.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Category_theory](https://en.wikipedia.org/wiki/Category_theory)

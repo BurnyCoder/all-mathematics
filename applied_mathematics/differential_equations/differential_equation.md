@@ -7,7 +7,6 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
 - **Description**: Differential equations are a fundamental tool used to model and understand systems that are characterized by change. They allow scientists and engineers to describe how a quantity or system evolves over time or space. The study of differential equations consists of the study of their solutions (the set of functions that satisfy each equation), and of the properties of their solutions.
 
 - **Subfields it's part of**:
-    - [Differential Equations](https://en.wikipedia.org/wiki/Differential_equation): The very field dedicated to the study of these equations.
     - [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics): Differential equations are a primary tool for modeling real-world phenomena.
     - [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis): The study of solutions often involves rigorous analysis of functions, limits, and continuity.
     - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra): The theory of linear differential equations and systems of equations heavily relies on linear algebra concepts like vector spaces and eigenvalues.
@@ -20,10 +19,10 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - **Linearity**: An equation is linear if the unknown function and its derivatives appear only to the power of 1.
     - **Homogeneity**: A linear equation is homogeneous if there are no terms that are independent of the unknown function and its derivatives.
     - **Existence and Uniqueness Theorems**: Theorems that give conditions under which solutions exist and are unique.
-    - **[Calculus](../../pure_mathematics/analysis/)**: Provides the foundational tools of derivatives and integrals used to define and solve differential equations.
+    - [Calculus](https://en.wikipedia.org/wiki/Calculus): Provides the foundational tools of derivatives and integrals used to define and solve differential equations.
         - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The core concept that defines a differential equation.
         - **[Integral](../../pure_mathematics/analysis/integral.md)**: Solving a differential equation is a form of integration.
-    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Crucial for understanding systems of linear differential equations and the structure of their solution spaces.
+    - [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra): Crucial for understanding systems of linear differential equations and the structure of their solution spaces.
         - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The set of solutions to a linear homogeneous differential equation forms a vector space.
         - **[Eigenvectors and Eigenvalues](../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Essential for solving systems of linear ordinary differential equations with constant coefficients.
 
