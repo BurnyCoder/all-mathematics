@@ -78,6 +78,11 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Fluid Dynamics
 - [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
 
+### Monte Carlo Method
+- [Monte Carlo Method](../applied_mathematics/monte_carlo_method/monte_carlo_method.md)
+- [Markov Chain Monte Carlo](../applied_mathematics/monte_carlo_method/markov_chain_monte_carlo.md)
+- [Monte Carlo Tree Search](../applied_mathematics/monte_carlo_method/monte_carlo_tree_search.md)
+
 ## Computer Science
 
 ### Algorithms and Data Structures
