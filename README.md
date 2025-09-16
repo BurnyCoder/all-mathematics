@@ -2,6 +2,8 @@
 
 This repository aims to be a comprehensive, interconnected knowledge base of mathematical and scientific concepts, from the foundational to the applied.
 
+**Warning**: This project has a lot of AI generated structuring of a lot of information and human double checking might have missed corrections of some hallucinations. Make sure to double check with Google, Wikipedia, etc.
+
 ## Structure
 
 The content is organized hierarchically into major fields. Each concept has its own file, detailing its definition, applications, variants, and relationships to other concepts.
