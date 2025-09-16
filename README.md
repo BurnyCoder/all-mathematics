@@ -2,7 +2,7 @@
 
 This repository aims to be a comprehensive, interconnected knowledge base of mathematical concepts from pure mathematics and applied mathematics, from the general to the concrete, from the foundational to the applied, showing the rich web of connections between them.
 
-**Warning**: This project has a lot of AI generated structuring of a lot of information and human double checking might have missed corrections of some hallucinations. Make sure to double check with Google, Wikipedia, etc.
+**Warning**: This project has a lot of AI assisted structuring of a lot of information and human double checking might have missed corrections of some hallucinations. Make sure to double check with Google, Wikipedia, etc.
 
 ## Structure
 
