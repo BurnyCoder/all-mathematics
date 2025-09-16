@@ -48,20 +48,7 @@ This knowledge base can be navigated in several ways:
 │   ├── differential_equations
 │   │   ├── black_scholes_equation.md
 │   │   ├── differential_equation.md
-│   │   ├── heat_equation.md
-│   │   ├── lotka_volterra_equations.md
-│   │   └── wave_equation.md
-│   ├── monte_carlo_method
-│   │   ├── markov_chain_monte_carlo.md
-│   │   ├── monte_carlo_method.md
-│   │   └── monte_carlo_tree_search.md
-│   ├── probability_theory
-│   │   ├── bayes_theorem.md
-│   │   ├── central_limit_theorem.md
-│   │   ├── law_of_large_numbers.md
-│   │   ├── normal_distribution.md
-│   │   ├── probability_space.md
-│   │   └── random_variable.md
+│   │   └── lotka_volterra_equations.md
 │   └── statistics
 │       ├── README.md
 │       └── correlation.md
@@ -71,46 +58,50 @@ This knowledge base can be navigated in several ways:
 │   │   └── algorithm.md
 │   ├── artificial_intelligence
 │   │   ├── aixi.md
-│   │   ├── chollets_measure_of_intelligence.md
+│   │   ├── chollets_mathematical_definition_of_intelligence.md
+│   │   ├── machine_learning
+│   │   │   ├── README.md
+│   │   │   ├── deep_learning
+│   │   │   │   ├── artificial_neural_network.md
+│   │   │   │   ├── cnn.md
+│   │   │   │   ├── lstm.md
+│   │   │   │   ├── neural_tangent_kernel.md
+│   │   │   │   ├── rnn.md
+│   │   │   │   ├── transformer.md
+│   │   │   │   └── universal_approximation_theorem.md
+│   │   │   ├── gradient_descent.md
+│   │   │   ├── regression_analysis.md
+│   │   │   └── svm.md
+│   │   ├── monte_carlo_method
+│   │   │   ├── markov_chain_monte_carlo.md
+│   │   │   ├── monte_carlo_method.md
+│   │   │   └── monte_carlo_tree_search.md
 │   │   └── reinforcement_learning.md
 │   ├── information_theory
 │   │   ├── algorithmic_information_theory.md
 │   │   └── entropy.md
-│   ├── machine_learning
-│   │   ├── README.md
-│   │   ├── deep_learning
-│   │   │   ├── artificial_neural_network.md
-│   │   │   ├── cnn.md
-│   │   │   ├── lstm.md
-│   │   │   ├── neural_tangent_kernel.md
-│   │   │   ├── rnn.md
-│   │   │   ├── transformer.md
-│   │   │   └── universal_approximation_theorem.md
-│   │   ├── gradient_descent.md
-│   │   ├── regression_analysis.md
-│   │   └── svm.md
 │   └── theory_of_computation
 │       ├── halting_problem.md
-│       ├── lambda_calculus.md
 │       └── turing_machine.md
 ├── foundations_of_mathematics
 │   ├── README.md
 │   ├── category_theory
 │   │   ├── category.md
+│   │   ├── topos_theory
+│   │   │   └── topos.md
 │   │   └── yoneda_lemma.md
 │   ├── logic
 │   │   ├── first_order_logic.md
 │   │   ├── godels_incompleteness_theorems.md
+│   │   ├── lambda_calculus.md
 │   │   ├── modal_logic.md
-│   │   ├── proof_theory.md
+│   │   ├── proof theory
 │   │   └── propositional_logic.md
 │   ├── model_theory
 │   │   └── structure.md
 │   ├── set_theory
 │   │   ├── set.md
-│   │   └── zfc.md
-│   ├── topos_theory
-│   │   └── topos.md
+│   │   └── zermelo_fraenkel_set_theory_with_the_axiom_of_choice.md
 │   └── type_theory
 │       └── type_theory.md
 ├── physics
@@ -129,6 +120,7 @@ This knowledge base can be navigated in several ways:
 │   │   └── navier_stokes_equations.md
 │   ├── general_relativity
 │   │   └── einstein_field_equations.md
+│   ├── heat_equation.md
 │   ├── particle_physics
 │   │   └── standard_model.md
 │   ├── quantum_field_theory
@@ -140,14 +132,15 @@ This knowledge base can be navigated in several ways:
 │   │   └── special_relativity.md
 │   ├── string_theory
 │   │   └── string_theory.md
-│   └── thermodynamics
-│       ├── README.md
-│       ├── boltzmanns_entropy_formula.md
-│       ├── entropy_production.md
-│       ├── first_law_of_thermodynamics.md
-│       ├── ideal_gas_law.md
-│       ├── onsager_reciprocal_relations.md
-│       └── second_law_of_thermodynamics.md
+│   ├── thermodynamics
+│   │   ├── README.md
+│   │   ├── boltzmanns_entropy_formula.md
+│   │   ├── entropy_production.md
+│   │   ├── first_law_of_thermodynamics.md
+│   │   ├── ideal_gas_law.md
+│   │   ├── onsager_reciprocal_relations.md
+│   │   └── second_law_of_thermodynamics.md
+│   └── wave_equation.md
 └── pure_mathematics
     ├── README.md
     ├── algebra
@@ -162,9 +155,10 @@ This knowledge base can be navigated in several ways:
     │   ├── ring.md
     │   └── semigroup.md
     ├── analysis
+    │   ├── complex_analysis
+    │   │   └── eulers_identity.md
     │   ├── continuity.md
     │   ├── derivative.md
-    │   ├── eulers_identity.md
     │   ├── integral.md
     │   ├── limit.md
     │   ├── measure_theory
@@ -189,6 +183,13 @@ This knowledge base can be navigated in several ways:
     │   └── vector_space.md
     ├── number_theory
     │   └── fundamental_theorem_of_arithmetic.md
+    ├── probability_theory
+    │   ├── bayes_theorem.md
+    │   ├── central_limit_theorem.md
+    │   ├── law_of_large_numbers.md
+    │   ├── normal_distribution.md
+    │   ├── probability_space.md
+    │   └── random_variable.md
     └── topology
         ├── metric_space.md
         └── topological_space.md
