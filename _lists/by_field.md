@@ -12,6 +12,8 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Propositional Logic](../foundations_of_mathematics/logic/propositional_logic.md)
 - [First-Order Logic](../foundations_of_mathematics/logic/first_order_logic.md)
 - [Gödel's Incompleteness Theorems](../foundations_of_mathematics/logic/godels_incompleteness_theorems.md)
+- [Modal Logic](../foundations_of_mathematics/logic/modal_logic.md)
+- [Proof Theory](../foundations_of_mathematics/logic/proof_theory.md)
 
 ### Category Theory
 - [Category](../foundations_of_mathematics/category_theory/category.md)
@@ -19,6 +21,7 @@ This file provides a centralized list of all concepts in the knowledge base, org
 
 ### Computability Theory
 - [Turing Machine](../foundations_of_mathematics/computability_theory/turing_machine.md)
+- [Lambda Calculus](../foundations_of_mathematics/computability_theory/lambda_calculus.md)
 
 ### Model Theory
 - [Structure](../foundations_of_mathematics/model_theory/structure.md)

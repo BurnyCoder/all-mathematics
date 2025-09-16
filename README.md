@@ -91,10 +91,13 @@ This knowledge base can be navigated in several ways:
 │   │   ├── category.md
 │   │   └── yoneda_lemma.md
 │   ├── computability_theory
+│   │   ├── lambda_calculus.md
 │   │   └── turing_machine.md
 │   ├── logic
 │   │   ├── first_order_logic.md
 │   │   ├── godels_incompleteness_theorems.md
+│   │   ├── modal_logic.md
+│   │   ├── proof_theory.md
 │   │   └── propositional_logic.md
 │   ├── model_theory
 │   │   └── structure.md
