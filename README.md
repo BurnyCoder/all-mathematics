@@ -48,7 +48,7 @@ This knowledge base can be navigated in several ways:
 
 ├── [**applied_mathematics**](./applied_mathematics/README.md)
 
-│   ├── **differential_equations**
+│   ├── [**differential_equations**](./applied_mathematics/differential_equations/README.md)
 
 │   │   ├── [Black-Scholes Equation](./applied_mathematics/differential_equations/black_scholes_equation.md)
 
@@ -62,11 +62,11 @@ This knowledge base can be navigated in several ways:
 
 ├── [**computer_science**](./computer_science/README.md)
 
-│   ├── **algorithms_and_data_structures**
+│   ├── [**algorithms_and_data_structures**](./computer_science/algorithms_and_data_structures/README.md)
 
 │   │   └── [Algorithm](./computer_science/algorithms_and_data_structures/algorithm.md)
 
-│   ├── **artificial_intelligence**
+│   ├── [**artificial_intelligence**](./computer_science/artificial_intelligence/README.md)
 
 │   │   ├── [AIXI](./computer_science/artificial_intelligence/aixi.md)
 
@@ -74,7 +74,7 @@ This knowledge base can be navigated in several ways:
 
 │   │   ├── [**machine_learning**](./computer_science/artificial_intelligence/machine_learning/README.md)
 
-│   │   │   ├── **deep_learning**
+│   │   │   ├── [**deep_learning**](./computer_science/artificial_intelligence/machine_learning/deep_learning/README.md)
 
 │   │   │   │   ├── [Artificial Neural Network](./computer_science/artificial_intelligence/machine_learning/deep_learning/artificial_neural_network.md)
 
@@ -96,7 +96,7 @@ This knowledge base can be navigated in several ways:
 
 │   │   │   └── [Support Vector Machine (SVM)](./computer_science/artificial_intelligence/machine_learning/svm.md)
 
-│   │   ├── **monte_carlo_method**
+│   │   ├── [**monte_carlo_method**](./computer_science/artificial_intelligence/monte_carlo_method/README.md)
 
 │   │   │   ├── [Markov Chain Monte Carlo](./computer_science/artificial_intelligence/monte_carlo_method/markov_chain_monte_carlo.md)
 
@@ -106,13 +106,13 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Reinforcement Learning](./computer_science/artificial_intelligence/reinforcement_learning.md)
 
-│   ├── **information_theory**
+│   ├── [**information_theory**](./computer_science/information_theory/README.md)
 
 │   │   ├── [Algorithmic Information Theory](./computer_science/information_theory/algorithmic_information_theory.md)
 
 │   │   └── [Shannon Entropy](./computer_science/information_theory/entropy.md)
 
-│   └── **theory_of_computation**
+│   └── [**theory_of_computation**](./computer_science/theory_of_computation/README.md)
 
 │       ├── [Halting Problem](./computer_science/theory_of_computation/halting_problem.md)
 
@@ -120,17 +120,17 @@ This knowledge base can be navigated in several ways:
 
 ├── [**foundations_of_mathematics**](./foundations_of_mathematics/README.md)
 
-│   ├── **category_theory**
+│   ├── [**category_theory**](./foundations_of_mathematics/category_theory/README.md)
 
 │   │   ├── [Category](./foundations_of_mathematics/category_theory/category.md)
 
-│   │   ├── **topos_theory**
+│   │   ├── [**topos_theory**](./foundations_of_mathematics/category_theory/topos_theory/README.md)
 
 │   │   │   └── [Topos](./foundations_of_mathematics/category_theory/topos_theory/topos.md)
 
 │   │   └── [Yoneda Lemma](./foundations_of_mathematics/category_theory/yoneda_lemma.md)
 
-│   ├── **logic**
+│   ├── [**logic**](./foundations_of_mathematics/logic/README.md)
 
 │   │   ├── [First-Order Logic](./foundations_of_mathematics/logic/first_order_logic.md)
 
@@ -140,27 +140,27 @@ This knowledge base can be navigated in several ways:
 
 │   │   ├── [Modal Logic](./foundations_of_mathematics/logic/modal_logic.md)
 
-│   │   ├── **proof theory**
+│   │   ├── [**proof theory**](./foundations_of_mathematics/logic/proof_theory/README.md)
 
 │   │   └── [Propositional Logic](./foundations_of_mathematics/logic/propositional_logic.md)
 
-│   ├── **model_theory**
+│   ├── [**model_theory**](./foundations_of_mathematics/model_theory/README.md)
 
 │   │   └── [Structure (Model Theory)](./foundations_of_mathematics/model_theory/structure.md)
 
-│   ├── **set_theory**
+│   ├── [**set_theory**](./foundations_of_mathematics/set_theory/README.md)
 
 │   │   ├── [Set](./foundations_of_mathematics/set_theory/set.md)
 
 │   │   └── [Zermelo–Fraenkel Set Theory with the Axiom of Choice (ZFC)](./foundations_of_mathematics/set_theory/zermelo_fraenkel_set_theory_with_the_axiom_of_choice.md)
 
-│   └── **type_theory**
+│   └── [**type_theory**](./foundations_of_mathematics/type_theory/README.md)
 
 │       └── [Type Theory](./foundations_of_mathematics/type_theory/type_theory.md)
 
 ├── [**physics**](./physics/README.md)
 
-│   ├── **analytical_mechanics**
+│   ├── [**analytical_mechanics**](./physics/analytical_mechanics/README.md)
 
 │   │   ├── [Hamiltonian Mechanics](./physics/analytical_mechanics/hamiltonian_mechanics.md)
 
@@ -170,45 +170,45 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Principle of Least Action](./physics/analytical_mechanics/principle_of_least_action.md)
 
-│   ├── **classical_mechanics**
+│   ├── [**classical_mechanics**](./physics/classical_mechanics/README.md)
 
 │   │   ├── [Harmonic Oscillator](./physics/classical_mechanics/harmonic_oscillator.md)
 
 │   │   └── [Newton's Laws of Motion](./physics/classical_mechanics/newtons_laws.md)
 
-│   ├── **electromagnetism**
+│   ├── [**electromagnetism**](./physics/electromagnetism/README.md)
 
 │   │   └── [Maxwell's Equations](./physics/electromagnetism/maxwells_equations.md)
 
-│   ├── **fluid_dynamics**
+│   ├── [**fluid_dynamics**](./physics/fluid_dynamics/README.md)
 
 │   │   └── [Navier-Stokes Equations](./physics/fluid_dynamics/navier_stokes_equations.md)
 
-│   ├── **general_relativity**
+│   ├── [**general_relativity**](./physics/general_relativity/README.md)
 
 │   │   └── [Einstein's Field Equations](./physics/general_relativity/einstein_field_equations.md)
 
 │   ├── [Heat Equation](./physics/heat_equation.md)
 
-│   ├── **particle_physics**
+│   ├── [**particle_physics**](./physics/particle_physics/README.md)
 
 │   │   └── [The Standard Model of Particle Physics](./physics/particle_physics/standard_model.md)
 
-│   ├── **quantum_field_theory**
+│   ├── [**quantum_field_theory**](./physics/quantum_field_theory/README.md)
 
 │   │   └── [Quantum Field Theory](./physics/quantum_field_theory/quantum_field_theory.md)
 
-│   ├── **quantum_mechanics**
+│   ├── [**quantum_mechanics**](./physics/quantum_mechanics/README.md)
 
 │   │   ├── [Quantum Harmonic Oscillator](./physics/quantum_mechanics/quantum_harmonic_oscillator.md)
 
 │   │   └── [Schrödinger Equation](./physics/quantum_mechanics/schrodinger_equation.md)
 
-│   ├── **special_relativity**
+│   ├── [**special_relativity**](./physics/special_relativity/README.md)
 
 │   │   └── [Special Relativity](./physics/special_relativity/special_relativity.md)
 
-│   ├── **string_theory**
+│   ├── [**string_theory**](./physics/string_theory/README.md)
 
 │   │   └── [String Theory](./physics/string_theory/string_theory.md)
 
@@ -230,7 +230,7 @@ This knowledge base can be navigated in several ways:
 
 └── [**pure_mathematics**](./pure_mathematics/README.md)
 
-│   ├── **algebra**
+│   ├── [**algebra**](./pure_mathematics/algebra/README.md)
 
 │   │   ├── [Boolean Algebra](./pure_mathematics/algebra/boolean_algebra.md)
 
@@ -252,9 +252,9 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Semigroup](./pure_mathematics/algebra/semigroup.md)
 
-│   ├── **analysis**
+│   ├── [**analysis**](./pure_mathematics/analysis/README.md)
 
-│   │   ├── **complex_analysis**
+│   │   ├── [**complex_analysis**](./pure_mathematics/analysis/complex_analysis/README.md)
 
 │   │   │   └── [Euler's Identity](./pure_mathematics/analysis/complex_analysis/eulers_identity.md)
 
@@ -272,7 +272,7 @@ This knowledge base can be navigated in several ways:
 
 │   │   │   └── [σ-algebra](./pure_mathematics/analysis/measure_theory/sigma_algebra.md)
 
-│   │   ├── **real_analysis**
+│   │   ├── [**real_analysis**](./pure_mathematics/analysis/real_analysis/README.md)
 
 │   │   │   └── [Completeness of the Real Numbers](./pure_mathematics/analysis/real_analysis/completeness_of_the_reals.md)
 
@@ -280,21 +280,21 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Taylor Series](./pure_mathematics/analysis/taylor_series.md)
 
-│   ├── **discrete_mathematics**
+│   ├── [**discrete_mathematics**](./pure_mathematics/discrete_mathematics/README.md)
 
-│   │   ├── **combinatorics**
+│   │   ├── [**combinatorics**](./pure_mathematics/discrete_mathematics/combinatorics/README.md)
 
 │   │   │   └── [Combinations and Permutations](./pure_mathematics/discrete_mathematics/combinatorics/combinations_and_permutations.md)
 
-│   │   └── **graph_theory**
+│   │   └── [**graph_theory**](./pure_mathematics/discrete_mathematics/graph_theory/README.md)
 
 │   │       └── [Graph (Graph Theory)](./pure_mathematics/discrete_mathematics/graph_theory/graph.md)
 
-│   ├── **geometry**
+│   ├── [**geometry**](./pure_mathematics/geometry/README.md)
 
 │   │   └── [Manifold](./pure_mathematics/geometry/manifold.md)
 
-│   ├── **linear_algebra**
+│   ├── [**linear_algebra**](./pure_mathematics/linear_algebra/README.md)
 
 │   │   ├── [Eigenvectors and Eigenvalues](./pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)
 
@@ -304,11 +304,11 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Vector Space](./pure_mathematics/linear_algebra/vector_space.md)
 
-│   ├── **number_theory**
+│   ├── [**number_theory**](./pure_mathematics/number_theory/README.md)
 
 │   │   └── [Fundamental Theorem of Arithmetic](./pure_mathematics/number_theory/fundamental_theorem_of_arithmetic.md)
 
-│   ├── **probability_theory**
+│   ├── [**probability_theory**](./pure_mathematics/probability_theory/README.md)
 
 │   │   ├── [Bayes' Theorem](./pure_mathematics/probability_theory/bayes_theorem.md)
 
@@ -322,7 +322,7 @@ This knowledge base can be navigated in several ways:
 
 │   │   └── [Random Variable](./pure_mathematics/probability_theory/random_variable.md)
 
-│   └── **topology**
+│   └── [**topology**](./pure_mathematics/topology/README.md)
 
 │   ├── [Metric Space](./pure_mathematics/topology/metric_space.md)
 

@@ -1,5 +1,10 @@
-# README
+# Measure Theory
 
-- Measure Theory
-    - [Measure](./measure.md): A function that assigns a size to subsets of a set, generalizing length, area, and volume.
-    - [σ-algebra](./sigma_algebra.md): A collection of subsets that is closed under countable set operations, defining the "measurable" sets.
+Measure theory is a branch of mathematical analysis that studies measures. It is a way of assigning a number to certain subsets of a given set, intuitively interpreted as its size.
+
+For more information, see the [Wikipedia page on Measure Theory](https://en.wikipedia.org/wiki/Measure_theory).
+
+## Concepts
+
+- [Measure](./measure.md)
+- [σ-algebra](./sigma_algebra.md)
