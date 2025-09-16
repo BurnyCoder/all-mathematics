@@ -37,7 +37,7 @@ This knowledge base can be navigated in several ways:
 ## File Structure
 
 ```
-r.
+.
 ├── README.md
 ├── _lists
 │   ├── by_application.md
@@ -46,7 +46,11 @@ r.
 ├── applied_mathematics
 │   ├── README.md
 │   ├── differential_equations
-│   │   └── differential_equation.md
+│   │   ├── black_scholes_equation.md
+│   │   ├── differential_equation.md
+│   │   ├── heat_equation.md
+│   │   ├── lotka_volterra_equations.md
+│   │   └── wave_equation.md
 │   ├── monte_carlo_method
 │   │   ├── markov_chain_monte_carlo.md
 │   │   ├── monte_carlo_method.md
