@@ -19,6 +19,7 @@ This composition must satisfy two axioms:
     - **Morphism (Arrow)**: A directed connection between two objects.
     - **Functor**: A structure-preserving map between categories.
     - **Natural Transformation**: A map between two functors.
+    - **[Yoneda Lemma](./yoneda_lemma.md)**: A fundamental result connecting objects to functors.
     - **Limit and Colimit**: General constructions that include products, coproducts, and pullbacks.
     - **Adjoint Functors**: A fundamental relationship between two functors.
     - **Monad**: An endofunctor along with two natural transformations, used extensively in functional programming.
