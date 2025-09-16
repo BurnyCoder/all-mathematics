@@ -154,6 +154,10 @@ This knowledge base can be navigated in several ways:
     │   ├── eulers_identity.md
     │   ├── integral.md
     │   ├── limit.md
+    │   ├── measure_theory
+    │   │   ├── README.md
+    │   │   ├── measure.md
+    │   │   └── sigma_algebra.md
     │   └── taylor_series.md
     ├── discrete_mathematics
     │   ├── combinatorics
