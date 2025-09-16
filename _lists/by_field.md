@@ -15,6 +15,7 @@ This file provides a centralized list of all concepts in the knowledge base, org
 
 ### Category Theory
 - [Category](../foundations_of_mathematics/category_theory/category.md)
+- [Yoneda Lemma](../foundations_of_mathematics/category_theory/yoneda_lemma.md)
 
 ### Computability Theory
 - [Turing Machine](../foundations_of_mathematics/computability_theory/turing_machine.md)
@@ -34,6 +35,9 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Group](../pure_mathematics/algebra/group.md)
 - [Ring](../pure_mathematics/algebra/ring.md)
 - [Field](../pure_mathematics/algebra/field.md)
+- [Boolean Algebra](../pure_mathematics/algebra/boolean_algebra.md)
+- [Function](../pure_mathematics/algebra/function.md)
+- [Relation](../pure_mathematics/algebra/relation.md)
 
 ### Linear Algebra
 - [Vector Space](../pure_mathematics/linear_algebra/vector_space.md)
@@ -95,28 +99,35 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Neural Tangent Kernel](../computer_science/machine_learning/deep_learning/neural_tangent_kernel.md)
 - [Support Vector Machine](../computer_science/machine_learning/svm.md)
 - [Regression Analysis](../computer_science/machine_learning/regression_analysis.md)
+- [Universal Approximation Theorem](../computer_science/machine_learning/deep_learning/universal_approximation_theorem.md)
 
 ### Artificial Intelligence
 - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)
+- [AIXI](../computer_science/artificial_intelligence/aixi.md)
+- [Chollet's Measure of Intelligence](../computer_science/artificial_intelligence/chollets_measure_of_intelligence.md)
 
 ### Information Theory
 - [Shannon Entropy](../computer_science/information_theory/entropy.md)
+- [Algorithmic Information Theory](../computer_science/information_theory/algorithmic_information_theory.md)
 
 ## Physics
 
 ### Classical Mechanics
 - [Newton's Laws of Motion](../physics/classical_mechanics/newtons_laws.md)
+- [Harmonic Oscillator](../physics/classical_mechanics/harmonic_oscillator.md)
 
 ### Electromagnetism
 - [Maxwell's Equations](../physics/electromagnetism/maxwells_equations.md)
 
 ### Quantum Mechanics
 - [Schrödinger Equation](../physics/quantum_mechanics/schrodinger_equation.md)
+- [Quantum Harmonic Oscillator](../physics/quantum_mechanics/quantum_harmonic_oscillator.md)
 
 ### Analytical Mechanics
 - [Lagrangian Mechanics](../physics/analytical_mechanics/lagrangian_mechanics.md)
 - [Hamiltonian Mechanics](../physics/analytical_mechanics/hamiltonian_mechanics.md)
 - [Principle of Least Action](../physics/analytical_mechanics/principle_of_least_action.md)
+- [Noether's Theorem](../physics/analytical_mechanics/noethers_theorem.md)
 
 ### Special Relativity
 - [Special Relativity](../physics/special_relativity/special_relativity.md)
@@ -124,8 +135,14 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Particle Physics
 - [The Standard Model](../physics/particle_physics/standard_model.md)
 
+### String Theory
+- [String Theory](../physics/string_theory/string_theory.md)
+
 ### General Relativity
 - [Einstein's Field Equations](../physics/general_relativity/einstein_field_equations.md)
+
+### Quantum Field Theory
+- [Quantum Field Theory](../physics/quantum_field_theory/quantum_field_theory.md)
 
 ### Fluid Dynamics
 - [Navier-Stokes Equations](../physics/fluid_dynamics/navier_stokes_equations.md)
