@@ -37,145 +37,154 @@ This knowledge base can be navigated in several ways:
 ## File Structure
 
 ```
-.
+r.
 ├── README.md
 ├── _lists
-│   ├── by_application.md
-│   ├── by_field.md
-│   └── by_generality.md
+│   ├── by_application.md
+│   ├── by_field.md
+│   └── by_generality.md
 ├── applied_mathematics
-│   ├── README.md
-│   ├── differential_equations
-│   │   └── differential_equation.md
-│   ├── monte_carlo_method
-│   │   ├── markov_chain_monte_carlo.md
-│   │   ├── monte_carlo_method.md
-│   │   └── monte_carlo_tree_search.md
-│   ├── probability_theory
-│   │   ├── bayes_theorem.md
-│   │   ├── central_limit_theorem.md
-│   │   ├── law_of_large_numbers.md
-│   │   ├── normal_distribution.md
-│   │   ├── probability_space.md
-│   │   └── random_variable.md
-│   └── statistics
-│       ├── README.md
-│       └── correlation.md
+│   ├── README.md
+│   ├── differential_equations
+│   │   └── differential_equation.md
+│   ├── monte_carlo_method
+│   │   ├── markov_chain_monte_carlo.md
+│   │   ├── monte_carlo_method.md
+│   │   └── monte_carlo_tree_search.md
+│   ├── probability_theory
+│   │   ├── bayes_theorem.md
+│   │   ├── central_limit_theorem.md
+│   │   ├── law_of_large_numbers.md
+│   │   ├── normal_distribution.md
+│   │   ├── probability_space.md
+│   │   └── random_variable.md
+│   └── statistics
+│       ├── README.md
+│       └── correlation.md
 ├── computer_science
-│   ├── README.md
-│   ├── algorithms_and_data_structures
-│   │   └── algorithm.md
-│   ├── artificial_intelligence
-│   │   ├── aixi.md
-│   │   ├── chollets_measure_of_intelligence.md
-│   │   └── reinforcement_learning.md
-│   ├── information_theory
-│   │   ├── algorithmic_information_theory.md
-│   │   └── entropy.md
-│   └── machine_learning
-│       ├── README.md
-│       ├── deep_learning
-│       │   ├── artificial_neural_network.md
-│       │   ├── cnn.md
-│       │   ├── lstm.md
-│       │   ├── neural_tangent_kernel.md
-│       │   ├── rnn.md
-│       │   ├── transformer.md
-│       │   └── universal_approximation_theorem.md
-│       ├── gradient_descent.md
-│       ├── regression_analysis.md
-│       └── svm.md
+│   ├── README.md
+│   ├── algorithms_and_data_structures
+│   │   └── algorithm.md
+│   ├── artificial_intelligence
+│   │   ├── aixi.md
+│   │   ├── chollets_measure_of_intelligence.md
+│   │   └── reinforcement_learning.md
+│   ├── information_theory
+│   │   ├── algorithmic_information_theory.md
+│   │   └── entropy.md
+│   ├── machine_learning
+│   │   ├── README.md
+│   │   ├── deep_learning
+│   │   │   ├── artificial_neural_network.md
+│   │   │   ├── cnn.md
+│   │   │   ├── lstm.md
+│   │   │   ├── neural_tangent_kernel.md
+│   │   │   ├── rnn.md
+│   │   │   ├── transformer.md
+│   │   │   └── universal_approximation_theorem.md
+│   │   ├── gradient_descent.md
+│   │   ├── regression_analysis.md
+│   │   └── svm.md
+│   └── theory_of_computation
+│       ├── halting_problem.md
+│       ├── lambda_calculus.md
+│       └── turing_machine.md
 ├── foundations_of_mathematics
-│   ├── README.md
-│   ├── category_theory
-│   │   ├── category.md
-│   │   └── yoneda_lemma.md
-│   ├── computability_theory
-│   │   ├── lambda_calculus.md
-│   │   └── turing_machine.md
-│   ├── logic
-│   │   ├── first_order_logic.md
-│   │   ├── godels_incompleteness_theorems.md
-│   │   ├── modal_logic.md
-│   │   ├── proof_theory.md
-│   │   └── propositional_logic.md
-│   ├── model_theory
-│   │   └── structure.md
-│   ├── set_theory
-│   │   ├── set.md
-│   │   └── zfc.md
-│   ├── topos_theory
-│   │   └── topos.md
-│   └── type_theory
-│       └── type_theory.md
+│   ├── README.md
+│   ├── category_theory
+│   │   ├── category.md
+│   │   └── yoneda_lemma.md
+│   ├── logic
+│   │   ├── first_order_logic.md
+│   │   ├── godels_incompleteness_theorems.md
+│   │   ├── modal_logic.md
+│   │   ├── proof_theory.md
+│   │   └── propositional_logic.md
+│   ├── model_theory
+│   │   └── structure.md
+│   ├── set_theory
+│   │   ├── set.md
+│   │   └── zfc.md
+│   ├── topos_theory
+│   │   └── topos.md
+│   └── type_theory
+│       └── type_theory.md
 ├── physics
-│   ├── README.md
-│   ├── analytical_mechanics
-│   │   ├── hamiltonian_mechanics.md
-│   │   ├── lagrangian_mechanics.md
-│   │   ├── noethers_theorem.md
-│   │   └── principle_of_least_action.md
-│   ├── classical_mechanics
-│   │   ├── harmonic_oscillator.md
-│   │   └── newtons_laws.md
-│   ├── electromagnetism
-│   │   └── maxwells_equations.md
-│   ├── fluid_dynamics
-│   │   └── navier_stokes_equations.md
-│   ├── general_relativity
-│   │   └── einstein_field_equations.md
-│   ├── particle_physics
-│   │   └── standard_model.md
-│   ├── quantum_field_theory
-│   │   └── quantum_field_theory.md
-│   ├── quantum_mechanics
-│   │   ├── quantum_harmonic_oscillator.md
-│   │   └── schrodinger_equation.md
-│   ├── special_relativity
-│   │   └── special_relativity.md
-│   ├── string_theory
-│   │   └── string_theory.md
-│   └── thermodynamics
-│       ├── README.md
-│       ├── boltzmanns_entropy_formula.md
-│       ├── entropy_production.md
-│       ├── first_law_of_thermodynamics.md
-│       ├── ideal_gas_law.md
-│       ├── onsager_reciprocal_relations.md
-│       └── second_law_of_thermodynamics.md
+│   ├── README.md
+│   ├── analytical_mechanics
+│   │   ├── hamiltonian_mechanics.md
+│   │   ├── lagrangian_mechanics.md
+│   │   ├── noethers_theorem.md
+│   │   └── principle_of_least_action.md
+│   ├── classical_mechanics
+│   │   ├── harmonic_oscillator.md
+│   │   └── newtons_laws.md
+│   ├── electromagnetism
+│   │   └── maxwells_equations.md
+│   ├── fluid_dynamics
+│   │   └── navier_stokes_equations.md
+│   ├── general_relativity
+│   │   └── einstein_field_equations.md
+│   ├── particle_physics
+│   │   └── standard_model.md
+│   ├── quantum_field_theory
+│   │   └── quantum_field_theory.md
+│   ├── quantum_mechanics
+│   │   ├── quantum_harmonic_oscillator.md
+│   │   └── schrodinger_equation.md
+│   ├── special_relativity
+│   │   └── special_relativity.md
+│   ├── string_theory
+│   │   └── string_theory.md
+│   └── thermodynamics
+│       ├── README.md
+│       ├── boltzmanns_entropy_formula.md
+│       ├── entropy_production.md
+│       ├── first_law_of_thermodynamics.md
+│       ├── ideal_gas_law.md
+│       ├── onsager_reciprocal_relations.md
+│       └── second_law_of_thermodynamics.md
 └── pure_mathematics
     ├── README.md
     ├── algebra
-    │   ├── boolean_algebra.md
-    │   ├── field.md
-    │   ├── function.md
-    │   ├── group.md
-    │   ├── relation.md
-    │   └── ring.md
+    │   ├── boolean_algebra.md
+    │   ├── field.md
+    │   ├── function.md
+    │   ├── group.md
+    │   ├── lattice.md
+    │   ├── magma.md
+    │   ├── monoid.md
+    │   ├── relation.md
+    │   ├── ring.md
+    │   └── semigroup.md
     ├── analysis
-    │   ├── derivative.md
-    │   ├── eulers_identity.md
-    │   ├── integral.md
-    │   ├── limit.md
-    │   ├── measure_theory
-    │   │   ├── README.md
-    │   │   ├── measure.md
-    │   │   └── sigma_algebra.md
-    │   └── taylor_series.md
+    │   ├── continuity.md
+    │   ├── derivative.md
+    │   ├── eulers_identity.md
+    │   ├── integral.md
+    │   ├── limit.md
+    │   ├── measure_theory
+    │   │   ├── README.md
+    │   │   ├── measure.md
+    │   │   └── sigma_algebra.md
+    │   ├── real_analysis
+    │   │   └── completeness_of_the_reals.md
+    │   ├── real_number.md
+    │   └── taylor_series.md
     ├── discrete_mathematics
-    │   ├── combinatorics
-    │   │   └── combinations_and_permutations.md
-    │   └── graph_theory
-    │       └── graph.md
+    │   ├── combinatorics
+    │   │   └── combinations_and_permutations.md
+    │   └── graph_theory
+    │       └── graph.md
     ├── geometry
-    │   └── manifold.md
+    │   └── manifold.md
     ├── linear_algebra
-    │   ├── eigenvectors_and_eigenvalues.md
-    │   ├── linear_transformation.md
-    │   ├── matrix.md
-    │   └── vector_space.md
+    │   ├── eigenvectors_and_eigenvalues.md
+    │   ├── linear_transformation.md
+    │   ├── matrix.md
+    │   └── vector_space.md
     ├── number_theory
-    │   └── fundamental_theorem_of_arithmetic.md
+    │   └── fundamental_theorem_of_arithmetic.md
     └── topology
         ├── metric_space.md
         └── topological_space.md

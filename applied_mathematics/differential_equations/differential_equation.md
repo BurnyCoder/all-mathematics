@@ -38,6 +38,14 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - **Partial Differential Equation (PDE)**: A differential equation involving an unknown function of multiple independent variables and their partial derivatives.
     - **Stochastic Differential Equation (SDE)**: A differential equation in which one of the terms is a stochastic process, meaning the solutions are themselves stochastic processes.
     - **Delay Differential Equation (DDE)**: An equation where the derivative of the unknown function at a certain time is given in terms of the values of the function at previous times.
+    - **[Heat Equation](./heat_equation.md)**: A fundamental PDE describing heat diffusion.
+    - **[Wave Equation](./wave_equation.md)**: A fundamental PDE describing wave propagation.
+    - **[Lotka-Volterra Equations](./lotka_volterra_equations.md)**: A system of ODEs modeling predator-prey dynamics.
+    - **[Black-Scholes Equation](./black_scholes_equation.md)**: A PDE used in financial mathematics for option pricing.
+    - **[Navier-Stokes Equations](../../physics/fluid_dynamics/navier_stokes_equations.md)**: PDEs that describe the motion of viscous fluid substances.
+    - **[Maxwell's Equations](../../physics/electromagnetism/maxwells_equations.md)**: A set of coupled PDEs that form the foundation of classical electromagnetism.
+    - **[Schrödinger Equation](../../physics/quantum_mechanics/schrodinger_equation.md)**: A fundamental PDE in quantum mechanics.
+    - **[Einstein Field Equations](../../physics/general_relativity/einstein_field_equations.md)**: A set of PDEs in general relativity that describe the fundamental interaction of gravitation as a result of spacetime being curved by matter and energy.
 
 - **More General Variants**:
     - **Integrodifferential Equation**: An equation that involves both integrals and derivatives of the unknown function.
