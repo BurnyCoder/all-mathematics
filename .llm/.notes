@@ -1,6 +1,6 @@
 @README.md @derivative.md
 
-The original prompt for this project was:
+The original prompt for this project is:
 ```
 List as many mathematical equations and mathematical structures as possible.
 
@@ -30,21 +30,15 @@ Make sure to always comment mentioned concepts, do:
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Reinforcement learning is one of the three main paradigms of machine learning.
 Instead of just
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-
 ```
 
-In AIXI, mention more pure mathematics concepts that are used there.
-
-
-Add thermodynamics
-
-Add nonequilibrium thermodynamics
-
-Add AIXI
-
-Add Chollet's intelligence
+Add mathematics from nonequilibrium thermodynamics
 
 Add harmonic oscillator
+
+Add NTK
+
+Add string theory
 
 ######## REPEATABLE ##################
 

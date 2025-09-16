@@ -105,8 +105,10 @@ This knowledge base can be navigated in several ways:
 │   │   └── special_relativity.md
 │   └── thermodynamics
 │       ├── boltzmanns_entropy_formula.md
+│       ├── entropy_production.md
 │       ├── first_law_of_thermodynamics.md
 │       ├── ideal_gas_law.md
+│       ├── onsager_reciprocal_relations.md
 │       └── second_law_of_thermodynamics.md
 └── pure_mathematics
     ├── README.md

@@ -42,6 +42,8 @@ $$ \oint \frac{\delta Q}{T} \le 0 $$
 - **Related Concepts**:
     - **[Boltzmann's Entropy Formula](./boltzmanns_entropy_formula.md)**: Provides a statistical interpretation of entropy.
     - **[First Law of Thermodynamics](./first_law_of_thermodynamics.md)**: Deals with the conservation of energy.
+    - **[Entropy Production](./entropy_production.md)**: The second law can be stated locally in terms of non-negative entropy production in irreversible processes.
+    - **[Onsager Reciprocal Relations](./onsager_reciprocal_relations.md)**: These relations govern the linear regime of irreversible processes consistent with the second law.
     - **Maxwell's Demon**: A thought experiment that explores the limits of the second law.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Second_law_of_thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)

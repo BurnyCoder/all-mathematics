@@ -32,3 +32,5 @@ Physics is the natural science that studies matter, its fundamental constituents
 - [Second Law of Thermodynamics](./thermodynamics/second_law_of_thermodynamics.md)
 - [Ideal Gas Law](./thermodynamics/ideal_gas_law.md)
 - [Boltzmann's Entropy Formula](./thermodynamics/boltzmanns_entropy_formula.md)
+- [Entropy Production](./thermodynamics/entropy_production.md)
+- [Onsager Reciprocal Relations](./thermodynamics/onsager_reciprocal_relations.md)
