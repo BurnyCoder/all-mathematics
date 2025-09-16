@@ -35,6 +35,8 @@ $$ \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) $$
 
 - **Related Concepts**:
     - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The gradient is a vector of partial derivatives.
+    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The gradient is a vector indicating the direction of steepest ascent.
+    - **[Limit](../../pure_mathematics/analysis/limit.md)**: Derivatives are formally defined using limits.
     - **[Artificial Neural Network](./artificial_neural_network.md)**: Gradient descent, combined with the backpropagation algorithm, is the standard way to train neural networks.
     - **Convex Optimization**: A subfield of optimization that studies the case where the function to be minimized is a convex function, in which case gradient descent is guaranteed to find the global minimum.
 

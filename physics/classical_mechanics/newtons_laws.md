@@ -38,7 +38,7 @@
 
 - **Related Concepts**:
     - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: Newton's second law is a second-order ordinary differential equation.
-    - **[Vector](../../pure_mathematics/algebra/vector_space.md)**: Force, velocity, and acceleration are vector quantities.
-    - **Calculus**: The laws are expressed using derivatives, a central concept in calculus.
+    - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: Force, velocity, and acceleration are vector quantities.
+    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The laws are expressed using derivatives, a central concept in calculus.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)

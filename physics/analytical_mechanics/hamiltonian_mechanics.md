@@ -36,6 +36,8 @@ $$ \frac{dp_j}{dt} = -\frac{\partial H}{\partial q_j} $$
 
 - **Related Concepts**:
     - **[Lagrangian Mechanics](./lagrangian_mechanics.md)**: Hamiltonian mechanics is derived from Lagrangian mechanics via a Legendre transformation.
+    - **[Differential Equation](../../../applied_mathematics/differential_equations/differential_equation.md)**: Hamilton's equations of motion are a system of first-order ordinary differential equations.
+    - **[Manifold](../../../pure_mathematics/geometry/manifold.md)**: The phase space of Hamiltonian mechanics is a symplectic manifold.
     - **[Schrödinger Equation](../quantum_mechanics/schrodinger_equation.md)**: The formulation of quantum mechanics is based on the Hamiltonian.
     - **Conservation of Energy**: If the Hamiltonian does not explicitly depend on time, it is a conserved quantity, representing the total energy of the system.
 

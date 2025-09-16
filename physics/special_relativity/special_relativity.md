@@ -38,6 +38,8 @@ $$ z' = z $$
 - **Related Concepts**:
     - **[Maxwell's Equations](../electromagnetism/maxwells_equations.md)**: The invariance of the speed of light, a consequence of Maxwell's equations, was a key motivation for the development of special relativity.
     - **[Newtonian Mechanics](../classical_mechanics/newtons_laws.md)**: Special relativity reduces to Newtonian mechanics at speeds much slower than the speed of light.
-    - **[Manifold](../../pure_mathematics/geometry/manifold.md)**: Spacetime is a specific type of manifold.
+    - **[Manifold](../../pure_mathematics/geometry/manifold.md)**: Spacetime is a specific type of manifold (Minkowski space).
+    - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: Spacetime is treated as a 4D vector space.
+    - **[Linear Transformation](../../../pure_mathematics/linear_algebra/linear_transformation.md)**: The Lorentz transformations are linear transformations that preserve the spacetime interval.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Special_relativity](https://en.wikipedia.org/wiki/Special_relativity)

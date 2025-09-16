@@ -37,6 +37,8 @@ $$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\pa
 - **Related Concepts**:
     - **[Newton's Laws of Motion](../classical_mechanics/newtons_laws.md)**: The Euler-Lagrange equations are equivalent to Newton's second law for many systems.
     - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: The Euler-Lagrange equations are a system of differential equations.
+    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The Lagrangian is a function of coordinates and their time derivatives.
+    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The action, from which the equations of motion are derived, is the integral of the Lagrangian.
     - **Calculus of Variations**: The mathematical field that deals with finding minima or maxima of functionals (mappings from a set of functions to the real numbers), which is the mathematical basis for Lagrangian mechanics.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Lagrangian_mechanics](https://en.wikipedia.org/wiki/Lagrangian_mechanics)

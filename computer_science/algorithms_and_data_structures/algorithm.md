@@ -34,6 +34,9 @@
 
 - **Related Concepts**:
     - **[Turing Machine](../../foundations_of_mathematics/computability_theory/turing_machine.md)**: The formal mathematical model of a computer used to define an algorithm rigorously.
+    - **[Graph](../../pure_mathematics/discrete_mathematics/graph_theory/graph.md)**: Many fundamental algorithms are designed to solve problems on graphs.
+    - **[Combinatorics](../../pure_mathematics/discrete_mathematics/combinatorics/combinations_and_permutations.md)**: Algorithms are often used to solve combinatorial problems like counting or generating permutations.
+    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Many numerical algorithms are based on matrix operations.
     - **Data Structure**: Algorithms operate on data, and the choice of data structure is critical to an algorithm's efficiency.
     - **[Logic](../../foundations_of_mathematics/logic/propositional_logic.md)**: Formal logic is used to prove the correctness of algorithms.
 

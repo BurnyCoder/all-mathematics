@@ -30,6 +30,7 @@ $$ S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt $$
 
 - **Related Concepts**:
     - **[Lagrangian Mechanics](./lagrangian_mechanics.md)**: Directly derived from the principle of stationary action.
+    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The action is defined as an integral of the Lagrangian.
     - **[Euler-Lagrange Equation](./lagrangian_mechanics.md)**: The mathematical result of applying the principle of stationary action.
     - **Symmetry and Conservation Laws (Noether's Theorem)**: Noether's theorem states that for every continuous symmetry of the action of a physical system, there is a corresponding conserved quantity. This is a profound consequence of the action principle.
 

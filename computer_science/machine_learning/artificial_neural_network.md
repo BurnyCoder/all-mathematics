@@ -37,7 +37,9 @@ $$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
 
 - **Related Concepts**:
     - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
-    - **[Calculus](../../pure_mathematics/analysis/calculus.md)**: The chain rule is the foundation of the backpropagation algorithm.
+    - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The chain rule from calculus is the foundation of the backpropagation algorithm.
+    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: The weights and inputs of neural networks are represented as matrices.
+    - **[Linear Transformation](../../pure_mathematics/linear_algebra/linear_transformation.md)**: Each layer in a neural network applies a linear transformation to its inputs.
     - **[Optimization](../optimization/optimization.md)**: The process of training a neural network is an optimization problem.
     - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
 

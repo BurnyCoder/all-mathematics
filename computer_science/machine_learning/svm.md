@@ -34,7 +34,9 @@ $$ \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 $$
 
 - **Related Concepts**:
     - **[Optimization](../optimization/optimization.md)**: Training an SVM is a quadratic programming (convex optimization) problem.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The concepts of hyperplanes, vectors, and dot products are central to SVMs.
     - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The data points are treated as vectors in a high-dimensional space.
+    - **[Metric Space](../../pure_mathematics/topology/metric_space.md)**: The margin is defined by a distance metric between the separating hyperplane and the support vectors.
     - **Kernel Methods**: A class of algorithms for pattern analysis, of which SVM is a prominent example.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)

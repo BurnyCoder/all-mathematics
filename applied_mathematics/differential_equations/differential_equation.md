@@ -36,8 +36,11 @@ $$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
     - **Differential Algebraic Equation (DAE)**: An equation that involves both differential and algebraic terms.
 
 - **Related Concepts**:
-    - **Calculus**: The theory of derivatives and integrals is the foundation for differential equations.
-    - **Linear Algebra**: Used to solve systems of linear differential equations.
+    - **[Derivative](../../pure_mathematics/analysis/derivative.md)**: The core concept that defines a differential equation.
+    - **[Integral](../../pure_mathematics/analysis/integral.md)**: Solving a differential equation is a form of integration.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Used to analyze and solve systems of linear differential equations.
+    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The set of solutions to a linear homogeneous differential equation forms a vector space.
+    - **[Eigenvectors and Eigenvalues](../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Essential for solving systems of linear ordinary differential equations with constant coefficients.
     - **Numerical Analysis**: Provides methods for finding approximate solutions to differential equations that cannot be solved analytically.
     - **Dynamical Systems**: The modern, qualitative study of the solutions to systems of differential equations.
 

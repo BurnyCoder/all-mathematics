@@ -42,5 +42,8 @@ The goal of the agent is to learn a **policy** $\pi(a|s)$, which is a strategy f
     - **[Optimal Control](../control_theory/optimal_control.md)**: The field from which many of the mathematical ideas of RL originated.
     - **[Artificial Neural Network](../machine_learning/artificial_neural_network.md)**: Deep RL uses neural networks to represent policies or value functions, allowing it to scale to complex, high-dimensional problems.
     - **[Probability Theory](../../applied_mathematics/probability_theory/probability_space.md)**: MDPs are stochastic processes.
+    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: The value function, which estimates the expected return from each state, can be represented as a vector.
+    - **[Graph](../../pure_mathematics/discrete_mathematics/graph_theory/graph.md)**: A Markov Decision Process can be represented as a state transition graph.
+    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Transition probabilities and value functions are often manipulated as matrices and vectors.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Reinforcement_learning](https://en.wikipedia.org/wiki/Reinforcement_learning)

@@ -40,8 +40,9 @@
     - **General Relativity**: Maxwell's equations can be formulated in the context of curved spacetime.
 
 - **Related Concepts**:
-    - **[Partial Differential Equation](../../applied_mathematics/differential_equations/pde.md)**: Maxwell's equations are a system of linear first-order partial differential equations.
-    - **[Vector Calculus](../calculus/vector_calculus.md)**: The operators of divergence ($\nabla \cdot$) and curl ($\nabla \times$) are central to the equations' formulation.
+    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: Maxwell's equations are a system of linear first-order partial differential equations.
+    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The operators of divergence ($\nabla \cdot$) and curl ($\nabla \times$) from vector calculus are central to the equations' formulation.
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: As a system of linear equations, their solutions form a vector space.
     - **Special Relativity**: Maxwell's equations were a key inspiration for Einstein's theory of special relativity, as they predict that the speed of light is a universal constant.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations)

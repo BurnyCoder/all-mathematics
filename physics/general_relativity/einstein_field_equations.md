@@ -42,7 +42,8 @@ $$ R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^
 
 - **Related Concepts**:
     - **[Manifold](../../pure_mathematics/geometry/manifold.md)**: Spacetime is modeled as a 4-dimensional pseudo-Riemannian manifold.
-    - **[Partial Differential Equation](../../applied_mathematics/differential_equations/pde.md)**: The EFE are a complex system of non-linear PDEs.
+    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: The EFE are a complex system of non-linear partial differential equations.
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: The equations are expressed in the language of tensor calculus, a generalization of linear algebra.
     - **[Newton's Law of Universal Gravitation](../classical_mechanics/newtons_law_of_gravitation.md)**: Can be recovered from the EFE in the weak-field, low-speed limit.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Einstein_field_equations](https://en.wikipedia.org/wiki/Einstein_field_equations)

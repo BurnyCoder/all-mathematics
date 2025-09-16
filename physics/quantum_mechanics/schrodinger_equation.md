@@ -40,9 +40,11 @@ $$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf
     - **Quantum Field Theory (QFT)**: The framework that extends quantum mechanics to fields, providing the basis for the Standard Model of particle physics.
 
 - **Related Concepts**:
-    - **[Partial Differential Equation](../../applied_mathematics/differential_equations/pde.md)**: The Schrödinger equation is a specific type of PDE.
-    - **[Linear Algebra](../../pure_mathematics/algebra/linear_algebra.md)**: The state of a quantum system is represented by a vector in a Hilbert space, and physical observables are represented by Hermitian operators.
-    - **[Probability Theory](../../applied_mathematics/probability_theory/probability_space.md)**: The output of the equation is interpreted probabilistically.
+    - **[Differential Equation](../../applied_mathematics/differential_equations/differential_equation.md)**: The Schrödinger equation is a specific type of partial differential equation.
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: The state of a quantum system is represented by a vector in a Hilbert space, and physical observables are represented by Hermitian operators.
+    - **[Eigenvectors and Eigenvalues](../../../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md)**: Solving the time-independent Schrödinger equation is an eigenvalue problem for the Hamiltonian operator.
+    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: The wave function is normalized by requiring its squared magnitude to integrate to 1.
+    - **[Probability Theory](../../applied_mathematics/probability_theory/)**: The output of the equation is interpreted probabilistically.
     - **Fourier Analysis**: Used extensively to solve the equation and to move between position and momentum representations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)

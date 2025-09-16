@@ -41,5 +41,6 @@ $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right
     - **[Gradient Descent](./gradient_descent.md)**: Used to train Transformer models by minimizing a loss function.
     - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Words and tokens are represented as vectors (embeddings) in a high-dimensional space.
     - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: The attention mechanism and feed-forward layers rely heavily on matrix multiplications.
+    - **[Matrix](../../pure_mathematics/linear_algebra/matrix.md)**: Self-attention and other key operations are heavily based on matrix manipulations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))

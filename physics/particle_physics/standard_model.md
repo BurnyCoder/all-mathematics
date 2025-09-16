@@ -35,7 +35,8 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
 
 - **Related Concepts**:
     - **[Lagrangian Mechanics](../analytical_mechanics/lagrangian_mechanics.md)**: The entire theory is formulated in terms of a Lagrangian.
-    - **[Group Theory](../../pure_mathematics/algebra/group.md)**: The symmetries of the Standard Model are described by Lie groups.
+    - **[Group](../../../pure_mathematics/algebra/group.md)**: The symmetries of the Standard Model are described by Lie groups.
+    - **[Field](../../../pure_mathematics/algebra/field.md)**: Quantum field theories describe the dynamics of fields.
     - **[Special Relativity](../special_relativity/special_relativity.md)**: The theory is a relativistic quantum field theory, consistent with special relativity.
     - **[General Relativity](../general_relativity/einstein_field_equations.md)**: The Standard Model does not include gravity, and unifying it with general relativity is a major unsolved problem in physics.
 

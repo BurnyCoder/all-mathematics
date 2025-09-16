@@ -37,6 +37,9 @@ $$ y = \beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p + \epsilon $$
 
 - **Related Concepts**:
     - **[Random Variable](../probability_theory/random_variable.md)**: The variables in a regression model are random variables.
+    - **[Linear Algebra](../../../pure_mathematics/linear_algebra/)**: The most common regression method, ordinary least squares, finds the best-fitting line by solving a system of linear equations.
+    - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: The independent variables can be viewed as vectors in a vector space.
+    - **[Matrix](../../../pure_mathematics/linear_algebra/matrix.md)**: The data for multiple regression is typically organized in a matrix.
     - **[Gradient Descent](../../computer_science/machine_learning/gradient_descent.md)**: An alternative method for finding the regression coefficients, especially in the context of large-scale machine learning.
     - **Correlation**: A measure of the linear relationship between two variables. Regression describes the nature of that relationship.
 

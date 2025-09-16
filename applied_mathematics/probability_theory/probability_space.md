@@ -39,6 +39,7 @@
 
 - **Related Concepts**:
     - **[Set Theory](../../foundations_of_mathematics/set_theory/set.md)**: The sample space and event space are sets.
+    - **[Integral](../../../pure_mathematics/analysis/integral.md)**: For continuous random variables, probabilities are calculated by integrating a probability density function.
     - **Measure Theory**: Probability theory is a branch of measure theory.
     - **Statistics**: The application of probability theory to the analysis of data.
 

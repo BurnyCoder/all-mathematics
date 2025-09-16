@@ -39,8 +39,10 @@ $$ \nabla \cdot \mathbf{v} = 0 $$
     - **Relativistic Fluid Dynamics**: Extends the equations to be consistent with general relativity.
 
 - **Related Concepts**:
-    - **[Partial Differential Equation](../differential_equations/pde.md)**: The Navier-Stokes equations are a system of non-linear PDEs.
-    - **[Vector Calculus](../../pure_mathematics/analysis/vector_calculus.md)**: The equations are expressed in the language of vector calculus.
+    - **[Differential Equation](../differential_equations/differential_equation.md)**: The Navier-Stokes equations are a system of non-linear partial differential equations.
+    - **[Derivative](../../../pure_mathematics/analysis/derivative.md)**: The equations are expressed using vector calculus concepts like the gradient and divergence, which are based on partial derivatives.
+    - **[Vector Space](../../../pure_mathematics/linear_algebra/vector_space.md)**: The fluid velocity is a vector field, a key concept built upon vector spaces.
+    - **[Linear Transformation](../../../pure_mathematics/linear_algebra/linear_transformation.md)**: The viscous stress tensor, which relates shear stress to the rate of strain, is a linear transformation.
     - **[Newton's Laws of Motion](../../physics/classical_mechanics/newtons_laws.md)**: The equations are a continuum mechanics application of Newton's second law.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)

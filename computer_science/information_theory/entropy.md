@@ -36,6 +36,8 @@ $$ H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) $$
 
 - **Related Concepts**:
     - **[Random Variable](../../../applied_mathematics/probability_theory/random_variable.md)**: Entropy is a property of the probability distribution of a random variable.
+    - **[Combinatorics](../../../pure_mathematics/discrete_mathematics/combinatorics/combinations_and_permutations.md)**: Entropy is related to the number of possible arrangements of a system, a core concept in combinatorics.
+    - **[Limit](../../../pure_mathematics/analysis/limit.md)**: The concept of entropy for continuous variables (differential entropy) involves integrals, which are defined through limits.
     - **Thermodynamic Entropy**: The concept in statistical mechanics is deeply connected to Shannon entropy.
     - **Kolmogorov Complexity**: A measure of the computational complexity of an object, which is related to its information content.
 
