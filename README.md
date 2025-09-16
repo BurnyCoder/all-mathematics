@@ -53,6 +53,9 @@ This knowledge base can be navigated in several ways:
 │   │   └── monte_carlo_tree_search.md
 │   ├── probability_theory
 │   │   ├── bayes_theorem.md
+│   │   ├── central_limit_theorem.md
+│   │   ├── law_of_large_numbers.md
+│   │   ├── normal_distribution.md
 │   │   ├── probability_space.md
 │   │   └── random_variable.md
 │   └── statistics
