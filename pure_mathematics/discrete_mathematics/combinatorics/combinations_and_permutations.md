@@ -1,11 +1,11 @@
 # Combinations and Permutations
 
 - **Mathematical Definition**:
-    - **Permutation**: A permutation is an arrangement of members of a set into a sequence or linear order. The number of permutations of \\(k\\) elements taken from a set of \\(n\\) distinct elements is denoted by \\(P(n, k)\\) or \\(_nP_k\\) and is calculated as:
-      \\( P(n, k) = \frac{n!}{(n-k)!} \\)
-      This counts the number of ways to arrange \\(k\\) items from \\(n\\) available items where the order of selection matters.
-    - **Combination**: A combination is a selection of items from a collection, such that the order of selection does not matter. The number of combinations of \\(k\\) elements from a set of \\(n\\) elements is denoted by \\(C(n, k)\\), \\(_nC_k\\), or \\(\binom{n}{k}\\) (the binomial coefficient), and is calculated as:
-      \\( C(n, k) = \binom{n}{k} = \frac{n!}{k!(n-k)!} \\)
+    - **Permutation**: A permutation is an arrangement of members of a set into a sequence or linear order. The number of permutations of $k$ elements taken from a set of $n$ distinct elements is denoted by $P(n, k)$ or $_nP_k$ and is calculated as:
+      $$ P(n, k) = \frac{n!}{(n-k)!} $$
+      This counts the number of ways to arrange $k$ items from $n$ available items where the order of selection matters.
+    - **Combination**: A combination is a selection of items from a collection, such that the order of selection does not matter. The number of combinations of $k$ elements from a set of $n$ elements is denoted by $C(n, k)$, $_nC_k$, or $\binom{n}{k}$ (the binomial coefficient), and is calculated as:
+      $$ C(n, k) = \binom{n}{k} = \frac{n!}{k!(n-k)!} $$
 
 - **Description**: Permutations and combinations are the two fundamental concepts in combinatorics, the branch of mathematics concerned with counting. Permutations are about ordered arrangements, while combinations are about unordered selections. Understanding the difference is key to solving many counting problems.
 
@@ -16,7 +16,7 @@
 
 - **Subfields and concepts it includes**:
     - **Factorial**: The product of all positive integers up to a given integer.
-    - **Binomial Coefficient**: The coefficients of the terms in the expansion of \\((x+y)^n\\).
+    - **Binomial Coefficient**: The coefficients of the terms in the expansion of $(x+y)^n$.
     - **Binomial Theorem**: A theorem that describes the algebraic expansion of powers of a binomial.
 
 - **Applications**:

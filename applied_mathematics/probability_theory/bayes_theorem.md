@@ -1,12 +1,12 @@
 # Bayes' Theorem
 
 - **Mathematical Definition**: Bayes' theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event. The theorem is stated mathematically as the following equation:
-  \\( P(A|B) = \frac{P(B|A) \, P(A)}{P(B)} \\)
-  where \\(A\\) and \\(B\\) are events and \\(P(B) \neq 0\\).
-    - \\(P(A|B)\\) is the **posterior probability**: the probability of event \\(A\\) occurring given that \\(B\\) is true.
-    - \\(P(B|A)\\) is the **likelihood**: the probability of event \\(B\\) occurring given that \\(A\\) is true.
-    - \\(P(A)\\) is the **prior probability**: the initial probability of event \\(A\\).
-    - \\(P(B)\\) is the **marginal probability** of event \\(B\\).
+$$ P(A|B) = \frac{P(B|A) \, P(A)}{P(B)} $$
+  where $A$ and $B$ are events and $P(B) \neq 0$.
+    - $P(A|B)$ is the **posterior probability**: the probability of event $A$ occurring given that $B$ is true.
+    - $P(B|A)$ is the **likelihood**: the probability of event $B$ occurring given that $A$ is true.
+    - $P(A)$ is the **prior probability**: the initial probability of event $A$.
+    - $P(B)$ is the **marginal probability** of event $B$.
 
 - **Description**: Bayes' theorem provides a way to update our beliefs (the prior probability) in light of new evidence (the likelihood). It is the mathematical foundation of Bayesian inference, a major school of thought in statistics. It describes how to rationally update the degree of confidence in a hypothesis when new information becomes available.
 

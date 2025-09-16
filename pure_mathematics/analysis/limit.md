@@ -1,9 +1,9 @@
 # Limit (Calculus)
 
 - **Mathematical Definition**: In calculus, the limit of a function is the value that the function "approaches" as the input "approaches" some value. The formal definition, known as the **(ε, δ)-definition**, is as follows:
-  Let \\(f\\) be a function defined on a subset \\(D \subseteq \mathbb{R}\\), and let \\(c\\) be a limit point of \\(D\\). The limit of \\(f(x)\\) as \\(x\\) approaches \\(c\\) is \\(L\\), written
-  \\( \lim_{x \to c} f(x) = L \\)
-  if for every \\(\epsilon > 0\\), there exists a \\(\delta > 0\\) such that for all \\(x \in D\\), if \\(0 < |x - c| < \delta\\), then \\(|f(x) - L| < \epsilon\\).
+  Let $f$ be a function defined on a subset $D \subseteq \mathbb{R}$, and let $c$ be a limit point of $D$. The limit of $f(x)$ as $x$ approaches $c$ is $L$, written
+$$ \lim_{x \to c} f(x) = L $$
+  if for every $\epsilon > 0$, there exists a $\delta > 0$ such that for all $x \in D$, if $0 < |x - c| < \delta$, then $|f(x) - L| < \epsilon$.
 
 - **Description**: The concept of a limit is the foundational idea upon which all of calculus is built. It formalizes the notion of "getting arbitrarily close" to a point. Limits are used to define the two other fundamental concepts of calculus: the derivative (as the limit of the slope of secant lines) and the integral (as the limit of Riemann sums).
 
@@ -29,7 +29,7 @@
     - **Limit of a Function of a Real Variable**: The definition described above.
 
 - **More General Variants**:
-    - **Limits in Topological Spaces**: The concept of a limit can be generalized to functions between [topological spaces](../topology/topological_space.md) using neighborhoods instead of the \\(\epsilon-\delta\\) definition.
+    - **Limits in Topological Spaces**: The concept of a limit can be generalized to functions between [topological spaces](../topology/topological_space.md) using neighborhoods instead of the $\epsilon-\delta$ definition.
     - **Limits in Category Theory**: The concepts of limits and colimits in [category theory](../../foundations_of_mathematics/category_theory/category.md) are a vast generalization of limits in analysis.
 
 - **Related Concepts**:

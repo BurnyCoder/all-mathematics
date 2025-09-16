@@ -1,7 +1,7 @@
 # Derivative
 
-- **Mathematical Definition**: The derivative of a function of a real variable measures the instantaneous rate of change of the function with respect to its variable. It is defined as a limit. For a function \\(f(x)\\), the derivative at a point \\(a\\), denoted \\(f'(a)\\), is:
-  \\( f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h} \\)
+- **Mathematical Definition**: The derivative of a function of a real variable measures the instantaneous rate of change of the function with respect to its variable. It is defined as a limit. For a function $f(x)$, the derivative at a point $a$, denoted $f'(a)$, is:
+$$ f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h} $$
   provided the limit exists. Geometrically, the derivative at a point is the slope of the tangent line to the graph of the function at that point.
 
 - **Description**: The derivative is a cornerstone of calculus and mathematical analysis. The process of finding a derivative is called **differentiation**. It provides a way to describe how a function is changing at any given point. This concept is fundamental to modeling dynamic systems in all of science and engineering.

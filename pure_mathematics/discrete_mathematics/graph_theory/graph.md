@@ -1,9 +1,9 @@
 # Graph (Graph Theory)
 
-- **Mathematical Definition**: In graph theory, a graph is a mathematical structure used to model pairwise relations between objects. A graph in this context is made up of **vertices** (also called nodes or points) which are connected by **edges** (also called links or lines). A simple graph is an ordered pair \\(G = (V, E)\\) where:
-    - \\(V\\) is a set of vertices.
-    - \\(E\\) is a set of 2-element subsets of \\(V\\), representing the edges.
-  For an edge \\(\{u, v\}\\) in \\(E\\), the vertices \\(u\\) and \\(v\\) are called its endpoints.
+- **Mathematical Definition**: In graph theory, a graph is a mathematical structure used to model pairwise relations between objects. A graph in this context is made up of **vertices** (also called nodes or points) which are connected by **edges** (also called links or lines). A simple graph is an ordered pair $G = (V, E)$ where:
+    - $V$ is a set of vertices.
+    - $E$ is a set of 2-element subsets of $V$, representing the edges.
+  For an edge $\{u, v\}$ in $E$, the vertices $u$ and $v$ are called its endpoints.
 
 - **Description**: Graph theory is a major branch of discrete mathematics. Graphs are one of the most ubiquitous models in computer science and applied mathematics, used to represent networks of all kinds, from social networks and computer networks to molecular structures and dependencies in a project.
 

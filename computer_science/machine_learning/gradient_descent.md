@@ -1,13 +1,13 @@
 # Gradient Descent
 
-- **Mathematical Definition**: Gradient descent is an iterative first-order optimization algorithm for finding a local minimum of a differentiable function. To find a local minimum of a function \\(F(\mathbf{x})\\), one takes steps proportional to the negative of the gradient of the function at the current point. The update rule is:
-  \\( \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) \\)
+- **Mathematical Definition**: Gradient descent is an iterative first-order optimization algorithm for finding a local minimum of a differentiable function. To find a local minimum of a function $F(\mathbf{x})$, one takes steps proportional to the negative of the gradient of the function at the current point. The update rule is:
+$$ \mathbf{x}_{n+1} = \mathbf{x}_n - \gamma \nabla F(\mathbf{x}_n) $$
   where:
-    - \\(\mathbf{x}_n\\) is the current position in the parameter space.
-    - \\(\gamma\\) is the **learning rate**, a positive scalar determining the step size.
-    - \\(\nabla F(\mathbf{x}_n)\\) is the **gradient** of the function \\(F\\) at \\(\mathbf{x}_n\\), which is the vector of partial derivatives that points in the direction of the steepest ascent.
+    - $\mathbf{x}_n$ is the current position in the parameter space.
+    - $\gamma$ is the **learning rate**, a positive scalar determining the step size.
+    - $\nabla F(\mathbf{x}_n)$ is the **gradient** of the function $F$ at $\mathbf{x}_n$, which is the vector of partial derivatives that points in the direction of the steepest ascent.
 
-- **Description**: Gradient descent is one of the most important algorithms in machine learning and optimization. The intuition is to imagine walking down a hill to find its lowest point. The gradient gives you the direction of the steepest slope, so you take a small step in the opposite direction. By repeating this process, you iteratively descend towards a minimum. In machine learning, the function \\(F\\) is a **loss function**, and \\(\mathbf{x}\\) is the set of model parameters (e.g., the weights of a neural network). Gradient descent adjusts these parameters to minimize the error of the model on the training data.
+- **Description**: Gradient descent is one of the most important algorithms in machine learning and optimization. The intuition is to imagine walking down a hill to find its lowest point. The gradient gives you the direction of the steepest slope, so you take a small step in the opposite direction. By repeating this process, you iteratively descend towards a minimum. In machine learning, the function $F$ is a **loss function**, and $\mathbf{x}$ is the set of model parameters (e.g., the weights of a neural network). Gradient descent adjusts these parameters to minimize the error of the model on the training data.
 
 - **Subfields it's part of**:
     - [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)

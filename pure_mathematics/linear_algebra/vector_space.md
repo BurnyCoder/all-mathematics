@@ -1,14 +1,14 @@
 # Vector Space
 
-- **Mathematical Definition**: A vector space over a field \\(F\\) is a set \\(V\\) equipped with two operations:
-    1.  **Vector Addition**: \\(+: V \times V \to V\\)
-    2.  **Scalar Multiplication**: \\(\cdot: F \times V \to V\\)
-These operations must satisfy the following axioms for all vectors \\(\mathbf{u}, \mathbf{v}, \mathbf{w} \in V\\) and scalars \\(a, b \in F\\):
-    - \\((V, +)\\) is an abelian group (associativity, commutativity, additive identity \\(\mathbf{0}\\), and additive inverse \\(-\mathbf{v}\\)).
-    - **Compatibility** of scalar multiplication with field multiplication: \\(a(b\mathbf{v}) = (ab)\mathbf{v}\\).
-    - **Identity element** of scalar multiplication: \\(1\mathbf{v} = \mathbf{v}\\), where \\(1\\) is the multiplicative identity in \\(F\\).
-    - **Distributivity** of scalar multiplication with respect to vector addition: \\(a(\mathbf{u}+\mathbf{v}) = a\mathbf{u} + a\mathbf{v}\\).
-    - **Distributivity** of scalar multiplication with respect to field addition: \\((a+b)\mathbf{v} = a\mathbf{v} + b\mathbf{v}\\).
+- **Mathematical Definition**: A vector space over a field $F$ is a set $V$ equipped with two operations:
+    1.  **Vector Addition**: $+: V \times V \to V$
+    2.  **Scalar Multiplication**: $\cdot: F \times V \to V$
+These operations must satisfy the following axioms for all vectors $\mathbf{u}, \mathbf{v}, \mathbf{w} \in V$ and scalars $a, b \in F$:
+    - $(V, +)$ is an abelian group (associativity, commutativity, additive identity $\mathbf{0}$, and additive inverse $-\mathbf{v}$).
+    - **Compatibility** of scalar multiplication with field multiplication: $a(b\mathbf{v}) = (ab)\mathbf{v}$.
+    - **Identity element** of scalar multiplication: $1\mathbf{v} = \mathbf{v}$, where $1$ is the multiplicative identity in $F$.
+    - **Distributivity** of scalar multiplication with respect to vector addition: $a(\mathbf{u}+\mathbf{v}) = a\mathbf{u} + a\mathbf{v}$.
+    - **Distributivity** of scalar multiplication with respect to field addition: $(a+b)\mathbf{v} = a\mathbf{v} + b\mathbf{v}$.
 
 - **Description**: Vector spaces are the fundamental objects of study in linear algebra. They are an abstract algebraic structure that formalizes and generalizes the concept of geometric vectors. Elements of a vector space are called vectors, and the elements of the underlying field are called scalars. Vector spaces allow for the rigorous study of concepts like length, angle, and orientation in arbitrary dimensions.
 
@@ -35,8 +35,8 @@ These operations must satisfy the following axioms for all vectors \\(\mathbf{u}
     - **Differential Equations**: The solutions to a linear homogeneous differential equation form a vector space.
 
 - **More Concrete Variants**:
-    - **Euclidean Space (\\(\mathbb{R}^n\\))**: The space of n-tuples of real numbers.
-    - **Complex Vector Space (\\(\mathbb{C}^n\\))**: The space of n-tuples of complex numbers.
+    - **Euclidean Space ($\mathbb{R}^n$)**: The space of n-tuples of real numbers.
+    - **Complex Vector Space ($\mathbb{C}^n$)**: The space of n-tuples of complex numbers.
     - **Function Spaces**: Vector spaces where the vectors are functions, such as the space of all continuous functions on an interval.
     - **Polynomial Spaces**: Vector spaces where the vectors are polynomials up to a certain degree.
 

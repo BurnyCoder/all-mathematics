@@ -1,8 +1,8 @@
 # Integral
 
-- **Mathematical Definition**: An integral is a mathematical object that can be interpreted as an area or a generalization of area. The most common type is the **definite integral**. For a function \\(f(x)\\) of one variable, the definite integral from \\(a\\) to \\(b\\) is written
-  \\( \int_a^b f(x) \,dx \\)
-  It is defined as the limit of Riemann sums of areas of rectangles that approximate the region under the curve. This is the **Riemann integral**. The **Fundamental Theorem of Calculus** provides a link between integration and differentiation: if \\(F\\) is an antiderivative of \\(f\\) (i.e., \\(F' = f\\)), then \\(\int_a^b f(x) \,dx = F(b) - F(a)\\).
+- **Mathematical Definition**: An integral is a mathematical object that can be interpreted as an area or a generalization of area. The most common type is the **definite integral**. For a function $f(x)$ of one variable, the definite integral from $a$ to $b$ is written
+$$ \int_a^b f(x) \,dx $$
+  It is defined as the limit of Riemann sums of areas of rectangles that approximate the region under the curve. This is the **Riemann integral**. The **Fundamental Theorem of Calculus** provides a link between integration and differentiation: if $F$ is an antiderivative of $f$ (i.e., $F' = f$), then $\int_a^b f(x) \,dx = F(b) - F(a)$.
 
 - **Description**: The integral is the second central concept of calculus. The process of finding an integral is called **integration**. Where differentiation deals with instantaneous rates of change, integration deals with the accumulation of quantities. It is the reverse process of differentiation, a fact captured by the Fundamental Theorem of Calculus.
 

@@ -1,13 +1,13 @@
 # First-Order Logic
 
 - **Mathematical Definition**: First-order logic, also known as predicate logic or first-order predicate calculus, is a formal system that extends [propositional logic](./propositional_logic.md). It introduces variables, predicates, and quantifiers. Its syntax involves:
-    - **Terms**: Variables (\\(x, y, ...\\)), constants, and functions applied to terms (e.g., \\(f(x)\\)).
-    - **Predicates**: Relations on terms (e.g., \\(P(x), Q(x, y)\\)).
-    - **Logical Connectives**: From propositional logic (\\(\land, \lor, \neg, \to, \leftrightarrow\\)).
+    - **Terms**: Variables ($x, y, ...$), constants, and functions applied to terms (e.g., $f(x)$).
+    - **Predicates**: Relations on terms (e.g., $P(x), Q(x, y)$).
+    - **Logical Connectives**: From propositional logic ($\land, \lor, \neg, \to, \leftrightarrow$).
     - **Quantifiers**:
-        - **Universal Quantifier (\\(\forall\\))**: "For all" or "for every".
-        - **Existential Quantifier (\\(\exists\\))**: "There exists" or "for some".
-    An example formula is \\( \forall x \exists y \, P(x, y) \\), meaning "for every x, there exists a y such that the relation P holds between x and y".
+        - **Universal Quantifier ($\forall$)**: "For all" or "for every".
+        - **Existential Quantifier ($\exists$)**: "There exists" or "for some".
+    An example formula is $ \forall x \exists y \, P(x, y) $, meaning "for every x, there exists a y such that the relation P holds between x and y".
 
 - **Description**: First-order logic is significantly more expressive than propositional logic, allowing for the formalization of vast areas of mathematics. It is the standard logic for axiomatizing mathematical theories. It operates on a domain of discourse, which is a set of objects over which the variables range.
 

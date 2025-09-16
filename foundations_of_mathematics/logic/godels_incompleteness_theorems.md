@@ -1,8 +1,8 @@
 # Gödel's Incompleteness Theorems
 
 - **Mathematical Definition**: Gödel's incompleteness theorems are two theorems of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system capable of modeling basic arithmetic.
-    1.  **First Incompleteness Theorem**: Any consistent formal system \\(F\\) within which a certain amount of elementary arithmetic can be carried out is **incomplete**; i.e., there are statements of the language of \\(F\\) which can neither be proved nor disproved in \\(F\\).
-    2.  **Second Incompleteness Theorem**: For any consistent formal system \\(F\\) containing basic arithmetic, the consistency of \\(F\\) cannot be proved within \\(F\\) itself.
+    1.  **First Incompleteness Theorem**: Any consistent formal system $F$ within which a certain amount of elementary arithmetic can be carried out is **incomplete**; i.e., there are statements of the language of $F$ which can neither be proved nor disproved in $F$.
+    2.  **Second Incompleteness Theorem**: For any consistent formal system $F$ containing basic arithmetic, the consistency of $F$ cannot be proved within $F$ itself.
 
 - **Description**: Proved by Kurt Gödel in 1931, these theorems were a landmark in 20th-century mathematics. They showed that the ambition of finding a complete and consistent set of axioms for all of mathematics (known as Hilbert's program) was impossible. The first theorem states that in any sufficiently powerful axiomatic system, there will always be true statements that are unprovable. The second theorem states that such a system cannot prove its own consistency.
 

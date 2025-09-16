@@ -1,8 +1,8 @@
 # Principle of Least Action
 
-- **Mathematical Definition**: The principle of least action, or more accurately, the **principle of stationary action**, is a variational principle that describes the path taken by a physical system. It states that the path followed by a system between two points in time is the one for which the **action** \\(S\\) is stationary (i.e., its variation is zero). The action is defined as the integral of the [Lagrangian](./lagrangian_mechanics.md) \\(L\\) over time:
-  \\( S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt \\)
-  The condition \\(\delta S = 0\\) (meaning the first variation of the action is zero) is what gives rise to the [Euler-Lagrange equations](../analytical_mechanics/lagrangian_mechanics.md), which describe the system's equations of motion.
+- **Mathematical Definition**: The principle of least action, or more accurately, the **principle of stationary action**, is a variational principle that describes the path taken by a physical system. It states that the path followed by a system between two points in time is the one for which the **action** $S$ is stationary (i.e., its variation is zero). The action is defined as the integral of the [Lagrangian](./lagrangian_mechanics.md) $L$ over time:
+$$ S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt $$
+  The condition $\delta S = 0$ (meaning the first variation of the action is zero) is what gives rise to the [Euler-Lagrange equations](../analytical_mechanics/lagrangian_mechanics.md), which describe the system's equations of motion.
 
 - **Description**: This principle provides a powerful and elegant way to formulate physical laws. Instead of thinking about forces and accelerations at each moment (the Newtonian view), the principle of least action takes a global perspective: it says that out of all possible paths a system could take, the one it actually does take is an extremum (a minimum, maximum, or saddle point) of the action. This single idea can be used to derive almost all of the fundamental equations of motion in physics.
 

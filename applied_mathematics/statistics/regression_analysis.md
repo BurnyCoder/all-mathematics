@@ -1,8 +1,8 @@
 # Regression Analysis
 
-- **Mathematical Definition**: Regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable) and one or more independent variables (often called 'predictors', 'covariates', or 'features'). The most common form is **linear regression**, where a model assumes a linear relationship between the independent variables \\(X\\) and the dependent variable \\(y\\):
-  \\( y = \beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p + \epsilon \\)
-  where \\(\beta_0, \dots, \beta_p\\) are the **regression coefficients** to be estimated, and \\(\epsilon\\) is the error term. The coefficients are typically estimated by minimizing the **sum of squared residuals** (the difference between the observed and predicted values), a method known as **ordinary least squares (OLS)**.
+- **Mathematical Definition**: Regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable) and one or more independent variables (often called 'predictors', 'covariates', or 'features'). The most common form is **linear regression**, where a model assumes a linear relationship between the independent variables $X$ and the dependent variable $y$:
+$$ y = \beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p + \epsilon $$
+  where $\beta_0, \dots, \beta_p$ are the **regression coefficients** to be estimated, and $\epsilon$ is the error term. The coefficients are typically estimated by minimizing the **sum of squared residuals** (the difference between the observed and predicted values), a method known as **ordinary least squares (OLS)**.
 
 - **Description**: Regression analysis is a powerful statistical method that allows for examining the relationship between two or more variables of interest. It is a core tool for prediction and forecasting. The goal is to build a model that can predict the value of a dependent variable based on the values of the independent variables.
 

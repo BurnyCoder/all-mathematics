@@ -1,13 +1,13 @@
 # Turing Machine
 
-- **Mathematical Definition**: A Turing machine is a mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine can be adapted to simulate the logic of any computer algorithm. A standard Turing machine is formally defined as a 7-tuple \\(M = \langle Q, \Gamma, b, \Sigma, \delta, q_0, F \rangle\\) where:
-    - \\(Q\\) is a finite set of **states**.
-    - \\(\Gamma\\) is a finite set of tape **symbols**.
-    - \\(b \in \Gamma\\) is the **blank symbol**.
-    - \\(\Sigma \subseteq \Gamma \setminus \{b\}\\) is the set of **input symbols**.
-    - \\(\delta: (Q \setminus F) \times \Gamma \to Q \times \Gamma \times \{L, R\}\\) is the **transition function**.
-    - \\(q_0 \in Q\\) is the **initial state**.
-    - \\(F \subseteq Q\\) is the set of **final or accepting states**.
+- **Mathematical Definition**: A Turing machine is a mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine can be adapted to simulate the logic of any computer algorithm. A standard Turing machine is formally defined as a 7-tuple $M = \langle Q, \Gamma, b, \Sigma, \delta, q_0, F \rangle$ where:
+    - $Q$ is a finite set of **states**.
+    - $\Gamma$ is a finite set of tape **symbols**.
+    - $b \in \Gamma$ is the **blank symbol**.
+    - $\Sigma \subseteq \Gamma \setminus \{b\}$ is the set of **input symbols**.
+    - $\delta: (Q \setminus F) \times \Gamma \to Q \times \Gamma \times \{L, R\}$ is the **transition function**.
+    - $q_0 \in Q$ is the **initial state**.
+    - $F \subseteq Q$ is the set of **final or accepting states**.
 
 - **Description**: The Turing machine was invented in 1936 by Alan Turing. It is not a practical computing technology, but a thought experiment about the limits of mechanical computation. It provides a precise, formal definition of what it means for a function to be "computable". The **Church-Turing thesis** states that any function that can be computed by an algorithm can be computed by a Turing machine. This means that if a problem cannot be solved by a Turing machine, it cannot be solved by any computer.
 

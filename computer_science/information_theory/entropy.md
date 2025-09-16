@@ -1,8 +1,8 @@
 # Shannon Entropy
 
-- **Mathematical Definition**: In information theory, Shannon entropy (or simply entropy) is the measure of the average level of "information", "surprise", or "uncertainty" inherent in a random variable's possible outcomes. For a discrete [random variable](../../../applied_mathematics/probability_theory/random_variable.md) \\(X\\) with possible outcomes \\(x_1, \dots, x_n\\) and probability mass function \\(P(X)\\), the entropy \\(H(X)\\) is defined as:
-  \\( H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) \\)
-  The base of the logarithm, \\(b\\), is usually 2, in which case the units of entropy are **bits**. The formula can be interpreted as the expected value of the self-information of the variable, where the self-information of an outcome \\(x_i\\) is \\(-\log_b P(x_i)\\).
+- **Mathematical Definition**: In information theory, Shannon entropy (or simply entropy) is the measure of the average level of "information", "surprise", or "uncertainty" inherent in a random variable's possible outcomes. For a discrete [random variable](../../../applied_mathematics/probability_theory/random_variable.md) $X$ with possible outcomes $x_1, \dots, x_n$ and probability mass function $P(X)$, the entropy $H(X)$ is defined as:
+$$ H(X) = - \sum_{i=1}^{n} P(x_i) \log_b P(x_i) $$
+  The base of the logarithm, $b$, is usually 2, in which case the units of entropy are **bits**. The formula can be interpreted as the expected value of the self-information of the variable, where the self-information of an outcome $x_i$ is $-\log_b P(x_i)$.
 
 - **Description**: Introduced by Claude Shannon in his 1948 paper "A Mathematical Theory of Communication", entropy provides a rigorous mathematical way to quantify uncertainty. A random variable with a uniform distribution (all outcomes equally likely) has the highest possible entropy, representing maximum uncertainty. A variable that can only take one value has zero entropy, as there is no uncertainty. The concept is central to data compression and the theoretical limits of communication.
 

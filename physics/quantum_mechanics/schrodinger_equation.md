@@ -1,14 +1,14 @@
 # Schrödinger Equation
 
 - **Mathematical Definition**: The Schrödinger equation is a linear partial differential equation that describes the wave function of a quantum-mechanical system. The time-dependent Schrödinger equation is:
-  \\( i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t) \\)
+$$ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t) $$
   where:
-    - \\(i\\) is the imaginary unit.
-    - \\(\hbar\\) is the reduced Planck constant.
-    - \\(\Psi(\mathbf{r}, t)\\) is the **wave function** of the system, which is a complex-valued function that describes the quantum state of a particle.
-    - \\(\hat{H}\\) is the **Hamiltonian operator**, which characterizes the total energy of the system. For a single particle with potential energy \\(V(\mathbf{r}, t)\\), it is \\(\hat{H} = -\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r}, t)\\).
+    - $i$ is the imaginary unit.
+    - $\hbar$ is the reduced Planck constant.
+    - $\Psi(\mathbf{r}, t)$ is the **wave function** of the system, which is a complex-valued function that describes the quantum state of a particle.
+    - $\hat{H}$ is the **Hamiltonian operator**, which characterizes the total energy of the system. For a single particle with potential energy $V(\mathbf{r}, t)$, it is $\hat{H} = -\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r}, t)$.
 
-- **Description**: The Schrödinger equation is the central equation of quantum mechanics. Its solution, the wave function, does not give the exact position and momentum of a particle but instead describes the probability of finding the particle at a given position or with a given momentum. The square of the magnitude of the wave function, \\(|\Psi|^2\\), represents the probability density. This probabilistic nature is a fundamental departure from classical mechanics.
+- **Description**: The Schrödinger equation is the central equation of quantum mechanics. Its solution, the wave function, does not give the exact position and momentum of a particle but instead describes the probability of finding the particle at a given position or with a given momentum. The square of the magnitude of the wave function, $|\Psi|^2$, represents the probability density. This probabilistic nature is a fundamental departure from classical mechanics.
 
 - **Subfields it's part of**:
     - [Quantum Mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
@@ -16,8 +16,8 @@
     - [Partial Differential Equations](https://en.wikipedia.org/wiki/Partial_differential_equation)
 
 - **Subfields and concepts it includes**:
-    - **Wave Function (\\(\Psi\\))**: The mathematical description of the quantum state of a system.
-    - **Hamiltonian Operator (\\(\hat{H}\\))**: An operator corresponding to the total energy of the system.
+    - **Wave Function ($\Psi$)**: The mathematical description of the quantum state of a system.
+    - **Hamiltonian Operator ($\hat{H}$)**: An operator corresponding to the total energy of the system.
     - **Probability Density**: The probability per unit volume of finding a particle at a given location.
     - **Quantum State**: The state of an isolated quantum system.
     - **Superposition**: The principle that a quantum system can be in multiple states at the same time.

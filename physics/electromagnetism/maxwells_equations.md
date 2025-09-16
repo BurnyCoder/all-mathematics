@@ -1,15 +1,15 @@
 # Maxwell's Equations
 
 - **Mathematical Definition**: Maxwell's equations are a set of four coupled partial differential equations that, together with the Lorentz force law, form the foundation of classical electromagnetism, classical optics, and electric circuits. In differential form, they are:
-    1.  **Gauss's Law**: \\( \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0} \\)
-        (Relates the electric field \\(\mathbf{E}\\) to its source, the electric charge density \\(\rho\\).)
-    2.  **Gauss's Law for Magnetism**: \\( \nabla \cdot \mathbf{B} = 0 \\)
+    1.  **Gauss's Law**: $$ \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0} $$
+        (Relates the electric field $\mathbf{E}$ to its source, the electric charge density $\rho$.)
+    2.  **Gauss's Law for Magnetism**: $$ \nabla \cdot \mathbf{B} = 0 $$
         (States that there are no magnetic monopoles.)
-    3.  **Faraday's Law of Induction**: \\( \nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} \\)
-        (Describes how a time-varying magnetic field \\(\mathbf{B}\\) creates an electric field.)
-    4.  **Ampère's Law with Maxwell's Addition**: \\( \nabla \times \mathbf{B} = \mu_0 \left( \mathbf{J} + \epsilon_0 \frac{\partial \mathbf{E}}{\partial t} \right) \\)
-        (Describes how an electric current (density \\(\mathbf{J}\\)) or a time-varying electric field creates a magnetic field.)
-    Here, \\(\epsilon_0\\) is the vacuum permittivity and \\(\mu_0\\) is the vacuum permeability.
+    3.  **Faraday's Law of Induction**: $$ \nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t} $$
+        (Describes how a time-varying magnetic field $\mathbf{B}$ creates an electric field.)
+    4.  **Ampère's Law with Maxwell's Addition**: $$ \nabla \times \mathbf{B} = \mu_0 \left( \mathbf{J} + \epsilon_0 \frac{\partial \mathbf{E}}{\partial t} \right) $$
+        (Describes how an electric current (density $\mathbf{J}$) or a time-varying electric field creates a magnetic field.)
+    Here, $\epsilon_0$ is the vacuum permittivity and $\mu_0$ is the vacuum permeability.
 
 - **Description**: Maxwell's equations provide a complete mathematical description of the behavior of electric and magnetic fields. They unified electricity, magnetism, and optics, demonstrating that light is an electromagnetic wave. These equations are one of the cornerstones of modern physics.
 
@@ -18,10 +18,10 @@
     - [Classical Physics](https://en.wikipedia.org/wiki/Classical_physics)
 
 - **Subfields and concepts it includes**:
-    - **Electric Field (\\(\mathbf{E}\\))**: A vector field that describes the electric force on a charged particle.
-    - **Magnetic Field (\\(\mathbf{B}\\))**: A vector field that describes the magnetic force on a moving charged particle.
-    - **Electric Charge Density (\\(\rho\\))**: The amount of electric charge per unit volume.
-    - **Electric Current Density (\\(\mathbf{J}\\))**: The amount of charge per unit time per unit area.
+    - **Electric Field ($\mathbf{E}$)**: A vector field that describes the electric force on a charged particle.
+    - **Magnetic Field ($\mathbf{B}$)**: A vector field that describes the magnetic force on a moving charged particle.
+    - **Electric Charge Density ($\rho$)**: The amount of electric charge per unit volume.
+    - **Electric Current Density ($\mathbf{J}$)**: The amount of charge per unit time per unit area.
     - **Vector Calculus**: The mathematical language of Maxwell's equations (divergence and curl).
 
 - **Applications**:
@@ -41,7 +41,7 @@
 
 - **Related Concepts**:
     - **[Partial Differential Equation](../../applied_mathematics/differential_equations/pde.md)**: Maxwell's equations are a system of linear first-order partial differential equations.
-    - **[Vector Calculus](../calculus/vector_calculus.md)**: The operators of divergence (\\(\nabla \cdot\\)) and curl (\\(\nabla \times\\)) are central to the equations' formulation.
+    - **[Vector Calculus](../calculus/vector_calculus.md)**: The operators of divergence ($\nabla \cdot$) and curl ($\nabla \times$) are central to the equations' formulation.
     - **Special Relativity**: Maxwell's equations were a key inspiration for Einstein's theory of special relativity, as they predict that the speed of light is a universal constant.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations)

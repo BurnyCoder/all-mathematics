@@ -1,10 +1,10 @@
 # Structure (Model Theory)
 
-- **Mathematical Definition**: In model theory, a structure (or model) for a formal language \\(\mathcal{L}\\) is an interpretation of that language. It consists of a non-empty set \\(M\\), called the **domain** or **universe**, and an interpretation function \\(I\\) that assigns meaning to the non-logical symbols of \\(\mathcal{L}\\). Specifically:
-    - To each constant symbol \\(c\\) of \\(\mathcal{L}\\), \\(I\\) assigns an element \\(c^M \in M\\).
-    - To each \\(n\\)-ary function symbol \\(f\\) of \\(\mathcal{L}\\), \\(I\\) assigns an \\(n\\)-ary function \\(f^M: M^n \to M\\).
-    - To each \\(n\\)-ary predicate symbol \\(P\\) of \\(\mathcal{L}\\), \\(I\\) assigns an \\(n\\)-ary relation \\(P^M \subseteq M^n\\).
-A sentence \\(\phi\\) in the language \\(\mathcal{L}\\) is said to be **true in the structure** \\(\mathcal{M}\\) (written \\(\mathcal{M} \models \phi\\)) if the interpretation satisfies the sentence.
+- **Mathematical Definition**: In model theory, a structure (or model) for a formal language $\mathcal{L}$ is an interpretation of that language. It consists of a non-empty set $M$, called the **domain** or **universe**, and an interpretation function $I$ that assigns meaning to the non-logical symbols of $\mathcal{L}$. Specifically:
+    - To each constant symbol $c$ of $\mathcal{L}$, $I$ assigns an element $c^M \in M$.
+    - To each $n$-ary function symbol $f$ of $\mathcal{L}$, $I$ assigns an $n$-ary function $f^M: M^n \to M$.
+    - To each $n$-ary predicate symbol $P$ of $\mathcal{L}$, $I$ assigns an $n$-ary relation $P^M \subseteq M^n$.
+A sentence $\phi$ in the language $\mathcal{L}$ is said to be **true in the structure** $\mathcal{M}$ (written $\mathcal{M} \models \phi$) if the interpretation satisfies the sentence.
 
 - **Description**: A structure is a concrete mathematical object that realizes the abstract syntax of a formal language. Model theory is the study of the relationship between formal theories (sets of sentences in a formal language) and their models (the structures in which those sentences are true). It provides a way to study formal systems by looking at the mathematical objects they describe. For example, the set of natural numbers with the operations of addition and multiplication is a model of the theory of Peano Arithmetic.
 
@@ -28,7 +28,7 @@ A sentence \\(\phi\\) in the language \\(\mathcal{L}\\) is said to be **true in 
 - **More Concrete Variants (Examples of Structures)**:
     - **Groups**: A group is a model for the language of group theory.
     - **Rings**: A ring is a model for the language of ring theory.
-    - **The Natural Numbers \\((\mathbb{N}, +, \cdot, 0, 1)\\)**: This is the intended model for the language of Peano Arithmetic.
+    - **The Natural Numbers $(\mathbb{N}, +, \cdot, 0, 1)$**: This is the intended model for the language of Peano Arithmetic.
 
 - **More General Variants**:
     - **Categorical Model Theory**: Explores the relationship between model theory and category theory.

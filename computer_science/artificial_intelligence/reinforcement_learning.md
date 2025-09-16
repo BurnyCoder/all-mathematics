@@ -1,12 +1,12 @@
 # Reinforcement Learning
 
-- **Mathematical Definition**: Reinforcement learning (RL) is an area of machine learning concerned with how an **agent** takes **actions** in an **environment** to maximize some notion of cumulative **reward**. The problem is typically formalized as a **Markov Decision Process (MDP)**, which is a tuple \\((\mathcal{S}, \mathcal{A}, P, R, \gamma)\\):
-    - \\(\mathcal{S}\\) is the set of **states**.
-    - \\(\mathcal{A}\\) is the set of **actions**.
-    - \\(P(s'|s, a)\\) is the **transition probability** of moving from state \\(s\\) to state \\(s'\\) after taking action \\(a\\).
-    - \\(R(s, a, s')\\) is the immediate **reward** received after transitioning from \\(s\\) to \\(s'\\) due to action \\(a\\).
-    - \\(\gamma \in [0, 1]\\) is the **discount factor**, which trades off the importance of immediate versus future rewards.
-The goal of the agent is to learn a **policy** \\(\pi(a|s)\\), which is a strategy for choosing actions in given states, that maximizes the expected cumulative discounted reward.
+- **Mathematical Definition**: Reinforcement learning (RL) is an area of machine learning concerned with how an **agent** takes **actions** in an **environment** to maximize some notion of cumulative **reward**. The problem is typically formalized as a **Markov Decision Process (MDP)**, which is a tuple $(\mathcal{S}, \mathcal{A}, P, R, \gamma)$:
+    - $\mathcal{S}$ is the set of **states**.
+    - $\mathcal{A}$ is the set of **actions**.
+    - $P(s'|s, a)$ is the **transition probability** of moving from state $s$ to state $s'$ after taking action $a$.
+    - $R(s, a, s')$ is the immediate **reward** received after transitioning from $s$ to $s'$ due to action $a$.
+    - $\gamma \in [0, 1]$ is the **discount factor**, which trades off the importance of immediate versus future rewards.
+The goal of the agent is to learn a **policy** $\pi(a|s)$, which is a strategy for choosing actions in given states, that maximizes the expected cumulative discounted reward.
 
 - **Description**: Reinforcement learning is one of the three main paradigms of machine learning, alongside supervised and unsupervised learning. It is inspired by behaviorist psychology. The agent learns by trial and error, receiving feedback in the form of rewards or punishments. It is particularly suited for problems that involve sequential decision-making and control.
 

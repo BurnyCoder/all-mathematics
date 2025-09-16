@@ -2,12 +2,12 @@
 
 - **Mathematical Definition**: ZFC is the standard axiomatic system in set theory, forming the most common foundation of modern mathematics. It is a first-order theory whose objects of discourse are sets. ZFC is an abbreviation for Zermelo–Fraenkel set theory combined with the Axiom of Choice. The theory consists of nine or ten axioms (depending on the formulation) that describe the properties of sets. These axioms are:
     1.  **Axiom of Extensionality**: Two sets are equal if they have the same members.
-    2.  **Axiom of Regularity (or Foundation)**: Every non-empty set \\(A\\) contains an element \\(x\\) such that \\(A\\) and \\(x\\) are disjoint sets. This prevents sets from containing themselves and forbids infinite descending membership chains.
-    3.  **Axiom Schema of Specification (or Separation)**: For any set \\(A\\) and any property \\(P\\), there is a subset of \\(A\\) containing precisely those elements \\(x\\) in \\(A\\) that satisfy \\(P\\).
+    2.  **Axiom of Regularity (or Foundation)**: Every non-empty set $A$ contains an element $x$ such that $A$ and $x$ are disjoint sets. This prevents sets from containing themselves and forbids infinite descending membership chains.
+    3.  **Axiom Schema of Specification (or Separation)**: For any set $A$ and any property $P$, there is a subset of $A$ containing precisely those elements $x$ in $A$ that satisfy $P$.
     4.  **Axiom of Pairing**: For any two sets, there exists a set that contains exactly those two sets.
     5.  **Axiom of Union**: For any set of sets, there exists a set containing all the elements that are in at least one of the sets in the original set.
-    6.  **Axiom Schema of Replacement**: For any set \\(A\\) and any function \\(f\\), the image of \\(A\\) under \\(f\\) is also a set.
-    7.  **Axiom of Infinity**: There exists a set \\(X\\) such that \\(\emptyset\\) is in \\(X\\) and whenever \\(y\\) is in \\(X\\), so is \\(y \cup \{y\}\). This asserts the existence of at least one infinite set.
+    6.  **Axiom Schema of Replacement**: For any set $A$ and any function $f$, the image of $A$ under $f$ is also a set.
+    7.  **Axiom of Infinity**: There exists a set $X$ such that $\emptyset$ is in $X$ and whenever $y$ is in $X$, so is $y \cup \{y\}$. This asserts the existence of at least one infinite set.
     8.  **Axiom of Power Set**: For any set, its power set (the set of all its subsets) exists.
     9.  **Axiom of Choice**: For any collection of non-empty sets, it is possible to make a selection of exactly one element from each set.
 

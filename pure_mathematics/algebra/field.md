@@ -1,9 +1,9 @@
 # Field
 
-- **Mathematical Definition**: A field is a set \\(F\\) together with two binary operations, addition (\\(+\\)) and multiplication (\\(\cdot\\)), such that:
-    1.  \\((F, +)\\) is an **abelian group**, with the additive identity element denoted by \\(0\\).
-    2.  \\((F \setminus \{0\}, \cdot)\\) is an **abelian group**, with the multiplicative identity element denoted by \\(1\\).
-    3.  **Distributivity**: Multiplication distributes over addition. For all \\(a, b, c \in F\\), \\(a \cdot (b+c) = (a \cdot b) + (a \cdot c)\\).
+- **Mathematical Definition**: A field is a set $F$ together with two binary operations, addition ($+$) and multiplication ($\cdot$), such that:
+    1.  $(F, +)$ is an **abelian group**, with the additive identity element denoted by $0$.
+    2.  $(F \setminus \{0\}, \cdot)$ is an **abelian group**, with the multiplicative identity element denoted by $1$.
+    3.  **Distributivity**: Multiplication distributes over addition. For all $a, b, c \in F$, $a \cdot (b+c) = (a \cdot b) + (a \cdot c)$.
 
 - **Description**: A field is a fundamental algebraic structure that is a commutative ring with unity in which every non-zero element has a multiplicative inverse. Fields are the context in which the standard arithmetic operations (addition, subtraction, multiplication, and division) are well-behaved. They are of central importance in algebra and many other areas of mathematics.
 
@@ -26,10 +26,10 @@
 
 - **More Concrete Variants**:
     - **Finite Field (or Galois Field)**: A field with a finite number of elements.
-    - **Rational Numbers (\\(\mathbb{Q}\\))**
-    - **Real Numbers (\\(\mathbb{R}\\))**
-    - **Complex Numbers (\\(\mathbb{C}\\))**
-    - **Field of p-adic Numbers (\\(\mathbb{Q}_p\\))**
+    - **Rational Numbers ($\mathbb{Q}$)**
+    - **Real Numbers ($\mathbb{R}$)**
+    - **Complex Numbers ($\mathbb{C}$)**
+    - **Field of p-adic Numbers ($\mathbb{Q}_p$)**
 
 - **More General Variants**:
     - **Division Ring (or Skew Field)**: A ring in which every non-zero element has a multiplicative inverse, but multiplication is not necessarily commutative.

@@ -1,8 +1,8 @@
 # Linear Transformation
 
-- **Mathematical Definition**: A linear transformation (or linear map) is a function between two [vector spaces](./vector_space.md) \\(V\\) and \\(W\\) over the same [field](../algebra/field.md) \\(F\\) that preserves the operations of vector addition and scalar multiplication. A function \\(T: V \to W\\) is a linear transformation if for any two vectors \\(\mathbf{u}, \mathbf{v} \in V\\) and any scalar \\(c \in F\\), the following two conditions are satisfied:
-    1.  **Additivity**: \\(T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})\\)
-    2.  **Homogeneity of degree 1**: \\(T(c\mathbf{u}) = cT(\mathbf{u})\\)
+- **Mathematical Definition**: A linear transformation (or linear map) is a function between two [vector spaces](./vector_space.md) $V$ and $W$ over the same [field](../algebra/field.md) $F$ that preserves the operations of vector addition and scalar multiplication. A function $T: V \to W$ is a linear transformation if for any two vectors $\mathbf{u}, \mathbf{v} \in V$ and any scalar $c \in F$, the following two conditions are satisfied:
+    1.  **Additivity**: $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$
+    2.  **Homogeneity of degree 1**: $T(c\mathbf{u}) = cT(\mathbf{u})$
 
 - **Description**: Linear transformations are the most important functions in linear algebra. They represent transformations of space that preserve lines and the origin. Examples include rotations, reflections, scaling, and shearing. In finite-dimensional vector spaces, every linear transformation can be represented by a **matrix**.
 

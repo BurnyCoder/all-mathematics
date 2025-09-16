@@ -1,10 +1,10 @@
 # Topological Space
 
-- **Mathematical Definition**: A topological space is an ordered pair \\((X, \tau)\\), where \\(X\\) is a set and \\(\tau\\) is a collection of subsets of \\(X\\), called **open sets**, satisfying the following axioms:
-    1.  The empty set \\(\emptyset\\) and the entire set \\(X\\) are in \\(\tau\\).
-    2.  The union of any arbitrary collection of sets in \\(\tau\\) is also in \\(\tau\\).
-    3.  The intersection of any finite collection of sets in \\(\tau\\) is also in \\(\tau\\).
-The collection \\(\tau\\) is called a **topology** on \\(X\\). The complements of the open sets are called **closed sets**.
+- **Mathematical Definition**: A topological space is an ordered pair $(X, \tau)$, where $X$ is a set and $\tau$ is a collection of subsets of $X$, called **open sets**, satisfying the following axioms:
+    1.  The empty set $\emptyset$ and the entire set $X$ are in $\tau$.
+    2.  The union of any arbitrary collection of sets in $\tau$ is also in $\tau$.
+    3.  The intersection of any finite collection of sets in $\tau$ is also in $\tau$.
+The collection $\tau$ is called a **topology** on $X$. The complements of the open sets are called **closed sets**.
 
 - **Description**: Topology is the mathematical study of the properties of geometric objects that are preserved under continuous deformations, such as stretching, twisting, crumbling, and bending, but not tearing or gluing. A topological space is the most general setting in which the intuitive concepts of "closeness" and "continuity" can be defined and studied. It abstracts the notion of distance found in metric spaces to a more fundamental notion of open neighborhoods.
 
@@ -29,7 +29,7 @@ The collection \\(\tau\\) is called a **topology** on \\(X\\). The complements o
 
 - **More Concrete Variants**:
     - **Metric Space**: A set with a distance function (a metric). Every metric space induces a topology, making it a topological space.
-    - **Euclidean Space (\\(\mathbb{R}^n\\))**: A primary example of a metric space and thus a topological space.
+    - **Euclidean Space ($\mathbb{R}^n$)**: A primary example of a metric space and thus a topological space.
     - **Discrete Topology**: The topology where every subset is open.
     - **Trivial (Indiscrete) Topology**: The topology containing only the empty set and the entire space.
     - **Manifold**: A topological space that locally resembles Euclidean space.

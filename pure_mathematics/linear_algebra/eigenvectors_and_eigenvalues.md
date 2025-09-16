@@ -1,9 +1,9 @@
 # Eigenvectors and Eigenvalues
 
-- **Mathematical Definition**: Let \\(T: V \to V\\) be a [linear transformation](./linear_transformation.md) on a [vector space](./vector_space.md) \\(V\\). A non-zero vector \\(\mathbf{v} \in V\\) is an **eigenvector** of \\(T\\) if there exists a scalar \\(\lambda\\) such that:
-  \\( T(\mathbf{v}) = \lambda\mathbf{v} \\)
-  The scalar \\(\lambda\\) is called the **eigenvalue** corresponding to the eigenvector \\(\mathbf{v}\\). For a finite-dimensional vector space, \\(T\\) can be represented by a square [matrix](./matrix.md) \\(A\\), and the equation becomes:
-  \\( A\mathbf{v} = \lambda\mathbf{v} \\)
+- **Mathematical Definition**: Let $T: V \to V$ be a [linear transformation](./linear_transformation.md) on a [vector space](./vector_space.md) $V$. A non-zero vector $\mathbf{v} \in V$ is an **eigenvector** of $T$ if there exists a scalar $\lambda$ such that:
+$$ T(\mathbf{v}) = \lambda\mathbf{v} $$
+  The scalar $\lambda$ is called the **eigenvalue** corresponding to the eigenvector $\mathbf{v}$. For a finite-dimensional vector space, $T$ can be represented by a square [matrix](./matrix.md) $A$, and the equation becomes:
+$$ A\mathbf{v} = \lambda\mathbf{v} $$
 
 - **Description**: Eigenvectors are the special vectors of a linear transformation that are not knocked off their span by the transformation; their direction is only stretched or shrunk by a factor, the eigenvalue. Finding the eigenvectors and eigenvalues of a transformation is often a crucial step in understanding its properties. It is like finding the "axes" of the transformation.
 

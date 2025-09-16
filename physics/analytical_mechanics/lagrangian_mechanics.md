@@ -1,11 +1,11 @@
 # Lagrangian Mechanics
 
-- **Mathematical Definition**: Lagrangian mechanics is a reformulation of classical mechanics that is based on the **[principle of stationary action](./principle_of_least_action.md)**. The central object is the **Lagrangian** \\(L\\), which for many systems is defined as the kinetic energy \\(T\\) minus the potential energy \\(V\\):
-  \\( L = T - V \\)
-  The motion of the system between two points in time \\(t_1\\) and \\(t_2\\) is described by the path that makes the **action** integral \\(S\\) stationary (typically, a minimum):
-  \\( S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt \\)
-  where \\(q\\) represents the **generalized coordinates** of the system and \\(\dot{q}\\) their time derivatives. The condition that the action is stationary leads to the **Euler-Lagrange equations**:
-  \\( \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\partial L}{\partial q_j} = 0 \\)
+- **Mathematical Definition**: Lagrangian mechanics is a reformulation of classical mechanics that is based on the **[principle of stationary action](./principle_of_least_action.md)**. The central object is the **Lagrangian** $L$, which for many systems is defined as the kinetic energy $T$ minus the potential energy $V$:
+$$ L = T - V $$
+  The motion of the system between two points in time $t_1$ and $t_2$ is described by the path that makes the **action** integral $S$ stationary (typically, a minimum):
+$$ S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt $$
+  where $q$ represents the **generalized coordinates** of the system and $\dot{q}$ their time derivatives. The condition that the action is stationary leads to the **Euler-Lagrange equations**:
+$$ \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_j} \right) - \frac{\partial L}{\partial q_j} = 0 $$
   This is a set of second-order ordinary differential equations whose solutions are the equations of motion of the system.
 
 - **Description**: Lagrangian mechanics provides a powerful alternative to the Newtonian approach. Instead of dealing with vector forces, it uses scalar quantities (kinetic and potential energy) and a single variational principle. This often simplifies problems, especially those with constraints (like a bead on a wire), because it allows for the use of any convenient set of generalized coordinates.
@@ -16,7 +16,7 @@
     - [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations)
 
 - **Subfields and concepts it includes**:
-    - **Lagrangian**: The core function \\(L = T - V\\).
+    - **Lagrangian**: The core function $L = T - V$.
     - **Action**: The integral of the Lagrangian over time.
     - **[Principle of Stationary Action](./principle_of_least_action.md)**: The physical principle that the action is minimized or maximized.
     - **Generalized Coordinates**: A set of parameters that can describe the configuration of the system.
@@ -28,7 +28,7 @@
     - **Engineering**: Modeling complex constrained mechanical systems.
 
 - **More Concrete Variants**:
-    - **Lagrangian for a single particle**: For a particle in a conservative potential, this is simply \\( L = \frac{1}{2}m\mathbf{v}^2 - V(\mathbf{x}) \\).
+    - **Lagrangian for a single particle**: For a particle in a conservative potential, this is simply $ L = \frac{1}{2}m\mathbf{v}^2 - V(\mathbf{x}) $.
 
 - **More General Variants**:
     - **Hamiltonian Mechanics**: A reformulation of Lagrangian mechanics that is even more central to the development of modern physics, particularly quantum mechanics.

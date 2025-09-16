@@ -1,8 +1,8 @@
 # Differential Equation
 
 - **Mathematical Definition**: A differential equation is an equation that relates an unknown function with its derivatives. In general, a differential equation can be written as:
-  \\( F(x, y, y', y'', \dots, y^{(n)}) = 0 \\)
-  where \\(y = f(x)\\) is the unknown function, and \\(y', y'', \dots\\) are its derivatives. The **order** of the equation is the highest order of derivative that appears. A **solution** to the equation is a function that satisfies the equation in some domain.
+$$ F(x, y, y', y'', \dots, y^{(n)}) = 0 $$
+  where $y = f(x)$ is the unknown function, and $y', y'', \dots$ are its derivatives. The **order** of the equation is the highest order of derivative that appears. A **solution** to the equation is a function that satisfies the equation in some domain.
 
 - **Description**: Differential equations are a fundamental tool used to model and understand systems that are characterized by change. They allow scientists and engineers to describe how a quantity or system evolves over time or space. The study of differential equations consists of the study of their solutions (the set of functions that satisfy each equation), and of the properties of their solutions.
 

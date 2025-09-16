@@ -1,12 +1,12 @@
 # Category
 
-- **Mathematical Definition**: A category \\(\mathcal{C}\\) consists of:
-    1.  A collection of **objects**, denoted \\(\text{ob}(\mathcal{C})\\).
-    2.  A collection of **morphisms** (or arrows), denoted \\(\text{hom}(\mathcal{C})\\). Each morphism \\(f\\) has a source object \\(A\\) and a target object \\(B\\), written \\(f: A \to B\\).
-    3.  For every three objects \\(A, B, C\\), a binary operation called **composition** of morphisms, which takes two morphisms \\(f: A \to B\\) and \\(g: B \to C\\) and produces a morphism \\(g \circ f: A \to C\\).
+- **Mathematical Definition**: A category $\mathcal{C}$ consists of:
+    1.  A collection of **objects**, denoted $\text{ob}(\mathcal{C})$.
+    2.  A collection of **morphisms** (or arrows), denoted $\text{hom}(\mathcal{C})$. Each morphism $f$ has a source object $A$ and a target object $B$, written $f: A \to B$.
+    3.  For every three objects $A, B, C$, a binary operation called **composition** of morphisms, which takes two morphisms $f: A \to B$ and $g: B \to C$ and produces a morphism $g \circ f: A \to C$.
 This composition must satisfy two axioms:
-    - **Associativity**: If \\(f: A \to B\\), \\(g: B \to C\\), and \\(h: C \to D\\), then \\(h \circ (g \circ f) = (h \circ g) \circ f\\).
-    - **Identity**: For every object \\(X\\), there exists an identity morphism \\(\text{id}_X: X \to X\\) such that for any morphism \\(f: A \to X\\) and \\(g: X \to B\\), we have \\(\text{id}_X \circ f = f\\) and \\(g \circ \text{id}_X = g\\).
+    - **Associativity**: If $f: A \to B$, $g: B \to C$, and $h: C \to D$, then $h \circ (g \circ f) = (h \circ g) \circ f$.
+    - **Identity**: For every object $X$, there exists an identity morphism $\text{id}_X: X \to X$ such that for any morphism $f: A \to X$ and $g: X \to B$, we have $\text{id}_X \circ f = f$ and $g \circ \text{id}_X = g$.
 
 - **Description**: Category theory is a highly abstract branch of mathematics that formalizes mathematical structures and their relationships in a unified way. It emphasizes the relationships (morphisms) between objects rather than the internal structure of the objects themselves. It has been described as a "general theory of functions" and provides a powerful alternative language for the foundations of mathematics.
 

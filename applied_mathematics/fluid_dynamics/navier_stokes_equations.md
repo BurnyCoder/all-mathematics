@@ -1,18 +1,18 @@
 # Navier-Stokes Equations
 
 - **Mathematical Definition**: The Navier-Stokes equations are a set of non-linear partial differential equations that describe the motion of viscous fluid substances. The general form of the equations for an incompressible fluid is:
-  \\( \rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f} \\)
+$$ \rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f} $$
   This is a vector equation representing the conservation of momentum. It is often paired with the continuity equation for incompressible flow, representing conservation of mass:
-  \\( \nabla \cdot \mathbf{v} = 0 \\)
+$$ \nabla \cdot \mathbf{v} = 0 $$
   Here:
-    - \\(\mathbf{v}\\) is the fluid velocity vector.
-    - \\(\rho\\) is the fluid density.
-    - \\(p\\) is the pressure.
-    - \\(\mu\\) is the dynamic viscosity.
-    - \\(\mathbf{f}\\) represents external body forces (like gravity).
-    - \\(\nabla\\) is the del operator, representing the gradient and divergence.
+    - $\mathbf{v}$ is the fluid velocity vector.
+    - $\rho$ is the fluid density.
+    - $p$ is the pressure.
+    - $\mu$ is the dynamic viscosity.
+    - $\mathbf{f}$ represents external body forces (like gravity).
+    - $\nabla$ is the del operator, representing the gradient and divergence.
 
-- **Description**: The Navier-Stokes equations are the cornerstone of fluid dynamics. They are essentially Newton's second law of motion applied to a fluid element, accounting for forces including pressure, viscosity, and external influences. The equations are notoriously difficult to solve; their non-linearity (from the \\((\mathbf{v} \cdot \nabla) \mathbf{v}\\) term) leads to the complex and chaotic behavior of turbulence. The existence and smoothness of their solutions is the subject of one of the Clay Mathematics Institute's Millennium Prize Problems.
+- **Description**: The Navier-Stokes equations are the cornerstone of fluid dynamics. They are essentially Newton's second law of motion applied to a fluid element, accounting for forces including pressure, viscosity, and external influences. The equations are notoriously difficult to solve; their non-linearity (from the $(\mathbf{v} \cdot \nabla) \mathbf{v}$ term) leads to the complex and chaotic behavior of turbulence. The existence and smoothness of their solutions is the subject of one of the Clay Mathematics Institute's Millennium Prize Problems.
 
 - **Subfields it's part of**:
     - [Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)

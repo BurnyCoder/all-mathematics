@@ -1,7 +1,7 @@
 # Matrix
 
 - **Mathematical Definition**: A matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. For example, the dimensions of the matrix below are 2 × 3 (read "two by three"), because there are two rows and three columns:
-  \\( \begin{bmatrix} 1 & 9 & -13 \\ 20 & 5 & -6 \end{bmatrix} \\)
+$$ \begin{bmatrix} 1 & 9 & -13 \\ 20 & 5 & -6 \end{bmatrix} $$
   Matrices of the same size can be added or subtracted element by element. The rule for **matrix multiplication**, however, is that two matrices can be multiplied only if the number of columns in the first matrix equals the number of rows in the second matrix.
 
 - **Description**: Matrices are one of the most fundamental tools in linear algebra. They are used to represent and manipulate data in a compact form, solve systems of linear equations, and, most importantly, represent [linear transformations](./linear_transformation.md) between finite-dimensional vector spaces. Many of their properties, such as the determinant and eigenvalues, reveal deep information about the linear transformation they represent.

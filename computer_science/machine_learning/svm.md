@@ -1,8 +1,8 @@
 # Support Vector Machine (SVM)
 
-- **Mathematical Definition**: A support vector machine is a supervised learning model used for classification and regression analysis. For a classification task, an SVM constructs a hyperplane or set of hyperplanes in a high-dimensional space, which can be used for classification. A good separation is achieved by the hyperplane that has the largest distance to the nearest training data point of any class (so-called **functional margin**). This is known as maximizing the margin. For a given training dataset of \\(n\\) points of the form \\((\mathbf{x}_i, y_i)\\), where \\(y_i\\) is either 1 or -1, the SVM finds the maximum-margin hyperplane by solving the optimization problem:
-  \\( \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 \\)
-  subject to \\( y_i(\mathbf{w} \cdot \mathbf{x}_i - b) \ge 1 \\) for all \\(i=1, \dots, n\\).
+- **Mathematical Definition**: A support vector machine is a supervised learning model used for classification and regression analysis. For a classification task, an SVM constructs a hyperplane or set of hyperplanes in a high-dimensional space, which can be used for classification. A good separation is achieved by the hyperplane that has the largest distance to the nearest training data point of any class (so-called **functional margin**). This is known as maximizing the margin. For a given training dataset of $n$ points of the form $(\mathbf{x}_i, y_i)$, where $y_i$ is either 1 or -1, the SVM finds the maximum-margin hyperplane by solving the optimization problem:
+$$ \min_{\mathbf{w}, b} \frac{1}{2} ||\mathbf{w}||^2 $$
+  subject to $ y_i(\mathbf{w} \cdot \mathbf{x}_i - b) \ge 1 $ for all $i=1, \dots, n$.
   The **kernel trick** allows SVMs to perform non-linear classification by implicitly mapping their inputs into high-dimensional feature spaces.
 
 - **Description**: SVMs are a powerful and versatile class of machine learning models. The core idea is to find the "best" boundary that separates different classes of data. The "best" boundary is the one that is as far away as possible from the data points of all classes. The data points that are closest to the boundary are called "support vectors" and are the most critical elements of the dataset.

@@ -1,8 +1,8 @@
 # Manifold
 
-- **Mathematical Definition**: An \\(n\\)-dimensional manifold is a [topological space](../topology/topological_space.md) that is locally homeomorphic to Euclidean \\(n\\)-space (\\(\mathbb{R}^n\\)). This means that for every point on the manifold, there exists a neighborhood around it that is topologically equivalent to an open ball in \\(\mathbb{R}^n\\). A **differentiable manifold** is a manifold equipped with a globally consistent differentiable structure, which allows for the definitions of tangent spaces and calculus.
+- **Mathematical Definition**: An $n$-dimensional manifold is a [topological space](../topology/topological_space.md) that is locally homeomorphic to Euclidean $n$-space ($\mathbb{R}^n$). This means that for every point on the manifold, there exists a neighborhood around it that is topologically equivalent to an open ball in $\mathbb{R}^n$. A **differentiable manifold** is a manifold equipped with a globally consistent differentiable structure, which allows for the definitions of tangent spaces and calculus.
 
-- **Description**: A manifold is a space that "looks like" Euclidean space on a small scale, but may have a more complicated global structure. For example, the surface of the Earth is a 2-dimensional manifold; locally it looks like a flat plane (a piece of \\(\mathbb{R}^2\\)), but globally it is a sphere. Manifolds are the central objects of study in differential geometry and provide the mathematical framework for describing curved spaces.
+- **Description**: A manifold is a space that "looks like" Euclidean space on a small scale, but may have a more complicated global structure. For example, the surface of the Earth is a 2-dimensional manifold; locally it looks like a flat plane (a piece of $\mathbb{R}^2$), but globally it is a sphere. Manifolds are the central objects of study in differential geometry and provide the mathematical framework for describing curved spaces.
 
 - **Subfields it's part of**:
     - [Differential Geometry](https://en.wikipedia.org/wiki/Differential_geometry)
@@ -23,7 +23,7 @@
     - **Data Analysis**: Manifold learning is a technique in machine learning that assumes high-dimensional data lies on a lower-dimensional manifold.
 
 - **More Concrete Variants**:
-    - **Sphere (\\(S^n\\))**: The n-dimensional surface of a ball in \\((n+1)\\)-dimensional space.
+    - **Sphere ($S^n$)**: The n-dimensional surface of a ball in $(n+1)$-dimensional space.
     - **Torus**: A donut-shaped surface.
     - **Lie Group**: A group that is also a differentiable manifold.
 

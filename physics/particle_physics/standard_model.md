@@ -1,6 +1,6 @@
 # The Standard Model of Particle Physics
 
-- **Mathematical Definition**: The Standard Model is a quantum field theory whose dynamics are encoded in a **Lagrangian density** \\(\mathcal{L}\\). This Lagrangian is constructed to be invariant under the local gauge transformations of the symmetry group **\\(SU(3)_C \times SU(2)_L \times U(1)_Y\\)**. The theory describes:
+- **Mathematical Definition**: The Standard Model is a quantum field theory whose dynamics are encoded in a **Lagrangian density** $\mathcal{L}$. This Lagrangian is constructed to be invariant under the local gauge transformations of the symmetry group **$SU(3)_C \times SU(2)_L \times U(1)_Y$**. The theory describes:
     - **Fermions** (matter particles): Quarks and leptons, which are represented by spinor fields.
     - **Gauge Bosons** (force carriers): Gluons, W and Z bosons, and photons, which are represented by vector fields that arise from the gauge symmetry.
     - **The Higgs Boson**: A scalar field whose self-interaction and coupling to other particles (via the Higgs mechanism) gives them mass.
@@ -18,8 +18,8 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
     - **Fundamental Forces**: The strong, weak, and electromagnetic forces.
     - **Gauge Theory**: The mathematical framework describing the forces.
     - **Higgs Mechanism**: The process by which elementary particles acquire mass.
-    - **Quantum Chromodynamics (QCD)**: The theory of the strong interaction (governed by \\(SU(3)_C\\)).
-    - **Electroweak Theory**: The unified theory of the electromagnetic and weak interactions (governed by \\(SU(2)_L \times U(1)_Y\\)).
+    - **Quantum Chromodynamics (QCD)**: The theory of the strong interaction (governed by $SU(3)_C$).
+    - **Electroweak Theory**: The unified theory of the electromagnetic and weak interactions (governed by $SU(2)_L \times U(1)_Y$).
 
 - **Applications**:
     - **Particle Accelerators**: The theory is used to predict and interpret the results of experiments at facilities like the Large Hadron Collider (LHC).

@@ -2,8 +2,8 @@
 
 - **Mathematical Definition**: A topos (plural: topoi or toposes) is a type of [category](../category_theory/category.md) that behaves like the category of sheaves of sets on a topological space. More abstractly, an elementary topos is a category that has finite limits, is cartesian closed, and has a subobject classifier.
     1.  **Finite Limits**: The category has a terminal object and pullbacks.
-    2.  **Cartesian Closed**: For any two objects \\(A\\) and \\(B\\), there is an "exponential object" \\(B^A\\), which behaves like the set of all morphisms from \\(A\\) to \\(B\\).
-    3.  **Subobject Classifier**: There is an object \\(\Omega\\) (the "truth-value object") and a morphism \\(\text{true}: 1 \to \Omega\\) from the terminal object, such that for any monomorphism (subobject) \\(i: U \to A\\), there is a unique characteristic morphism \\(\chi_i: A \to \Omega\\) making a certain diagram a pullback.
+    2.  **Cartesian Closed**: For any two objects $A$ and $B$, there is an "exponential object" $B^A$, which behaves like the set of all morphisms from $A$ to $B$.
+    3.  **Subobject Classifier**: There is an object $\Omega$ (the "truth-value object") and a morphism $\text{true}: 1 \to \Omega$ from the terminal object, such that for any monomorphism (subobject) $i: U \to A$, there is a unique characteristic morphism $\chi_i: A \to \Omega$ making a certain diagram a pullback.
 
 - **Description**: Topos theory is a highly abstract field that unifies mathematical logic and geometry/topology. A topos can be thought of as a generalized "universe" of mathematical discourse. The category of sets is a topos, but many other categories are as well, such as the category of sheaves on a topological space. The internal logic of a topos is not necessarily classical logic; in general, it is intuitionistic logic. This means that a topos provides a framework for studying alternative mathematical realities where, for example, the law of the excluded middle might not hold.
 
@@ -29,7 +29,7 @@
     - **Category of Sheaves**: The category of sheaves of sets on a topological space.
 
 - **More General Variants**:
-    - **Higher Topos Theory**: The study of \\((\infty, 1)\\)-toposes, which are a generalization of toposes to higher category theory.
+    - **Higher Topos Theory**: The study of $(\infty, 1)$-toposes, which are a generalization of toposes to higher category theory.
 
 - **Related Concepts**:
     - **[Category Theory](../category_theory/category.md)**: Topos theory is a branch of category theory.

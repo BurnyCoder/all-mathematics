@@ -1,8 +1,8 @@
 # Artificial Neural Network
 
-- **Mathematical Definition**: An artificial neural network (ANN) is a computational model inspired by the structure and function of biological neural networks. Mathematically, it is a network of interconnected nodes, called neurons, organized in layers. A common type, the feedforward neural network, can be represented as a composition of functions. For a single neuron, the output \\(y\\) is typically calculated as:
-  \\( y = \phi(\sum_{i=1}^{n} w_i x_i + b) \\)
-  where \\(\mathbf{x} = (x_1, \dots, x_n)\\) is the input vector, \\(\mathbf{w} = (w_1, \dots, w_n)\\) is the vector of weights, \\(b\\) is the bias, and \\(\phi\\) is a non-linear **activation function** (e.g., sigmoid, ReLU). A multi-layered network composes these functions layer by layer. The network "learns" by adjusting the weights \\(\mathbf{w}\\) and biases \\(b\\) through an optimization process, such as **gradient descent**, to minimize a **loss function**.
+- **Mathematical Definition**: An artificial neural network (ANN) is a computational model inspired by the structure and function of biological neural networks. Mathematically, it is a network of interconnected nodes, called neurons, organized in layers. A common type, the feedforward neural network, can be represented as a composition of functions. For a single neuron, the output $y$ is typically calculated as:
+$$ y = \phi(\sum_{i=1}^{n} w_i x_i + b) $$
+  where $\mathbf{x} = (x_1, \dots, x_n)$ is the input vector, $\mathbf{w} = (w_1, \dots, w_n)$ is the vector of weights, $b$ is the bias, and $\phi$ is a non-linear **activation function** (e.g., sigmoid, ReLU). A multi-layered network composes these functions layer by layer. The network "learns" by adjusting the weights $\mathbf{w}$ and biases $b$ through an optimization process, such as **gradient descent**, to minimize a **loss function**.
 
 - **Description**: Artificial neural networks are a cornerstone of modern machine learning and artificial intelligence. They are powerful tools for finding complex patterns in data. By adjusting their internal parameters (weights), they can learn to approximate complex, non-linear functions and perform tasks like classification, regression, and generation. Deep learning refers to ANNs with many layers (deep architectures).
 
