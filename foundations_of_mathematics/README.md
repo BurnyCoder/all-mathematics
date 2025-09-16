@@ -21,3 +21,9 @@ The foundations of mathematics is the study of the basic mathematical concepts, 
 
 ### [Model Theory](./model_theory/)
 - [Structure](./model_theory/structure.md)
+
+### [Type Theory](./type_theory/)
+- [Type Theory](./type_theory/type_theory.md)
+
+### [Topos Theory](./topos_theory/)
+- [Topos](./topos_theory/topos.md)

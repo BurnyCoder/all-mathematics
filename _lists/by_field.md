@@ -22,6 +22,12 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Model Theory
 - [Structure](../foundations_of_mathematics/model_theory/structure.md)
 
+### Type Theory
+- [Type Theory](../foundations_of_mathematics/type_theory/type_theory.md)
+
+### Topos Theory
+- [Topos](../foundations_of_mathematics/topos_theory/topos.md)
+
 ## Pure Mathematics
 
 ### Algebra
@@ -66,6 +72,9 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Random Variable](../applied_mathematics/probability_theory/random_variable.md)
 - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md)
 
+### Statistics
+- [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
+
 ### Fluid Dynamics
 - [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
 
@@ -77,6 +86,10 @@ This file provides a centralized list of all concepts in the knowledge base, org
 ### Machine Learning
 - [Artificial Neural Network](../computer_science/machine_learning/artificial_neural_network.md)
 - [Gradient Descent](../computer_science/machine_learning/gradient_descent.md)
+- [Support Vector Machine](../computer_science/machine_learning/svm.md)
+
+### Artificial Intelligence
+- [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)
 
 ### Information Theory
 - [Shannon Entropy](../computer_science/information_theory/entropy.md)
