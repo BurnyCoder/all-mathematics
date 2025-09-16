@@ -39,4 +39,4 @@ The full Standard Model Lagrangian is a complex expression that contains terms f
     - **[Special Relativity](../special_relativity/special_relativity.md)**: The theory is a relativistic quantum field theory, consistent with special relativity.
     - **[General Relativity](../general_relativity/einstein_field_equations.md)**: The Standard Model does not include gravity, and unifying it with general relativity is a major unsolved problem in physics.
 
-- **Wikipedia**: [https://en.wikipedia.org/wiki/Standard_Model](https://en.wikipedia.org/wiki/Standard_Model)
+- **Wikipedia**: [https://en.wikipedia.org/wiki/Standard_Model](https://en.wikipedia.org/wiki/Standard_Model), [https://en.wikipedia.org/wiki/Mathematical_formulation_of_the_Standard_Model](https://en.wikipedia.org/wiki/Mathematical_formulation_of_the_Standard_Model)
