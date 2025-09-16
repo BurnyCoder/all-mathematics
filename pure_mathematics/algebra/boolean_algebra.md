@@ -1,6 +1,6 @@
 # Boolean Algebra
 
-- **Mathematical Definition**: A Boolean algebra is an algebraic structure that captures the essential properties of logical operations AND, OR, and NOT, as well as set operations intersection, union, and complement. Formally, a Boolean algebra is a complemented distributive lattice. It is a set $A$ equipped with two binary operations $\land$ (meet/AND) and $\lor$ (join/OR), a unary operation $\neg$ (complement/NOT), and two elements $0$ (bottom/false) and $1$ (top/true), such that for all $a, b, c$ in $A$, the following axioms hold: associativity, commutativity, absorption, distributivity, and complementarity.
+- **Mathematical Definition**: A Boolean algebra is an algebraic structure that captures the essential properties of logical operations AND, OR, and NOT, as well as set operations intersection, union, and complement. Formally, a Boolean algebra is a complemented distributive [lattice](./lattice.md). It is a set $A$ equipped with two binary operations $\land$ (meet/AND) and $\lor$ (join/OR), a unary operation $\neg$ (complement/NOT), and two elements $0$ (bottom/false) and $1$ (top/true), such that for all $a, b, c$ in $A$, the following axioms hold: associativity, commutativity, absorption, distributivity, and complementarity.
 
 - **Description**: Boolean algebra is fundamental to computer science, digital logic, and set theory. It provides a way to formalize and reason about logical and set-theoretic operations. It is named after George Boole, who first introduced the system in the mid-19th century.
 

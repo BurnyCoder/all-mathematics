@@ -35,9 +35,9 @@
     - **Lie Group**: A group that is also a differentiable manifold, with smooth group operations.
 
 - **More General Variants**:
-    - **Monoid**: A set with an associative binary operation and an identity element (drops the inverse axiom).
-    - **Semigroup**: A set with an associative binary operation (drops identity and inverse axioms).
-    - **Magma (or Groupoid)**: A set with a closed binary operation (drops associativity, identity, and inverse).
+    - **[Monoid](./monoid.md)**: A set with an associative binary operation and an identity element (drops the inverse axiom).
+    - **[Semigroup](./semigroup.md)**: A set with an associative binary operation (drops identity and inverse axioms).
+    - **[Magma (or Groupoid)](./magma.md)**: A set with a closed binary operation (drops associativity, identity, and inverse).
     - **[Ring](./ring.md)**: A set with two binary operations (addition and multiplication) that has a group structure for addition.
     - **[Field](./field.md)**: A ring where the non-zero elements form a group under multiplication.
 

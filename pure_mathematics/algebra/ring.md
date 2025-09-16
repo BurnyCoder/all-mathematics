@@ -7,7 +7,7 @@
         - **Identity element of addition**: There exists an element $0 \in R$ such that $a+0 = a$ for all $a \in R$.
         - **Inverse element of addition**: For each $a \in R$, there exists $-a \in R$ such that $a+(-a) = 0$.
         - **Commutativity of addition**: $a+b = b+a$.
-    2.  $(R, \cdot)$ is a **monoid** (in many definitions, though some authors only require a semigroup):
+    2.  $(R, \cdot)$ is a **[monoid](./monoid.md)** (in many definitions, though some authors only require a [semigroup](./semigroup.md)):
         - **Closure under multiplication**: For all $a, b \in R$, $a \cdot b \in R$.
         - **Associativity of multiplication**: $(a \cdot b) \cdot c = a \cdot (b \cdot c)$.
     3.  **Distributivity**: Multiplication distributes over addition. For all $a, b, c \in R$:
