@@ -9,3 +9,8 @@ Applied mathematics is a branch of mathematics that concerns itself with mathema
 
 ### [Probability Theory](./probability_theory/)
 - [Probability Space](./probability_theory/probability_space.md)
+- [Random Variable](./probability_theory/random_variable.md)
+- [Bayes' Theorem](./probability_theory/bayes_theorem.md)
+
+### [Fluid Dynamics](./fluid_dynamics/)
+- [Navier-Stokes Equations](./fluid_dynamics/navier_stokes_equations.md)

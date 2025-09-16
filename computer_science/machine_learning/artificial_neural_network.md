@@ -36,9 +36,9 @@
     - **Probabilistic Graphical Models**: A broader class of models for representing and reasoning about uncertainty, of which some neural networks can be seen as a specific type.
 
 - **Related Concepts**:
-    - **[Vector Space](../../pure_mathematics/algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
+    - **[Vector Space](../../pure_mathematics/linear_algebra/vector_space.md)**: Input data (e.g., images, text) is represented as vectors.
     - **[Calculus](../../pure_mathematics/analysis/calculus.md)**: The chain rule is the foundation of the backpropagation algorithm.
     - **[Optimization](../optimization/optimization.md)**: The process of training a neural network is an optimization problem.
-    - **[Linear Algebra](../../pure_mathematics/algebra/linear_algebra.md)**: Operations within a neural network are primarily matrix and vector manipulations.
+    - **[Linear Algebra](../../pure_mathematics/linear_algebra/)**: Operations within a neural network are primarily matrix and vector manipulations.
 
 - **Wikipedia**: [https://en.wikipedia.org/wiki/Artificial_neural_network](https://en.wikipedia.org/wiki/Artificial_neural_network)

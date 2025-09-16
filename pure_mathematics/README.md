@@ -8,7 +8,12 @@ Pure mathematics is the study of mathematical concepts independently of any appl
 - [Group](./algebra/group.md)
 - [Ring](./algebra/ring.md)
 - [Field](./algebra/field.md)
-- [Vector Space](./algebra/vector_space.md)
+
+### [Linear Algebra](./linear_algebra/)
+- [Vector Space](./linear_algebra/vector_space.md)
+- [Linear Transformation](./linear_algebra/linear_transformation.md)
+- [Matrix](./linear_algebra/matrix.md)
+- [Eigenvectors and Eigenvalues](./linear_algebra/eigenvectors_and_eigenvalues.md)
 
 ### [Topology](./topology/)
 - [Topological Space](./topology/topological_space.md)
@@ -23,3 +28,10 @@ Pure mathematics is the study of mathematical concepts independently of any appl
 
 ### [Number Theory](./number_theory/)
 - [Fundamental Theorem of Arithmetic](./number_theory/fundamental_theorem_of_arithmetic.md)
+
+### [Geometry](./geometry/)
+- [Manifold](./geometry/manifold.md)
+
+### [Discrete Mathematics](./discrete_mathematics/)
+- [Graph (Graph Theory)](./discrete_mathematics/graph_theory/graph.md)
+- [Combinations and Permutations (Combinatorics)](./discrete_mathematics/combinatorics/combinations_and_permutations.md)

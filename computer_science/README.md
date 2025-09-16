@@ -9,3 +9,7 @@ Computer science is the study of computation, information, and automation. It ha
 
 ### [Machine Learning](./machine_learning/)
 - [Artificial Neural Network](./machine_learning/artificial_neural_network.md)
+- [Gradient Descent](./machine_learning/gradient_descent.md)
+
+### [Information Theory](./information_theory/)
+- [Shannon Entropy](./information_theory/entropy.md)

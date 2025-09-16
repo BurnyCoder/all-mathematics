@@ -1,6 +1,6 @@
 # Lagrangian Mechanics
 
-- **Mathematical Definition**: Lagrangian mechanics is a reformulation of classical mechanics that is based on the **principle of stationary action**. The central object is the **Lagrangian** \\(L\\), which for many systems is defined as the kinetic energy \\(T\\) minus the potential energy \\(V\\):
+- **Mathematical Definition**: Lagrangian mechanics is a reformulation of classical mechanics that is based on the **[principle of stationary action](./principle_of_least_action.md)**. The central object is the **Lagrangian** \\(L\\), which for many systems is defined as the kinetic energy \\(T\\) minus the potential energy \\(V\\):
   \\( L = T - V \\)
   The motion of the system between two points in time \\(t_1\\) and \\(t_2\\) is described by the path that makes the **action** integral \\(S\\) stationary (typically, a minimum):
   \\( S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \,dt \\)
@@ -18,7 +18,7 @@
 - **Subfields and concepts it includes**:
     - **Lagrangian**: The core function \\(L = T - V\\).
     - **Action**: The integral of the Lagrangian over time.
-    - **Principle of Stationary Action**: The physical principle that the action is minimized or maximized.
+    - **[Principle of Stationary Action](./principle_of_least_action.md)**: The physical principle that the action is minimized or maximized.
     - **Generalized Coordinates**: A set of parameters that can describe the configuration of the system.
     - **Euler-Lagrange Equations**: The equations of motion derived from the principle of stationary action.
 

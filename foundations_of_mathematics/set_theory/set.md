@@ -2,7 +2,7 @@
 
 - **Mathematical Definition**: A set is a collection of distinct objects, considered as an object in its own right. Sets are usually denoted by curly braces, e.g., \\( A = \\{1, 2, 3\\} \\). The fundamental relation is membership, \\( x \in A \\), which means \\(x\\) is an element of set \\(A\\). The axiom of extensionality states that two sets are equal if and only if they have the same elements.
 
-- **Description**: The concept of a set is one of the most fundamental in modern mathematics. The study of sets is known as set theory. Naive set theory, which treats sets as any collection of objects, can lead to paradoxes such as [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox). This led to the development of axiomatic set theory, such as [Zermelo–Fraenkel set theory with the axiom of choice (ZFC)](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory), which provides a more rigorous foundation.
+- **Description**: The concept of a set is one of the most fundamental in modern mathematics. The study of sets is known as set theory. Naive set theory, which treats sets as any collection of objects, can lead to paradoxes such as [Russell's Paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox). This led to the development of axiomatic set theory, such as [Zermelo–Fraenkel set theory with the axiom of choice (ZFC)](./zfc.md), which provides a more rigorous foundation.
 
 - **Subfields it's part of**:
     - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
