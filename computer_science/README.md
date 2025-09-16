@@ -8,9 +8,10 @@ Computer science is the study of computation, information, and automation. It ha
 - [Algorithm](./algorithms_and_data_structures/algorithm.md)
 
 ### [Machine Learning](./machine_learning/)
-- [Artificial Neural Network](./machine_learning/artificial_neural_network.md)
+- [Artificial Neural Network](./machine_learning/deep_learning/artificial_neural_network.md)
 - [Gradient Descent](./machine_learning/gradient_descent.md)
 - [Support Vector Machine](./machine_learning/svm.md)
+- [Universal Approximation Theorem](./machine_learning/deep_learning/universal_approximation_theorem.md)
 
 ### [Artificial Intelligence](./artificial_intelligence/)
 - [Reinforcement Learning](./artificial_intelligence/reinforcement_learning.md)

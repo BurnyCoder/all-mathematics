@@ -57,6 +57,7 @@ The essential building blocks and results used throughout science and engineerin
     - [Probability Space](../applied_mathematics/probability_theory/probability_space.md)
     - [Random Variable](../applied_mathematics/probability_theory/random_variable.md)
     - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md)
+    - [Correlation](../applied_mathematics/statistics/correlation.md)
 - **Number Theory**:
     - [Fundamental Theorem of Arithmetic](../pure_mathematics/number_theory/fundamental_theorem_of_arithmetic.md)
 
@@ -77,7 +78,7 @@ Concrete, high-level theories and models that describe specific phenomena or sol
     - [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
 - **Applied Mathematics & Statistics**:
     - [Differential Equation](../applied_mathematics/differential_equations/differential_equation.md)
-    - [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
+
 - **Computer Science & Machine Learning**:
     - [Information Theory (Entropy)](../computer_science/information_theory/entropy.md)
     - [Gradient Descent](../computer_science/machine_learning/gradient_descent.md)
@@ -86,3 +87,4 @@ Concrete, high-level theories and models that describe specific phenomena or sol
     - [Transformer](../computer_science/machine_learning/transformer.md)
     - [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md)
     - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)
+    - [Regression Analysis](../computer_science/machine_learning/regression_analysis.md)

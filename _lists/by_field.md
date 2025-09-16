@@ -73,7 +73,7 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md)
 
 ### Statistics
-- [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
+- [Correlation](../applied_mathematics/statistics/correlation.md)
 
 ### Fluid Dynamics
 - [Navier-Stokes Equations](../applied_mathematics/fluid_dynamics/navier_stokes_equations.md)
@@ -94,6 +94,7 @@ This file provides a centralized list of all concepts in the knowledge base, org
 - [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md)
 - [Support Vector Machine](../computer_science/machine_learning/svm.md)
 - [Transformer](../computer_science/machine_learning/transformer.md)
+- [Regression Analysis](../computer_science/machine_learning/regression_analysis.md)
 
 ### Artificial Intelligence
 - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)

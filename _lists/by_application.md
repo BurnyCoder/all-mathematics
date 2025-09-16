@@ -49,10 +49,11 @@ This list organizes concepts by their primary fields of application.
 - [Eigenvectors and Eigenvalues](../pure_mathematics/linear_algebra/eigenvectors_and_eigenvalues.md) (Principal Component Analysis)
 - [Support Vector Machine (SVM)](../computer_science/machine_learning/svm.md)
 - [Neural Tangent Kernel](../computer_science/machine_learning/neural_tangent_kernel.md) (Deep Learning Theory)
-- [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
+- [Regression Analysis](../computer_science/machine_learning/regression_analysis.md)
 - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md) (Bayesian Inference, Classifiers)
 - [Reinforcement Learning](../computer_science/artificial_intelligence/reinforcement_learning.md)
 - [Manifold](../pure_mathematics/geometry/manifold.md) (Manifold Learning)
+- [Correlation](../applied_mathematics/statistics/correlation.md) (Feature Selection)
 
 ## Engineering
 
@@ -67,7 +68,7 @@ This list organizes concepts by their primary fields of application.
 - [Derivative](../pure_mathematics/analysis/derivative.md) (Marginal Cost/Revenue)
 - [Limit](../pure_mathematics/analysis/limit.md) (Marginal Analysis)
 - [Differential Equation](../applied_mathematics/differential_equations/differential_equation.md) (Financial Modeling)
-- [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md) (Econometrics)
+- [Correlation](../applied_mathematics/statistics/correlation.md) (Portfolio Management)
 
 ## Cryptography
 
@@ -90,6 +91,6 @@ This list organizes concepts by their primary fields of application.
 - [Probability Space](../applied_mathematics/probability_theory/probability_space.md)
 - [Random Variable](../applied_mathematics/probability_theory/random_variable.md)
 - [Bayes' Theorem](../applied_mathematics/probability_theory/bayes_theorem.md)
-- [Regression Analysis](../applied_mathematics/statistics/regression_analysis.md)
 - [Topological Space](../pure_mathematics/topology/topological_space.md) (Topological Data Analysis)
 - [Matrix](../pure_mathematics/linear_algebra/matrix.md) (Covariance Matrices)
+- [Correlation](../applied_mathematics/statistics/correlation.md) (Exploratory Data Analysis)
